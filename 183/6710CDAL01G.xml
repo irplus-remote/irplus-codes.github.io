@@ -1,0 +1,72 @@
+<irplus>
+    <device manufacturer="LG" model="6710CDAL01G" columns="12" format="WINLIRC_NECx1">
+
+        <button label="POWER" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x7887</button>
+        <button label="MUTE" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0xF807</button>
+        <button label="OPEN-CLOSE" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x59A6</button>
+        
+        <button label="CD-DVD" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0xC03F</button>
+        <button label="BAND" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x9A65</button>
+        <button label="AUX" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x906F</button>
+        
+        <button label="1" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x827D</button>
+        <button label="2" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x42BD</button>
+        <button label="3" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0xC23D</button>
+        <button label="4" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x22DD</button>
+        <button label="5" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0xA25D</button>
+        <button label="6" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x629D</button>
+        <button label="7" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0xE21D</button>
+        <button label="8" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x12ED</button>
+        <button label="9" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x926D</button>
+
+        <button label="SLEEP" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x43BC</button>
+        <button label="0" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0xD22D</button>
+        <button label="AUDIO" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x05FA</button>
+        
+        <button label="SOUND" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x857A</button>
+        <button label="S-TITLE" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0xD52A</button>
+        <button label="RETURN" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x45BA</button>
+        
+        <button label="SETUP" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0xA55A</button>
+        <button label="DISPLAY" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0xC53A</button>
+        <button label="MENU" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0x25DA</button>
+        <button label="TITLE" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0xF50A</button>
+
+        <button label="PLUS" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0xC837</button>
+        <button label="↑" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0xE51A</button>
+        <button label="VOLUME+" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0xE817</button>
+
+        <button label="←" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x15EA</button>
+        <button label="ENTER" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x55AA</button>
+        <button label="→" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x956A</button>
+
+        <button label="MINUS" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x48B7</button>
+        <button label="↓" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x659A</button>
+        <button label="VOLUME-" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x6897</button>
+       
+        <button label="&#xf04a;" alt="REW" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0x8D72</button>
+        <button label="&#xf04e;" alt="FWD" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0x4DB2</button>
+        <button label="&#xf049;" alt="PREV" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0x609F</button>
+        <button label="&#xf050;" alt="NEXT" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0xE01F</button>
+        
+        <button label="&#xf04d;" alt="STOP" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0xA05F</button>
+        <button label="&#xf04c;" alt="PAUSE" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0xF20D</button>
+        <button label="&#xf04b;" alt="PLAY" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x3434 0x20DF</button>
+         
+        <button label="PROGRAM" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0xB24D</button>
+        <button label="CLEAR" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0x0DF2</button>
+        <button label="REPEAT" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0x728D</button>
+        <button label="REPEATA-B" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0xB54A</button>
+        
+        <button label="MARKER" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0x2DD2</button>
+        <button label="SEARCH" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0xCD32</button>
+        <button label="ANGLE" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0x35CA</button>
+        <button label="ZOOM" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0x758A</button>
+        
+        <button label="RDS" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0x06F9</button>
+        <button label="PTY" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0x8E71</button>
+        <button label="PTY-SEARCH" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0x9C63</button>
+        <button label="DIMMER" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x3434 0x7A85</button>
+
+    </device>
+</irplus>

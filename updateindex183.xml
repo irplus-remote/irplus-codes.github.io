@@ -1,4 +1,5 @@
 <irplus-device-updates>
 	<device manufacturer="TELESYSTEM" model="TS6284" />
     <device manufacturer="TELESYSTEM" model="TS3002" />
+    <device manufacturer="LG" model="6710CDAL01G" />
 </irplus-device-updates>
