@@ -1,6 +1,7 @@
 <irplus-device-updates>
 	<device manufacturer="TELESYSTEM" model="TS6284" />
     <device manufacturer="TELESYSTEM" model="TS3002" />
+    <device manufacturer="TELESYSTEM" model="X 9.1" />
     <device manufacturer="LG" model="6710CDAL01G" />
     <device manufacturer="GE APPLIANCES" model="Air Conditioner" />
 </irplus-device-updates>
