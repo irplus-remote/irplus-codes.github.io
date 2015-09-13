@@ -1,0 +1,23 @@
+<irplus>
+    <device manufacturer="GE APPLIANCES" model="Air Conditioner" columns="12" format="WINLIRC_SPACEENC"
+
+        bits="24" pre-bits="24" gap-pulse="428" gap-space="40991" one-pulse="430" one-space="1257" zero-pulse="430" zero-space="412" header-pulse="3388" header-space="1678">
+
+        <button label="ON/STOP" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x555AF3 0x08598F</button>
+        <button label="SLEEP" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x555AF3 0x085583</button>
+
+        <button label="COOL" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x555AF3 0x081D8F</button>
+        <button label="FAN" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x555AF3 0x085D8B</button>
+
+        <button label="TEMP+" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x555AF3 0x08D987</button>
+        <button label="TEMP-" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x555AF3 0x08198B</button>
+
+        <button label="TIMER ON" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x555AF3 0x08D58B</button>
+        <button label="TIMER OFF" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x555AF3 0x08958F</button>
+
+        <button label="HI" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x555AF3 0x08DD83</button>
+        <button label="MID" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x555AF3 0x083D8D</button>
+        <button label="LOW" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x555AF3 0x08BD85</button>
+    
+    </device>
+</irplus>
