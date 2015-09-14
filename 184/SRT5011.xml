@@ -1,0 +1,58 @@
+<irplus>
+    <device manufacturer="STRONG" model="SRT5011" columns="12" format="WINLIRC_SPACEENC" bits="11" repeat="2" rowSplit="7"
+        pre-bits="11" toggle-bit-pos="0" gap-pulse="158" gap-space="120461" one-pulse="154" one-space="7509" zero-pulse="154" zero-space="4996">
+
+        <button label="MUTE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF1E7854" span="6">0x758</button>
+        <button label="&#xf011;" alt="POWER" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FFC84334" span="6">0x55E</button>
+
+        <button label="PAUSE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x560</button>
+        <button label="AV" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x766</button>
+        <button label="P+" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x75A</button>
+
+        <button label="AUDIO" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x576</button>
+        <button label="EDIT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x55B</button>
+        <button label="P-" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x55F</button>
+
+        <button label="MENU" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x767</button>
+        <button label="INFO" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x754</button>
+        <button label="EXIT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x570</button>
+
+        <space multiple="4"></space>
+        <button label="↑" alt="UP" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x768</button>
+        <space multiple="4"></space>
+
+        <button label="VOL-" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x571</button>
+        <button label="OK" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x769</button>
+        <button label="VOL+" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x761</button>
+
+        <space multiple="4"></space>
+        <button label="↓" alt="DOWN" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x56A</button>
+        <space multiple="4"></space>
+
+        <button label="RED" labelColor="FFC84334" labelSize="12.0" backgroundColor="FFC84334" span="3">0x759</button>
+        <button label="TEXT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF1E7854" span="3">0x772</button>
+        <button label="SUB" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FFD6A81F" span="3">0x562</button>
+        <button label="RCL" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF2A4C94" span="3">0x577</button>
+
+        <button label="FAV" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x755</button>
+        <button label="TVR" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x56E</button>
+        <button label="EPG" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x56F</button>
+
+        <button label="1" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x775</button>
+        <button label="2" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x76D</button>
+        <button label="3" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x756</button>
+
+        <button label="4" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x55D</button>
+        <button label="5" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x77C</button>
+        <button label="6" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x56C</button>
+
+        <button label="7" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x764</button>
+        <button label="8" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x77C</button>
+        <button label="9" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x773</button>
+
+        <button label="TEXT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x763</button>
+        <button label="0" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x76B</button>
+        <button label="SUB" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x556</button>
+    </device>
+</irplus>
+

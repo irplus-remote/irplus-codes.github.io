@@ -1,4 +1,5 @@
 <irplus-device-updates>
+    <device manufacturer="DYON" model="Cobra" />
     <device manufacturer="OPTICUM" model="FS10P" />
     <device manufacturer="SAGEM" model="D-Box2" />
 	<device manufacturer="DIGIQUEST" model="7600HD" />
