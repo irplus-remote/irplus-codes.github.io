@@ -1,4 +1,5 @@
 <irplus-device-updates>
+    <device manufacturer="SHARP" model="LC-42XD1E" hide="true" />
     <device manufacturer="SHARP" model="GA538WJSA" />
     <device manufacturer="STRONG" model="SRT5011" />
     <device manufacturer="DYON" model="Cobra" />
