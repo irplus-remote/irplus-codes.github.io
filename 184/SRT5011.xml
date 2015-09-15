@@ -1,58 +1,59 @@
 <irplus>
-    <device manufacturer="STRONG" model="SRT5011" columns="12" format="WINLIRC_SPACEENC" bits="11" repeat="2" rowSplit="7"
-        pre-bits="11" toggle-bit-pos="0" gap-pulse="158" gap-space="120461" one-pulse="154" one-space="7509" zero-pulse="154" zero-space="4996">
+    <device manufacturer="STRONG" model="SRT5011" columns="12" format="WINLIRC_SPACEENC" bits="11" rowSplit="7" repeat="2"
+        pre-bits="11" gap-pulse="158" gap-space="48700" one-pulse="154" one-space="7509" zero-pulse="154" zero-space="4996">
 
-        <button label="MUTE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF1E7854" span="6">0x758</button>
-        <button label="&#xf011;" alt="POWER" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FFC84334" span="6">0x55E</button>
+        <button label="MUTE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF1E7854" span="6">0x758|0x558</button>
+        <button label="&#xf011;" alt="POWER" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FFC84334" span="6">0x75E|0x55E</button>
 
-        <button label="PAUSE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x560</button>
-        <button label="AV" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x766</button>
-        <button label="P+" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x75A</button>
+        <button label="PAUSE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x760|0x560</button>
+        <button label="AV" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x766|0x566</button>
+        <button label="P+" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x75A|0x55A</button>
 
-        <button label="AUDIO" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x576</button>
-        <button label="EDIT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x55B</button>
-        <button label="P-" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x55F</button>
+        <button label="AUDIO" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x776|0x576</button>
+        <button label="EDIT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x75B|0x55B</button>
+        <button label="P-" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x75F|0x55F</button>
 
-        <button label="MENU" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x767</button>
-        <button label="INFO" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x754</button>
-        <button label="EXIT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x570</button>
-
-        <space multiple="4"></space>
-        <button label="↑" alt="UP" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x768</button>
-        <space multiple="4"></space>
-
-        <button label="VOL-" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x571</button>
-        <button label="OK" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x769</button>
-        <button label="VOL+" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x761</button>
+        <button label="MENU" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x767|0x567</button>
+        <button label="INFO" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x754|0x554</button>
+        <button label="EXIT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x770|0x570</button>
 
         <space multiple="4"></space>
-        <button label="↓" alt="DOWN" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x56A</button>
+        <button label="↑" alt="UP" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x768|0x568</button>
         <space multiple="4"></space>
 
-        <button label="RED" labelColor="FFC84334" labelSize="12.0" backgroundColor="FFC84334" span="3">0x759</button>
-        <button label="TEXT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF1E7854" span="3">0x772</button>
-        <button label="SUB" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FFD6A81F" span="3">0x562</button>
-        <button label="RCL" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF2A4C94" span="3">0x577</button>
+        <button label="VOL-" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x771|0x571</button>
+        <button label="OK" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x769|0x569</button>
+        <button label="VOL+" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x761|0x561</button>
 
-        <button label="FAV" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x755</button>
-        <button label="TVR" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x56E</button>
-        <button label="EPG" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x56F</button>
+        <space multiple="4"></space>
+        <button label="↓" alt="DOWN" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x76A|0x56A</button>
+        <space multiple="4"></space>
 
-        <button label="1" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x775</button>
-        <button label="2" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x76D</button>
-        <button label="3" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x756</button>
+        <button label="RED" labelColor="FFC84334" labelSize="12.0" backgroundColor="FFC84334" span="3">0x759|0x559</button>
+        <button label="TEXT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF1E7854" span="3">0x772|0x572</button>
+        <button label="SUB" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FFD6A81F" span="3">0x762|0x562</button>
+        <button label="RCL" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF2A4C94" span="3">0x777|0x577</button>
 
-        <button label="4" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x55D</button>
-        <button label="5" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x77C</button>
-        <button label="6" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x56C</button>
+        <button label="FAV" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x755|0x555</button>
+        <button label="TVR" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x76E|0x56E</button>
+        <button label="EPG" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x76F|0x56F</button>
 
-        <button label="7" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x764</button>
-        <button label="8" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x77C</button>
-        <button label="9" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x773</button>
+        <button label="1" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x775|0x575</button>
+        <button label="2" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x76D|0x56D</button>
+        <button label="3" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x765|0x565</button>
 
-        <button label="TEXT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x763</button>
-        <button label="0" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x76B</button>
-        <button label="SUB" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x556</button>
+        <button label="4" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x75D|0x55D</button>
+        <button label="5" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x774|0x574</button>
+        <button label="6" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x76C|0x56C</button>
+
+        <button label="7" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x764|0x564</button>
+        <button label="8" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x75C|0x55C</button>
+        <button label="9" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x773|0x573</button>
+
+        <button label="TEXT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x763|0x563</button>
+        <button label="0" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x76B|0x56B</button>
+        <button label="SUB" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x756|0x556</button>
+
     </device>
 </irplus>
 
