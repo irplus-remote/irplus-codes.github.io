@@ -1,4 +1,5 @@
 <irplus-device-updates>
+    <device manufacturer="SONY" model="RM-D7M" />
     <device manufacturer="XLOGIC" model="KF8000D" />
     <device manufacturer="SHINELCO" model="DTD-209" />
     <device manufacturer="FONESTAR" model="RDTS680" />
