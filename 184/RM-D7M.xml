@@ -109,6 +109,6 @@
 
         <button label="MEMO_INPUT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="20">2400 600 1200 600 600 600 600 600 1200 600 600 600 1200 600 1200 600 1200 600 1200 600 1200 600 1200 600 600</button>
         <button label="MEMO_SCAN" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="20">2400 600 1200 600 1200 600 600 600 1200 600 600 600 1200 600 1200 600 1200 600 1200 600 1200 600 1200 600 600</button>
-        <button label="EXTRA" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="20">2400 600 1200 600 1200 600 1200 600 1200 600 1200 600 1200 600 600 600 1200 600 1200 600 1200 600 1200 600 600</button>
+        <button label="EXTRA" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="20">2400 600 1200 600 1200 600 1200 600 1200 600 1200 600 1200 600 600 600 1200 600 1200 600 1200 600 1200 600 600</button>
     </device>
 </irplus>

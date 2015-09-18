@@ -1,0 +1,37 @@
+<irplus>
+    <device manufacturer="TEUFEL" model="Cinebar51THX" columns="12" format="WINLIRC_NEC1" rowSplit="5">
+        
+        <button label="&#xf011;" alt="POWER" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FFC84334" span="4">0x40bf 0xea15</button>
+        <button label="USB" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF555555" span="4">0x40bf 0x6a95</button>
+        <button label="MUTE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FFC84334" span="4">0x40bf 0x28d7</button>
+
+        <button label="AUX 1/2" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF555555" span="4">0x40bf 0xca35</button>
+        <button label="OPTICAL" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF555555" span="4">0x40bf 0x8877</button>
+        <button label="COAXIAL" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF555555" span="4">0x40bf 0x08f7</button>
+
+        <space multiple="4"></space>
+        <button label="+" labelColor="FF000000" labelSize="12.0" backgroundColor="FF999999" span="4">0x40bf 0xb04f</button>
+        <space multiple="4"></space>
+
+        <button label="&#xf049;" alt="PREV" labelColor="FF000000" labelSize="12.0" backgroundColor="FF999999" span="4">0x40bf 0x728d</button>
+        <button label="&#xf04b; &#xf04c;" alt="PLAY/PAUSE" labelColor="FF000000" labelSize="12.0" backgroundColor="FF999999" span="4">0x40bf 0x9867</button>
+        <button label="&#xf050;" alt="NEXT" labelColor="FF000000" labelSize="12.0" backgroundColor="FF999999" span="4">0x40bf 0x30cf</button>
+
+        <space multiple="4"></space>
+        <button label="-" labelColor="FF000000" labelSize="12.0" backgroundColor="FF999999" span="4">0x40bf 0xf20d</button>
+        <space multiple="4"></space>
+
+        <button label="SUB+" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x40bf 0xd22d</button>
+        <button label="MODE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x40bf 0x906f</button>
+        <button label="" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x40bf 0x10ef</button>
+
+        <button label="SUB-" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x40bf 0xe21d</button>
+        <button label="TONE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x40bf 0xa05f</button>
+        <button label="EQ" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x40bf 0x20df</button>
+
+        <space multiple="4"></space>
+        <button label="BGC" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x40bf 0x40bf</button>
+        <space multiple="4"></space>
+
+    </device>
+</irplus>
