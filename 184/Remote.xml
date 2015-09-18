@@ -1,0 +1,29 @@
+<irplus>
+    <device manufacturer="OSMC" model="Remote" columns="12" format="WINLIRC_RC5" bits="13" pre-bits="13" toggle-bit-pos="2">
+        
+        <button label="HOME" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x108f</button>
+        <button label="INFO" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x1090</button>
+
+        <space multiple="2"></space>
+        <button label="↑" alt="UP" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="8">0x1091</button>
+        <space multiple="2"></space>
+
+        <button label="←" alt="LEFT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x1095</button>
+        <button label="OK" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x1094</button>
+        <button label="→" alt="RIGHT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x1092</button>
+
+        <space multiple="2"></space>
+        <button label="↓" alt="DOWN" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="8">0x1093</button>
+        <space multiple="2"></space>
+
+        <button label="BACK" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x1096</button>
+        <button label="TITLE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x1097</button>
+
+        <button label="&#xf04b; &#xf04c;" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x1098</button>
+        <button label="&#xf04d;" alt="STOP" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x1099</button>
+
+        <button label="&#xf04a;" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x109a</button>
+        <button label="&#xf04e;" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="6">0x109b</button>
+
+    </device>
+</irplus>
