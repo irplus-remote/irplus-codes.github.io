@@ -1,4 +1,5 @@
 <irplus-device-updates>
+    <device manufacturer="MEDE8ER" model="MED1000X3D" />
     <device manufacturer="OSMC" model="Remote" />
     <device manufacturer="OKI" model="TV-Generic" />
     <device manufacturer="OKI" model="V32N-FHTUV" />
