@@ -1,0 +1,52 @@
+<irplus>
+    <device manufacturer="HUMAX" model="DTT3600" columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+
+        <button label="Power" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="6">0x8cc 0x00ff</button>
+        <button label="Mute" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="6">0x8cc 0x18e7</button>
+
+        <button label="1" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0xc03f</button>
+        <button label="2" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0x20df</button>
+        <button label="3" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0xa05f</button>
+        <button label="4" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0x609f</button>
+        <button label="5" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0xe01f</button>
+        <button label="6" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0x10ef</button>
+        <button label="7" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0x906f</button>
+        <button label="8" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0x50af</button>
+        <button label="9" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0xd02f</button>
+
+        <button label="Guide" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0xd827</button>
+        <button label="0" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0x30cf</button>
+        <button label="Fav/Recall" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0xb24d</button>
+
+        <button label="CH+" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0x08f7</button>
+        <button label="↑" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0x8877</button>
+        <button label="Volume+" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0xf807</button>
+
+        <button label="←" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0x48b7</button>
+        <button label="OK" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0xc837</button>
+        <button label="→" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0x28d7</button>
+
+        <button label="CH-" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0xf00f</button>
+        <button label="↓" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0xa857</button>
+        <button label="Volume-" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0x02fd</button>
+
+        <button label="Menu" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0x708f</button>
+        <button label="Text" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0xca35</button>
+        <button label="Exit" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0x6897</button>
+
+        <button label="Display" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0xc23d</button>
+        <button label="Return TV" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0xb04f</button>
+        <button label="Subt List" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x8cc 0x22dd</button>
+
+        <button label="Audio" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x8cc 0xa25d</button>
+        <button label="Back" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x8cc 0x827d</button>
+        <button label="Txt Stop" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x8cc 0x2ad5</button>
+        <button label="Info" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x8cc 0xc23d</button>
+
+        <button label="RED" labelColor="FFC84334" labelSize="12.0" backgroundColor="FFC84334" span="3">0x8cc 0x38c7</button>
+        <button label="GREEN" labelColor="FF1E7854" labelSize="12.0" backgroundColor="FF1E7854" span="3">0x8cc 0xb847</button>
+        <button label="YELLOW" labelColor="FFD6A81F" labelSize="12.0" backgroundColor="FFD6A81F" span="3">0x8cc 0x58a7</button>
+        <button label="BLUE" labelColor="FF2A4C94" labelSize="12.0" backgroundColor="FF2A4C94" span="3">0x8cc 0x7887</button>
+
+    </device>
+</irplus>
