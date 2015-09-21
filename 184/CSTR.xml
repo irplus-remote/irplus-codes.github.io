@@ -1,0 +1,63 @@
+<irplus>
+    <device manufacturer="HIRSCHMANN" model="CSTR" columns="12" format="WINLIRC_RC5" bits="13" toggle-bit-pos="2">
+        
+        <button label="POWER" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13cc</button>
+        <button label="MUTE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13cd</button>
+        <button label="TV/AV" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13ce</button>
+       
+        <button label="1" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13c1</button>
+        <button label="2" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13c2</button>
+        <button label="3" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13c3</button>
+        <button label="4" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13c4</button>
+        <button label="5" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13c5</button>
+        <button label="6" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13c6</button>
+        <button label="7" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13c7</button>
+        <button label="8" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13c8</button>
+        <button label="9" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13c9</button>
+
+        <button label="-/--" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13cb</button>
+        <button label="0" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13c0</button>
+        <button label="PREV-CH" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13cc</button>
+
+        <button label="AUDIO" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13f8</button>
+        <button label="↑ CH" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13e0</button>
+        <button label="VIDEO" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13f9</button>
+
+        <button label="← VOL" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13d1</button>
+        <button label="OK" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13d7</button>
+        <button label="VOL →" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13d0</button>
+
+        <button label="MENU" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13d2</button>
+        <button label="↓ CH" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13e1</button>
+        <button label="EXIT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13ed</button>
+
+        <button label="TEXT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13fc</button>
+        <button label="SLEEP TIMER" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13c6</button>
+        <button label="SUBT LIST" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13ea</button>
+
+        <button label="TXT EXPAND" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13e3</button>
+        <button label="BACK" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13e2</button>
+        <button label="UPDATE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13ec</button>
+
+        <button label="REVEAL" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13ef</button>
+        <button label="TXT STOP" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13f5</button>
+        <button label="INFO" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13d0</button>
+
+        <button label="RED" labelColor="FFC84334" labelSize="12.0" backgroundColor="FFC84334" span="3">0x13f7</button>
+        <button label="GREEN" labelColor="FF1E7854" labelSize="12.0" backgroundColor="FF1E7854" span="3">0x13f6</button>
+        <button label="YELLOW" labelColor="FFD6A81F" labelSize="12.0" backgroundColor="FFD6A81F" span="3">0x13f2</button>
+        <button label="BLUE" labelColor="FF2A4C94" labelSize="12.0" backgroundColor="FF2A4C94" span="3">0x13f4</button>
+
+        <button label="F1" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13f1</button>
+        <button label="F2" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13fd</button>
+        <button label="F3" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13f3</button>
+
+        <button label="F4" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13cf</button>
+        <button label="F5" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13f0</button>
+        <button label="F6" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13d3</button>
+
+        <button label="F7" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13d4</button>
+        <button label="F8" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13d5</button>
+        <button label="F9" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x13d6</button>
+    </device>
+</irplus>

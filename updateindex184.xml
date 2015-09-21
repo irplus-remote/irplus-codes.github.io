@@ -1,4 +1,5 @@
 <irplus-device-updates>
+    <device manufacturer="HIRSCHMANN" model="CSTR" />
     <device manufacturer="HUMAX" model="DTT3600" />
     <device manufacturer="AKIRA" model="LCT-TV" />
     <device manufacturer="SAMSUNG" model="BN59-00634A-TV" />
