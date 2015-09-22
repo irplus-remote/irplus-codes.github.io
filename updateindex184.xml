@@ -1,4 +1,5 @@
 <irplus-device-updates>
+    <device manufacturer="THOMSON" model="RC111TA1G" />
     <device manufacturer="SCHWAIGER" model="DSR581HD" />
     <device manufacturer="HIRSCHMANN" model="CSTR" />
     <device manufacturer="HUMAX" model="DTT3600" />
