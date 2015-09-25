@@ -1,3 +1,7 @@
 <irplus-device-updates>
+	<device manufacturer="WHARFEDALE" model="DVD-1" />
+	<device manufacturer="WHARFEDALE" model="DVD-2" />
+	<device manufacturer="WHARFEDALE" model="DVD-3" />
+	<device manufacturer="WHARFEDALE" model="DVD-4" />
 	<device manufacturer="PANASONIC" model="DMR-BCT73-83" />
 </irplus-device-updates>
