@@ -1,4 +1,6 @@
 <irplus-device-updates>
+    <device manufacturer="MPMAN" model="DVB-T-2012-V1" />
+    <device manufacturer="MPMAN" model="DVB-T-2012-V2" />
 	<device manufacturer="WHARFEDALE" model="DVD-1" />
 	<device manufacturer="WHARFEDALE" model="DVD-2" />
 	<device manufacturer="WHARFEDALE" model="DVD-3" />
