@@ -1,0 +1,19 @@
+<irplus>
+    <device manufacturer="CANTON" model="DM-Soundbar" columns="12" format="WINLIRC_NEC1">
+
+        <button label="&#xf011;" alt="POWER" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x00ff 0x9867</button>
+        <button label="TV" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x00ff 0x20df</button>
+        <button label="AUX" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x00ff 0xb04f</button>
+        <button label="DVD" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x00ff 0x807f</button>
+
+        <button label="VOL-" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x00ff 0x7887</button>
+        <button label="MUTE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x00ff 0x40bf</button>
+        <button label="VOL+" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x00ff 0xc03f</button>
+
+        <button label="STEREO" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x00ff 0xd827</button>
+        <button label="SURROUND" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x00ff 0xb847</button>
+        <button label="VOICE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x00ff 0x00ff</button>
+        <button label="MODE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x00ff 0xd02f</button>
+
+    </device>
+</irplus>
