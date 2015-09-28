@@ -1,4 +1,5 @@
 <irplus-device-updates>
+    <device manufacturer="TELESYSTEM" model="TS7200MHP" />
     <device manufacturer="JBL" model="ESC-Serie" />
     <device manufacturer="UNITED" model="LTW-26X97-TV" />
     <device manufacturer="CANTON" model="DM-Soundbar" />
