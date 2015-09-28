@@ -1,4 +1,5 @@
 <irplus-device-updates>
+    <device manufacturer="JBL" model="ESC-Serie" />
     <device manufacturer="UNITED" model="LTW-26X97-TV" />
     <device manufacturer="CANTON" model="DM-Soundbar" />
     <device manufacturer="MPMAN" model="DVB-T-2012-V1" />
