@@ -1,14 +1,2 @@
 <irplus-device-updates>
-    <device manufacturer="TELESYSTEM" model="TS5200VXB" />
-    <device manufacturer="TELESYSTEM" model="TS7200MHP" />
-    <device manufacturer="JBL" model="ESC-Serie" />
-    <device manufacturer="UNITED" model="LTW-26X97-TV" />
-    <device manufacturer="CANTON" model="DM-Soundbar" />
-    <device manufacturer="MPMAN" model="DVB-T-2012-V1" />
-    <device manufacturer="MPMAN" model="DVB-T-2012-V2" />
-	<device manufacturer="WHARFEDALE" model="DVD-1" />
-	<device manufacturer="WHARFEDALE" model="DVD-2" />
-	<device manufacturer="WHARFEDALE" model="DVD-3" />
-	<device manufacturer="WHARFEDALE" model="DVD-4" />
-	<device manufacturer="PANASONIC" model="DMR-BCT73-83" />
 </irplus-device-updates>
