@@ -1,0 +1,72 @@
+<irplus>
+    <device manufacturer="SCHAUB-LORENZ" model="DV4200" columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+        
+        <button label="Power" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x30cf</button>
+        <button label="Audio Off" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xb24d</button>
+        <button label="DVD/TV" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xb04f</button>
+        
+        <button label="1" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x00ff</button>
+        <button label="2" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x807f</button>
+        <button label="3" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x40bf</button>
+        
+        <button label="4" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xc03f</button>
+        <button label="5" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x20df</button>
+        <button label="6" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xa05f</button>
+        
+        <button label="7" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x609f</button>
+        <button label="8" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xe01f</button>
+        <button label="9" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x10ef</button>
+        
+        <button label="+10" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x906f</button>
+        <button label="0" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x50af</button>
+        <button label="C/CH" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xb847</button>
+        
+        <button label="Top Menu" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xca35</button>
+        <button label="↑" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x08f7</button>
+        <button label="Title" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x28d7</button>
+        
+        <button label="←" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x48b7</button>
+        <button label="OK" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x708f</button>
+        <button label="→" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xc837</button>
+
+        <button label="Menu" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xa857</button>
+        <button label="↓" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x8877</button>
+        <button label="Repeat" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x18e7</button>
+        
+        <button label="Return" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x9867</button>
+        <button label="Volume+" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xd22d</button>
+        <button label="Display" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x7887</button>
+        
+        <button label="Next" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xc23d</button>
+        <button label="Volume-" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xf20d</button>
+        <button label="Rep/A-B" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xe817</button>
+        
+        <button label="Prev." labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x42bd</button>
+        <button label="Auto/Track" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x8a75</button>
+        <button label="Subt." labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xf807</button>
+        
+        <button label="Zoom" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x00ff 0xd827</button>
+        <button label="Progr." labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x00ff 0x926d</button>
+        <button label="Slow -" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x00ff 0x12ed</button>
+        <button label="Slow +" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x00ff 0x52ad</button>
+        
+        <button label="Stop" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x22dd</button>
+        <button label="Pause" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x58a7</button>
+        <button label="Record" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x728d</button>
+        
+        <button label="Rewind" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x02fd</button>
+        <button label="Play" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0xa25d</button>
+        <button label="Forward" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="4">0x00ff 0x827d</button>
+        
+        <button label="Open/Close" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x00ff 0xb04f</button>
+        <button label="Clear/00:00" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x00ff 0xb847</button>
+        <button label="Digest" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x00ff 0xd02f</button>
+        <button label="Pbc" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x00ff 0x4ab5</button>
+        
+        <button label="Setup" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x00ff 0x6897</button>
+        <button label="Np" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x00ff 0x32cd</button>
+        <button label="Angle" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x00ff 0x38c7</button>
+        <button label="Lang" labelColor="FF000000" labelSize="12.0" backgroundColor="FFFFFFFF" span="3">0x00ff 0x0af5</button>
+        
+    </device>
+</irplus>
