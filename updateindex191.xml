@@ -1,4 +1,5 @@
 <irplus-device-updates>
+    <device manufacturer="SANYO" model="RB-SL22-DVD" />
     <device manufacturer="NEC" model="PTX-TV" />
 	<device manufacturer="SCHAUB-LORENZ" model="DV4200" />
 </irplus-device-updates>
