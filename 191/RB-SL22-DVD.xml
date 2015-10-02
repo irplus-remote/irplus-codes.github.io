@@ -7,9 +7,9 @@
         <button label="PICTUREMODE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x3C23 0x5CA3</button>
         <button label="&#xf052;" alt="EJECT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x3C23 0x807F</button>
         
-        <button label="PROGRAM/RANDOM" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x3C23 0x9C63</button>
-        <button label="REPEAT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x3C23 0xAC53</button>
-        <button label="ABREPEAT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x3C23 0x6C93</button>
+        <button label="PROGRAM/RANDOM" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x3C23 0x9C63</button>
+        <button label="REPEAT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x3C23 0xAC53</button>
+        <button label="ABREPEAT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x3C23 0x6C93</button>
         
         <button label="ON SCREEN" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x3C23 0xC03F</button>
         <button label="ZOOM" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="3">0x3C23 0xDC23</button>
