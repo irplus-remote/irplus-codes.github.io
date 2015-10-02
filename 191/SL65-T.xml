@@ -1,0 +1,44 @@
+<irplus>
+    <device manufacturer="SILVERCREST" model="SL65-T" columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+        
+        <button label="Power" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FFC84334" span="4">0x61d6 0x19e6</button>
+        <button label="Mute" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x39c6</button>
+        <button label="TV" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x916e</button>
+
+        <button label="1" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0xe916</button>
+        <button label="2" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x6996</button>
+        <button label="3" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0xa956</button>
+        <button label="4" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x29d6</button>
+        <button label="5" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0xc936</button>
+        <button label="6" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x49b6</button>
+        <button label="7" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x8976</button>
+        <button label="8" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x09f6</button>
+        <button label="9" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0xf10e</button>
+
+        <button label="Text" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0xd12e</button>
+        <button label="0" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x718e</button>
+        <button label="List" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x817e</button>
+        
+        <button label="FAV" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0xb14e</button>
+        <button label="↑ CH" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x41be</button>
+        <button label="Audio" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x59a6</button>
+        
+        <button label="← VOL" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0xe11e</button>
+        <button label="OK" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x619e</button>
+        <button label="VOL →" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0xa15e</button>
+
+        <button label="Menu" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0xb946</button>
+        <button label="↓ CH" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x51ae</button>
+        <button label="Exit" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0xc13e</button>
+      
+        <button label="Back" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x31ce</button>
+        <button label="Epg" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x7986</button>
+        <button label="Info" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x61d6 0x11ee</button>
+
+        <button label="RED" labelColor="FFC84334" labelSize="12.0" backgroundColor="FFC84334" span="3">0x61d6 0x21de</button>
+        <button label="GREEN" labelColor="FF1E7854" labelSize="12.0" backgroundColor="FF1E7854" span="3">0x61d6 0x9966</button>
+        <button label="YELLOW" labelColor="FFD6A81F" labelSize="12.0" backgroundColor="FFD6A81F" span="3">0x61d6 0xf906</button>
+        <button label="BLUE" labelColor="FF2A4C94" labelSize="12.0" backgroundColor="FF2A4C94" span="3">0x61d6 0x01fe</button>
+        
+    </device>
+</irplus>
