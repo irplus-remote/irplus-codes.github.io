@@ -1,0 +1,39 @@
+<irplus>
+    <device manufacturer="BOSE" model="Wave Music System III" columns="16" format="WINLIRC_SPACEENC" bits="16" pre-bits="16"
+       gap-pulse="509" gap-space="107905" one-pulse="509" one-space="1512" zero-pulse="509" zero-space="499" header-pulse="1030" header-space="1528">
+
+        <button label="&#xf011;" alt="POWER" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x32CD</button>
+        <space multiple="8"></space>
+        <button label="SLEEP" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x2AD5</button>
+
+        <button label="MUTE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x807F</button>
+        <button label="RADIO" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x609F</button>
+        <button label="CD" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0xCA35</button>
+        <button label="AUX" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0xF00F</button>
+
+        <button label="VOL+" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0xC03F</button>
+        <button label="1" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0xE01F</button>
+        <button label="2" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x10EF</button>
+        <button label="3" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x906F</button>
+
+        <button label="VOL-" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x40BF</button>
+        <button label="4" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x50AF</button>
+        <button label="5" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0xD02F</button>
+        <button label="6" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x30CF</button>
+
+        <button label="&#xf049;" alt="PREV" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x18E7</button>
+        <button label="&#xf050;" alt="NEXT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x9867</button>
+        <button label="&#xf04b;" alt="PLAY" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0xD827</button>
+        <button label="&#xf052;" alt="EJECT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x58A7</button>
+
+        <button label="← TUNE/" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0xEA15</button>
+        <button label="MP3 →" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x1AE5</button>
+        <button label="TIME -" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x7986</button>
+        <button label="TIME +" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x24DB</button>
+
+        <button label="PLAY MODE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x847B</button>
+        <button label="1" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x44BB</button>
+        <button label="2" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x46B9</button>
+        <button label="ALARM SETUP" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x45BA</button>
+    </device>
+</irplus>

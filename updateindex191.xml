@@ -1,4 +1,6 @@
 <irplus-device-updates>
+    <device manufacturer="BOSE" model="Wave Music System III" />
+    <device manufacturer="BOSE" model="Wave Music System" />
     <device manufacturer="HP" model="RC1762308-01B" />
     <device manufacturer="DICRA" model="DT009STB" />
     <device manufacturer="DENON" model="RC-903" />
