@@ -1,4 +1,5 @@
 <irplus-device-updates>
+    <device manufacturer="TELESYSTEM" model="TS7700MHP" />
     <device manufacturer="BOSE" model="Wave Music System III" />
     <device manufacturer="BOSE" model="Wave Music System" />
     <device manufacturer="HP" model="RC1762308-01B" />
