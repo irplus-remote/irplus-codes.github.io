@@ -1,5 +1,5 @@
 <irplus-device-updates>
-    <device manufacturer="TELESYSTEM" model=TS6209DT />
+    <device manufacturer="TELESYSTEM" model="TS6209DT" />
     <device manufacturer="SAMSUNG" model="AH59-02482A-Dock" />
     <device manufacturer="LINKSYS" model="KISS1600" />
     <device manufacturer="TELESYSTEM" model="TS6101" />
