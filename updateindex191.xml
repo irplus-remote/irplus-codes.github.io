@@ -1,4 +1,5 @@
 <irplus-device-updates>
+    <device manufacturer="CAT" model="DVD-1122" />
     <device manufacturer="TELESYSTEM" model="TS6209DT" />
     <device manufacturer="SAMSUNG" model="AH59-02482A-Dock" />
     <device manufacturer="LINKSYS" model="KISS1600" />
