@@ -1,0 +1,72 @@
+<irplus>
+    <device manufacturer="ZEHNDER" model="HX7130" columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+
+        <button label="&#xf011;" alt="POWER" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x50af</button>
+        <button label="MUTE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xb04f</button>
+
+
+        <button label="VOL-" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xba45</button>
+        <button label="VOL+" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x1ae5</button>
+
+        
+        <button label="CH-" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x807f</button>
+        <button label="CH+" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x00ff</button>
+
+        <button label="↑" alt="UP" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x00ff</button>
+        
+        <button label="←" alt="LEFT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xc03f</button>
+        <button label="ENTER" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xf807</button>
+        <button label="→" alt="RIGHT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x40bf</button>
+        
+        <button label="↓" alt="DOWN" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x807f</button>
+
+        
+        <button label="1" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x8877</button>
+        <button label="2" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x48b7</button>
+        <button label="3" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xc837</button>
+        <button label="4" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x28d7</button>
+        <button label="5" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xa857</button>
+        <button label="6" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x6897</button>
+        <button label="7" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xe817</button>
+        <button label="8" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x18e7</button>
+        <button label="9" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x9867</button>
+
+        <button label="EXIT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x38c7</button>
+        <button label="0" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x08f7</button>
+        <button label="FAVORITE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xd827</button>
+        <button label="FREEZE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x827d</button>
+
+        <button label="BLUE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xc23d</button>
+        <button label="GREEN" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x906f</button>
+        <button label="RED" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xa05f</button>
+        <button label="YELLOW" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x42bd</button>
+
+        <button label="GUIDE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x7887</button>
+        <button label="INFO" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xd02f</button>
+        <button label="LIST" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xf807</button>
+        <button label="MENU_DVR" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x629d</button>
+
+        <button label="MENU" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x58a7</button>
+        <button label="USB" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xc23d</button>
+
+        <button label="PAGE-" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xfa05</button>
+        <button label="PAGE+" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x5aa5</button>
+
+        <button label="REV" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x22dd</button>
+        <button label="&#xf04e;" alt="FWD" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xa25d</button>
+        <button label="&#xf04c;" alt="PAUSE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x827d</button>
+        <button label="&#xf04b;" alt="PLAY" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x629d</button>
+        <button label="&#xf04d;" alt="STOP" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xe21d</button>
+        <button label="&#xf111;" alt="RECORD" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x9a65</button>
+
+        <button label="POSTION" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xf00f</button>
+        <button label="LAST_CHANNEL" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x02fd</button>
+        <button label="SAT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x20df</button>
+        <button label="SLEEP" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x30cf</button>
+        <button label="SUBTITLE" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x906f</button>
+        <button label="TELETEXT" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xa05f</button>
+        <button label="TV/RADIO" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0xb847</button>
+
+        <button label="ZOOM" labelColor="FFFFFFFF" labelSize="12.0" backgroundColor="FF444444" span="4">0x01ff 0x42bd</button>
+    </device>
+</irplus>
