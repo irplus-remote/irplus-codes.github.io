@@ -1,0 +1,53 @@
+<irplus>
+    <device columns="12" format="PWM_HEX" pre-bits="32" bits="16" manufacturer="TELESYSTEM" model="TS7500HD">
+        
+        <button backgroundColor="FFFFFFFF" label="Power" labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x10EF</button>
+ 		<button backgroundColor="FFFFFFFF" label="Info" labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x36C9</button>
+ 		<button backgroundColor="FFFFFFFF" label="List" labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x15EA</button>
+		<button backgroundColor="FFFFFFFF" label="Menu" labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x42BD</button>
+
+		<button backgroundColor="FFFFFFFF" label="App" labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x2BD4</button>
+		<button backgroundColor="FFFFFFFF" label="Back" labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x39C6</button>
+		<button backgroundColor="FFFFFFFF" label="OnDem" labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x2DD2</button>
+		<button backgroundColor="FFFFFFFF" label="Option" labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x17E8</button>
+
+		<button backgroundColor="FFFFFFFF" label="VOL+" labelColor="FF000000" labelSize="19.0" span="4">0xCACA3535 0x37C8</button>
+        <button backgroundColor="FFAAAAAA" label="↑" labelColor="FFFFFFFF" labelSize="19.0" span="4">0xCACA3535 0x18E7</button>
+        <button backgroundColor="FFFFFFFF" label="CH+" labelColor="FF000000" labelSize="19.0" span="4">0xCACA3535 0x11EE</button>
+        
+        <button backgroundColor="FFAAAAAA" label="←" labelColor="FFFFFFFF" labelSize="19.0" span="4">0xCACA3535 0x28D7</button>
+		<button backgroundColor="FFAAAAAA" label="OK" labelColor="FFFFFFFF" labelSize="19.0" span="4">0xCACA3535 0x20DF</button>
+		<button backgroundColor="FFAAAAAA" label="→" labelColor="FFFFFFFF" labelSize="19.0" span="4">0xCACA3535 0x27D8</button>
+		
+		<button backgroundColor="FFFFFFFF" label="VOL-" labelColor="FF000000" labelSize="19.0" span="4">0xCACA3535 0x38C7</button>
+		<button backgroundColor="FFAAAAAA" label="↓" labelColor="FFFFFFFF" labelSize="19.0" span="4">0xCACA3535 0x19E6</button>
+		<button backgroundColor="FFFFFFFF" label="CH-" labelColor="FF000000" labelSize="19.0" span="4">0xCACA3535 0x12ED</button>
+		
+		<button backgroundColor="FFFFFFFF" label="1" labelColor="FF000000" labelSize="25" span="4">0xCACA3535 0x01FE</button>
+		<button backgroundColor="FFFFFFFF" label="2" labelColor="FF000000" labelSize="25" span="4">0xCACA3535 0x02FD</button>
+	 	<button backgroundColor="FFFFFFFF" label="3" labelColor="FF000000" labelSize="25" span="4">0xCACA3535 0x03FC</button>
+	 	
+		<button backgroundColor="FFFFFFFF" label="4" labelColor="FF000000" labelSize="25" span="4">0xCACA3535 0x04FB</button>
+		<button backgroundColor="FFFFFFFF" label="5" labelColor="FF000000" labelSize="25" span="4">0xCACA3535 0x05FA</button>
+		<button backgroundColor="FFFFFFFF" label="6" labelColor="FF000000" labelSize="25" span="4">0xCACA3535 0x06F9</button>
+		
+		<button backgroundColor="FFFFFFFF" label="7" labelColor="FF000000" labelSize="25" span="4">0xCACA3535 0x07F8</button>
+		<button backgroundColor="FFFFFFFF" label="8" labelColor="FF000000" labelSize="25" span="4">0xCACA3535 0x08F7</button>
+	 	<button backgroundColor="FFFFFFFF" label="9" labelColor="FF000000" labelSize="25" span="4">0xCACA3535 0x09F6</button>
+	 
+	 	<button backgroundColor="FFFFFFFF" label="EXIT" labelColor="FF000000" labelSize="19.0" span="4">0xCACA3535 0x24DB</button>
+		<button backgroundColor="FFFFFFFF" label="0" labelColor="FF000000" labelSize="25" span="4">0xCACA3535 0x00FF</button>
+		<button backgroundColor="FFFFFFFF" label="TEXT" labelColor="FF000000" labelSize="19.0" span="4">0xCACA3535 0x2AD5</button>
+	 
+	    <button backgroundColor="FFC84334" label=" " labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x3FC0</button>
+		<button backgroundColor="FF1E7854" label=" " labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x2AD5</button>
+        <button backgroundColor="FF2A4C94" label=" " labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x2CD3</button>
+		<button backgroundColor="FFD6A81F" label=" " labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x2BD4</button>
+		
+	    <button backgroundColor="FFFFFFFF" label="&#xf04a;" labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x22DD</button>
+	    <button backgroundColor="FFFFFFFF" label="&#xf04b;" labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x23DC</button>
+        <button backgroundColor="FFFFFFFF" label="&#xf04d;" labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x24DB</button>
+		<button backgroundColor="FFFFFFFF" label="&#xf04e;" labelColor="FF000000" labelSize="19.0" span="3">0xCACA3535 0x25DA</button>
+
+    </device>
+</irplus>
