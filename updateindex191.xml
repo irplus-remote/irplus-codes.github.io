@@ -1,4 +1,5 @@
 <irplus-device-updates>
+    <device manufacturer="HUMAX" model="DTT4000" />
     <device manufacturer="TELESYSTEM" model="TS7500HD" />
     <device manufacturer="SONY" model="RM-U541" />
     <device manufacturer="EASY LIVING" model="EASY 1972 A-V1 TV" />
