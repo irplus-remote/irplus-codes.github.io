@@ -1,0 +1,58 @@
+<irplus>
+    <device manufacturer="OKI" model="B32F-LED1" columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+        <button label="Power" span="4">0x01fe 0x41be</button>
+        <button label="Mute" span="4">0x01fe 0xc33c</button>
+        <button label="TV/AV" span="4">0x01fe 0xc13e</button>
+        <button label="1" span="4">0x01fe 0x11ee</button>
+        <button label="2" span="4">0x01fe 0x916e</button>
+        <button label="3" span="4">0x01fe 0x51ae</button>
+        <button label="4" span="4">0x01fe 0x31ce</button>
+        <button label="5" span="4">0x01fe 0xb14e</button>
+        <button label="6" span="4">0x01fe 0x718e</button>
+        <button label="7" span="4">0x01fe 0x09f6</button>
+        <button label="8" span="4">0x01fe 0x8976</button>
+        <button label="9" span="4">0x01fe 0x49b6</button>
+        <button label="Guide" span="4">0x01fe 0x43bc</button>
+        <button label="0" span="4">0x01fe 0xa956</button>
+        <button label="Fav/Recall" span="4">0x01fe 0x29d6</button>
+        <button label="Audio" span="4">0x01fe 0x738c</button>
+        <button label="↑" span="4">0x01fe 0x9966</button>
+        <button label="Video" span="4">0x01fe 0xb34c</button>
+        <button label="←" span="4">0x01fe 0x39c6</button>
+        <button label="OK" span="4">0x01fe 0x59a6</button>
+        <button label="→" span="4">0x01fe 0x7986</button>
+        <button label="Menu" span="4">0x01fe 0xe916</button>
+        <button label="↓" span="4">0x01fe 0xb946</button>
+        <button label="Text" span="4">0x01fe 0x21de</button>
+        <button label="Menu Off" span="4">0x01fe 0xc936</button>
+        <button label="Volume+" span="4">0x01fe 0xf906</button>
+        <button label="Display" span="4">0x01fe 0x19e6</button>
+        <button label="CH+" span="4">0x01fe 0xd926</button>
+        <button label="Volume-" span="4">0x01fe 0xd12e</button>
+        <button label="Return TV" span="4">0x01fe 0xe11e</button>
+        <button label="CH-" span="4">0x01fe 0xf10e</button>
+        <button label="Sleep Timer" span="4">0x01fe 0x0bf4</button>
+        <button label="Subt.List" span="4">0x01fe 0x8b74</button>
+        <button label="Txt Expand" span="4">0x01fe 0xa35c</button>
+        <button label="Back" span="4">0x01fe 0x6996</button>
+        <button label="Update" span="4">0x01fe 0x33cc</button>
+        <button label="Reveal" span="4">0x01fe 0x619e</button>
+        <button label="Txt Stop" span="4">0x01fe 0x23dc</button>
+        <button label="Info" span="4">0x01fe 0xe31c</button>
+        <button label="Red" span="4">0x01fe 0x13ec</button>
+        <button label="Green" span="4">0x01fe 0x936c</button>
+        <button label="Yellow" span="4">0x01fe 0x53ac</button>
+        <button label="Blue" span="4">0x01fe 0xd32c</button>
+        <button label="F" span="4">0x01fe 0xf30c</button>
+        <button label="Disp" span="4">0x01fe 0x639c</button>
+        <button label="Mix Scan" span="4">0x01fe 0x4bb4</button>
+        <button label="Audio-" span="4">0x01fe 0xa15e</button>
+        <button label="Audio+" span="4">0x01fe 0x6b94</button>
+        <button label="F" span="4">0x01fe 0xab54</button>
+        <button label="F" span="4">0x01fe 0xeb14</button>
+        <button label="F" span="4">0x01fe 0xcb34</button>
+        <button label="F" span="4">0x01fe 0x1be4</button>
+        <button label="F" span="4">0x01fe 0x2bd4</button>
+       
+    </device>
+</irplus>
