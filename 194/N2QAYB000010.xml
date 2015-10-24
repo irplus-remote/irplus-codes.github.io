@@ -1,5 +1,5 @@
 <irplus>
-    <device manufacturer="PANASONIC" model="N2QAYB000010" columns="12" format="WINLIRC_SPACEENC" bits="32" pre-bits="16"
+    <device manufacturer="PANASONIC" model="N2QAYB000010" columns="12" format="WINLIRC_SPACEENC" bits="32" pre-bits="16" repeatheader="true"
           gap-pulse="575" gap-space="73917" one-pulse="584" one-space="1154" zero-pulse="584" zero-space="283" header-pulse="3694" header-space="1486" repeat="3">
 
         <button label="&#xf011;" alt="POWER" span="6">0x4004 0x0500BCB9</button>
