@@ -1,4 +1,5 @@
 <irplus-device-updates>
+	<device manufacturer="IRRADIO" model="DTR-3324" />
 	<device manufacturer="ZODIAC" model="DZR20DTT" />
 	<device manufacturer="RENDER" model="REN3209ELI" />
 	<device manufacturer="OKI" model="B32F-LED1" />
