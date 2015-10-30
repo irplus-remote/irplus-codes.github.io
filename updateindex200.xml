@@ -1,4 +1,5 @@
 <irplus-device-updates>
+    <device manufacturer="KAON" model="KSF-200" />
 	<device manufacturer="TELESYSTEM" model="TS3001" />
 	<device manufacturer="ADB" model="ITI-Series" />
 </irplus-device-updates>
