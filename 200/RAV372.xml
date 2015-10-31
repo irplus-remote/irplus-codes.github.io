@@ -1,0 +1,96 @@
+<irplus>
+    <device manufacturer="YAMAHA" model="RAV372" columns="12" format="YAMAHA_NEC_HEX">
+
+        <button label="STANDBY" span="3" backgroundColor="FFC84334" labelColor="FFFFFFFF">7E-7F</button>
+        <button label="STANDBY (Z2)" span="3" backgroundColor="FFC84334" labelColor="FFFFFFFF">7E-BB</button>
+        <button label="STANDBY (Z2)" span="3" backgroundColor="FFC84334" labelColor="FFFFFFFF">7A-EE</button>
+        <button label="STANDBY (ALL)" span="3" backgroundColor="FFC84334" labelColor="FFFFFFFF">7A-1E</button>
+
+        <button label="POWER ON" span="3" labelColor="FFC84334">7E-7E</button>
+        <button label="POWER ON (Z3)" span="3" labelColor="FFC84334">7E-BA</button>
+        <button label="POWER ON (Z3)" span="3" labelColor="FFC84334">7A-ED</button>
+        <button label="POWER ON (ALL)" span="3" labelColor="FFC84334">7A-1D</button>
+
+        <button label="SCENE 1" span="3" labelColor="FFFFDE17">7A-007F</button>
+        <button label="SCENE 2" span="3" labelColor="FFFFDE17">7A-037C</button>
+        <button label="SCENE 3" span="3" labelColor="FFFFDE17">7A-0679</button>
+        <button label="SCENE 4" span="3" labelColor="FFFFDE17">7A-0976</button>
+
+        <button label="SCENE 1 (ZONE2)" span="3" labelColor="FFFFDE17">7A-017E</button>
+        <button label="SCENE 2 (ZONE2)" span="3" labelColor="FFFFDE17">7A-047B</button>
+        <button label="SCENE 3 (ZONE2)" span="3" labelColor="FFFFDE17">7A-0778</button>
+        <button label="SCENE 4 (ZONE2)" span="3" labelColor="FFFFDE17">7A-0A75</button>
+
+        <button label="SCENE 1 (ZONE3)" span="3" labelColor="FFFFDE17">7A-027D</button>
+        <button label="SCENE 2 (ZONE3)" span="3" labelColor="FFFFDE17">7A-057A</button>
+        <button label="SCENE 3 (ZONE3)" span="3" labelColor="FFFFDE17">7A-0877</button>
+        <button label="SCENE 4 (ZONE3)" span="3" labelColor="FFFFDE17">7A-0B74</button>
+
+        <button label="TUNER" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-16</button>
+        <button label="A" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-B4</button>
+        <button label="B" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-39</button>
+        <button label="C" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7F01-3F</button>
+
+        <button label="TUNER (Z2)" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-D2</button>
+        <button label="A (Z2)" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-B8</button>
+        <button label="B (Z2)" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-3A</button>
+        <button label="C (Z2)" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7F01-40</button>
+
+        <button label="TUNER (Z3)" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-F3</button>
+        <button label="A (Z3)" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-B9</button>
+        <button label="B (Z3)" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-3B</button>
+        <button label="C (Z3)" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7F01-41</button>
+
+        <button label="V-AUX/DOCK" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-55</button>
+        <button label="DTV/CBL" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-54</button>
+        <button label="CD" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-15</button>
+        <button label="MD/CD-R" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-C9</button>
+
+        <button label="DVD" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-C1</button>
+        <button label="DVR" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-13</button>
+        <button label="VCR" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-0F</button>
+        <button label="PHONO" span="3" backgroundColor="FFFFDE17" labelColor="FF000000">7A-14</button>
+
+        <button label="VOL↑ MAIN" span="4">7A-1A</button>
+        <button label="VOL↑ ZONE2" span="4">7A-DA</button>
+        <button label="VOL↑ ZONE3" span="4">7A-FD</button>
+
+        <button label="MUTE MAIN" span="4">7A-1C</button>
+        <button label="MUTE ZONE2" span="4">7A-DC</button>
+        <button label="MUTE ZONE3" span="4">7A-FF</button>
+
+        <button label="VOL↓ MAIN" span="4">7A-1B</button>
+        <button label="VOL↓ ZONE2" span="4">7A-DB</button>
+        <button label="VOL↓ ZONE3" span="4">7A-FE</button>
+
+        <button label="TITLE" span="4">7A-86</button>
+        <button label="↑" span="4">7A-9D</button>
+        <button label="MENU" span="4">7A-84</button>
+
+        <button label="←" span="4">7A-9F</button>
+        <button label="ENTER" span="4">7A-DE</button>
+        <button label="→" span="4">7A-9E</button>
+
+        <button label="RETURN" span="4">7A-AA</button>
+        <button label="↓" span="4">7A-9C</button>
+        <button label="DISPLAY" span="4">7A-C2</button>
+
+        <button label="PURE DIRECT" span="6">7A-DD</button>
+        <button label="STRAIGHT" span="6">7A-56</button>
+
+        <button label="1" span="3" backgroundColor="FF0c8b68">7A-88</button>
+        <button label="2" span="3" backgroundColor="FF0c8b68">7A-89</button>
+        <button label="3" span="3" backgroundColor="FF0c8b68">7A-8A</button>
+        <button label="4" span="3" backgroundColor="FF0c8b68">7A-8B</button>
+
+        <button label="5" span="3" backgroundColor="FF0c8b68">7A-8C</button>
+        <button label="6" span="3" backgroundColor="FF0c8b68">7A-94</button>
+        <button label="7" span="3" backgroundColor="FF0c8b68">7A-8D</button>
+        <button label="8" span="3" backgroundColor="FF0c8b68">7A-C4</button>
+
+        <button label="9" span="4" backgroundColor="FF0c8b68">7A-87</button>
+        <button label="0" span="4" backgroundColor="FF0c8b68">7A-95</button>
+        <button label="ENT" span="4" backgroundColor="FF0c8b68">7A-57</button>
+
+    </device>
+</irplus>
