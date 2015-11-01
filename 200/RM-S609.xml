@@ -1,0 +1,72 @@
+<irplus>
+    <device manufacturer="SONY" model="RM-609" columns="12" format="WINLIRC_SPACEENC" bits="12" pre-bits="12" gap-pulse="1" gap-space="44943"
+        one-pulse="1269" one-space="529" zero-pulse="672" zero-space="529" header-pulse="2506" header-space="527" repeat="2" repeatheader="true">
+
+        <button label="&#xf011;" alt="POWER" span="6">0xA81</button>
+        <button label="SLEEP" span="6">0x061</button>
+        
+        <button label="TAPE_BACK" span="3">0x04E</button>
+        <button label="TAPE_FORWARD" span="3">0x58E</button>
+        <button label="TAPE_FAST_BACKWARD" span="3">0xD8E</button>
+        <button label="TAPE_FAST_FORWARD" span="3">0x38E</button>
+
+        <button label="TAPE_STOP" span="3">0x18E</button>
+        <button label="TAPE_PAUSE" span="3">0x98E</button>
+        <button label="TUNER" span="3">0x841</button>
+        <button label="SHIFT" span="3">0xCD6</button>
+
+        <button label="CD_PLAY" span="4">0x4D1</button>
+        <button label="CD_PAUSE" span="4">0x9D1</button>
+        <button label="CD_STOP" span="4">0x1D1</button>
+        
+        <button label="CD_BACK" span="6">0x0D1</button>
+        <button label="CD_FORWARD" span="6">0x8D1</button>
+
+        <button label="1" span="4">0x011</button>
+        <button label="2" span="4">0x811</button>
+        <button label="3" span="4">0x411</button>
+
+        <button label="4" span="4">0xC11</button>
+        <button label="5" span="4">0x211</button>
+        <button label="6" span="4">0xA11</button>
+
+        <button label="7" span="4">0x611</button>
+        <button label="8" span="4">0xE11</button>
+        <button label="9" span="4">0x111</button>
+
+        <button label="0" span="4">0x051</button>
+        <button label="10" span="4">0xE51</button>
+        <button label="DISK_SKIP" span="4">0x7D1</button>
+
+        <button label="VOL+" span="6">0x481</button>
+        <button label="VOL-" span="6">0xC81</button>
+
+        <button label="VIDEO1" span="3">0x441</button>
+        <button label="VIDEO2" span="3">0x781</button>
+        <button label="PHONO" span="3">0x041</button>
+        <button label="SELECT10" span="3">0x766</button>
+
+        <button label="PERSONAL_FILE" span="4">0xF66</button>
+        <button label="↑" alt="UP" span="4">0x089</button>
+        <button label="EQ" span="4">0x3E6</button>
+
+        <button label="←" alt="LEFT" span="6">0xE89</button>
+        <button label="→" alt="RIGHT" span="6">0x689</button>
+
+        <button label="PROGRAMM" span="4">0x1A1</button>
+        <button label="↓" alt="DOWN" span="4">0x889</button>
+        <button label="EFFECT" span="4">0x146</button>
+
+        <button label="SOURROUND_ON_OFF" span="4">0xFC6</button>
+        <button label="SOURROUND_MODE" span="4">0x7C6</button>
+        <button label="SOURROUND_CONTROL" span="4">0x426</button>
+
+        <button label="CD_DIRECT" span="4">0x921</button>
+        <button label="DISPLAY" span="4">0xD21</button>
+        <button label="DYNAMIC_BASS" span="4">0x8C6</button>
+
+        <button label="&#xf111;" alt="RECORD" span="6">0x78E</button>
+        <button label="RECMUTE" span="6">0xF8E</button>
+
+    </device>
+</irplus>
