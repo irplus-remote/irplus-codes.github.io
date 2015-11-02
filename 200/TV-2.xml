@@ -1,0 +1,36 @@
+<irplus>
+    <device manufacturer="ELENBERG" model="TV" columns="12" format="WINLIRC_NECx1">
+
+        <button label="&#xf011;" alt="POWER" span="3">0x7070 0xd02f</button>
+        <button label="INPUT" span="3">0x7070 0x30cf</button>
+        <button label="MUTE" span="3">0x7070 0x28d7</button>
+        <button label="SLEEP" span="3">0x7070 0xa857</button>
+
+        <button label="1" span="4">0x7070 0x00ff</button>
+        <button label="2" span="4">0x7070 0x807f</button>
+        <button label="3" span="4">0x7070 0x40bf</button>
+        <button label="4" span="4">0x7070 0xc03f</button>
+        <button label="5" span="4">0x7070 0x20df</button>
+        <button label="6" span="4">0x7070 0xa05f</button>
+        <button label="7" span="4">0x7070 0x609f</button>
+        <button label="8" span="4">0x7070 0xe01f</button>
+        <button label="9" span="4">0x7070 0x10ef</button>
+
+        <button label="AUDIO" span="4">0x7070 0x04fb</button>
+        <button label="0" span="4">0x7070 0x906f</button>
+        <button label="-" span="4">0x7070 0xf807</button>
+
+        <button label="MENU" span="4">0x7070 0x38c7</button>
+        <button label="↑ CH" alt="UP" span="4">0x7070 0x8877</button>
+        <button label="EXIT" span="4">0x7070 0x7887</button>
+
+        <button label="← VOL" alt="LEFT" span="4">0x7070 0x48b7</button>
+        <button label="ENTER" span="4">0x7070 0xb847</button>
+        <button label="VOL →" alt="RIGHT" span="4">0x7070 0xc837</button>
+
+        <button label="INFO" span="4">0x7070 0x6897</button>
+        <button label="↓ CH" alt="DOWN" span="4">0x7070 0x08f7</button>
+        <button label="RECALL" span="4">0x7070 0xe817</button>
+
+    </device>
+</irplus>
