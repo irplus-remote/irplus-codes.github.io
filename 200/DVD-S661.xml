@@ -1,0 +1,50 @@
+<irplus>
+    <device manufacturer="YAMAHA" model="DVD-S661" columns="12" format="WINLIRC_SPACEENC" bits="16" pre-bits="16"
+        gap-pulse="564" gap-space="129258" one-pulse="555" one-space="1717" zero-pulse="555" zero-space="563" header-pulse="9133" header-space="4562">
+
+        <space multiple="4"></space>
+        <button label="&#xf011;" span="4">0x3EC1 0x01FE</button>
+        <space multiple="4"></space>
+
+        <button label="TOP MENU" span="4">0x3EC1 0x8D72</button>
+        <button label="↑" alt="UP" span="4">0x3EC1 0x2DD2</button>
+        <button label="OSD" span="4">0x3EC1 0x659A</button>
+
+        <button label="←" alt="LEFT" span="4">0x3EC1 0xAD52</button>
+        <button label="OK" span="4">0x3EC1 0x1DE2</button>
+        <button label="→" span="4">0x3EC1 0x6D92</button>
+
+        <button label="MENU" span="4">0x3EC1 0x4DB2</button>
+        <button label="↓" span="4">0x3EC1 0xCD32</button>
+        <button label="SET UP" span="4">0x3EC1 0x35CA</button>
+
+        <button label="&#xf049;" alt="PREV" span="4">0x3EC1 0x9D62</button>
+        <button label="&#xf04b;" alt="PLAY" span="4">0x3EC1 0x49B6</button>
+        <button label="&#xf050;" alt="NEXT" span="4">0x3EC1 0x5DA2</button>
+
+        <button label="&#xf04d;" alt="STOP" span="4">0x3EC1 0xA15E</button>
+        <button label="&#xf04c;" alt="PAUSE" span="4">0x3EC1 0x49B6</button>
+        <button label="USB" span="4">0x3EC1 0x6798</button>
+
+        <button label="1" span="4">0x3EC1 0x29D6</button>
+        <button label="2" span="4">0x3EC1 0xA956</button>
+        <button label="3" span="4">0x3EC1 0x6996</button>
+
+        <button label="4" span="4">0x3EC1 0xE916</button>
+        <button label="5" span="4">0x3EC1 0x19E6</button>
+        <button label="6" span="4">0x3EC1 0x9966</button>
+
+        <button label="7" span="4">0x3EC1 0x59A6</button>
+        <button label="8" span="4">0x3EC1 0xD926</button>
+        <button label="9" span="4">0x3EC1 0x39C6</button>
+
+        <button label="SUBT" span="4">0x3EC1 0x55AA</button>
+        <button label="0" span="4">0x3EC1 0xC936</button>
+        <button label="AUDIO" span="4">0x3EC1 0xB54A</button>
+
+        <button label="ZOOM" span="6">0x3EC1 0xEB14</button>
+        <button label="REPEAT" span="6">0x3EC1 0xC53A</button>
+        <button label="A-B" span="6">0x3EC1 0x25DA</button>
+
+    </device>
+</irplus>
