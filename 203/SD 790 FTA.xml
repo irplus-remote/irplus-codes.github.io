@@ -1,0 +1,61 @@
+<irplus>
+    <device manufacturer="HE@D" model="SD 790 FTA" columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+
+        <button label="Power" span="4">0x80bf 0x50af</button>
+        <button label="Mute" span="4">0x80bf 0x30cf</button>
+        <button label="TV/SAT" span="4">0x80bf 0x10ef</button>
+        
+        <button label="1" span="4">0x80bf 0x8877</button>
+        <button label="2" span="4">0x80bf 0x48b7</button>
+        <button label="3" span="4">0x80bf 0xc837</button>
+        
+        <button label="4" span="4">0x80bf 0x28d7</button>
+        <button label="5" span="4">0x80bf 0xa857</button>
+        <button label="6" span="4">0x80bf 0x6897</button>
+        
+        <button label="7" span="4">0x80bf 0xe817</button>
+        <button label="8" span="4">0x80bf 0x18e7</button>
+        <button label="9" span="4">0x80bf 0x9867</button>
+        
+        <button label="EPG" span="4">0x80bf 0x20df</button>
+        <button label="0" span="4">0x80bf 0x08f7</button>
+        <button label="FAV" span="4">0x80bf 0x609f</button>
+        
+        <button label="Audio" span="4">0x80bf 0xf00f</button>
+        <button label="↑ CH" span="4">0x80bf 0x00ff</button>
+        <button label="Video" span="4">0x80bf 0x708f</button>
+        
+        <button label="← VOL" span="4">0x80bf 0xc03f</button>
+        <button label="OK" span="4">0x80bf 0xf807</button>
+        <button label="VOL →" span="4">0x80bf 0x40bf</button>
+
+        <button label="Menu" span="4">0x80bf 0xa05f</button>
+        <button label="↓ CH" span="4">0x80bf 0x807f</button>
+        <button label="Exit" span="4">0x80bf 0x12ed</button>
+
+        <button label="Text" span="4">0x80bf 0x827d</button>
+        <button label="Display" span="4">0x80bf 0xe21d</button>
+        <button label="TV" span="4">0x80bf 0x42bd</button>
+       
+        <button label="Sleep Timer" span="3">0x80bf 0xb847</button>
+        <button label="Subt.List" span="3">0x80bf 0x38c7</button>
+        <button label="Zoom" span="3">0x80bf 0xb04f</button>
+        <button label="Back" span="3">0x80bf 0x926d</button>
+
+        <button label="Epg" span="3">0x80bf 0xd02f</button>
+        <button label="Opt" span="3">0x80bf 0x22dd</button>
+        <button label="App" span="3">0x80bf 0xa25d</button>
+        <button label="Info" span="3">0x80bf 0x58a7</button>
+        
+        <button label="RED" fillColor="FFC84334" span="3">0x80bf 0x7887</button>
+        <button label="GREEN" fillColor="FF1E7854" span="3">0x80bf 0x906f</button>
+        <button label="YELLOW" fillColor="FFD6A81F" span="3">0x80bf 0x827d</button>
+        <button label="BLUE" fillColor="FF2A4C94" span="3">0x80bf 0xc23d</button>
+
+        <button label="F" span="3">0x80bf 0xd827</button>
+        <button label="F" span="3">0x80bf 0x02fd</button>
+        <button label="F" span="3">0x80bf 0x629d</button>
+        <button label="F" span="3">0x80bf 0xd22d</button>
+
+    </device>
+</irplus>
