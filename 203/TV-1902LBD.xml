@@ -1,0 +1,77 @@
+<irplus>
+    <device manufacturer="VDC" model="TV-1902LBD" columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+
+        <button label="Power" span="4" backgroundColor="FFC84334">0x10ef 0x30cf</button>
+        <button label="Mute" span="4">0x10ef 0x708f</button>
+        <button label="TV/AV" span="4">0x10ef 0xb04f</button>
+
+        <button label="1" span="4">0x10ef 0x807f</button>
+        <button label="2" span="4">0x10ef 0x40bf</button>
+        <button label="3" span="4">0x10ef 0xc03f</button>
+
+        <button label="4" span="4">0x10ef 0x20df</button>
+        <button label="5" span="4">0x10ef 0xa05f</button>
+        <button label="6" span="4">0x10ef 0x609f</button>
+
+        <button label="7" span="4">0x10ef 0xe01f</button>
+        <button label="8" span="4">0x10ef 0x10ef</button>
+        <button label="9" span="4">0x10ef 0x906f</button>
+
+        <button label="Guide" span="4">0x10ef 0x50af</button>
+        <button label="0" span="4">0x10ef 0x00ff</button>
+        <button label="Fav/Recall" span="4">0x10ef 0xb847</button>
+
+        <button label="Audio" span="4">0x10ef 0x02fd</button>
+        <button label="↑" span="4">0x10ef 0xe817</button>
+        <button label="Video" span="4">0x10ef 0xf807</button>
+
+        <button label="←" span="4">0x10ef 0x6897</button>
+        <button label="OK" span="4">0x10ef 0x28d7</button>
+        <button label="→" span="4">0x10ef 0xa857</button>
+
+        <button label="Menu" span="4">0x10ef 0xf00f</button>
+        <button label="↓" span="4">0x10ef 0x18e7</button>
+        <button label="Text" span="4">0x10ef 0x827d</button>
+
+        <button label="CH+" span="6">0x10ef 0x48b7</button>
+        <button label="Volume+" span="6">0x10ef 0x08f7</button>
+
+        <button label="CH-" span="6">0x10ef 0xc837</button>
+        <button label="Volume-" span="6">0x10ef 0x8877</button>
+
+        <button label="Menu Off" span="4">0x10ef 0x7887</button>
+        <button label="Display" span="4">0x10ef 0xd22d</button>
+        <button label="Return TV" span="4">0x10ef 0x926d</button>
+
+        <button label="Subt List" span="4">0x10ef 0x42bd</button>
+        <button label="Txt Expand" span="4">0x10ef 0xc23d</button>
+        <button label="Back" span="4">0x10ef 0xd02f</button>
+
+        <button label="Update" span="3">0x10ef 0x12ed</button>
+        <button label="Reveal" span="3">0x10ef 0x629d</button>
+        <button label="Txt Stop" span="3">0x10ef 0xa25d</button>
+        <button label="Info" span="3">0x10ef 0x22dd</button>
+
+        <button label="Red" fillColor="FFC84334" span="3">0x10ef 0x9867</button>
+        <button label="Green" fillColor="FF1E7854" span="3">0x10ef 0x58a7</button>
+        <button label="Yellow" fillColor="FFD6A81F" span="3">0x10ef 0xd827</button>
+        <button label="Blue" fillColor="FF2A4C94" span="3">0x10ef 0x38c7</button>
+
+        <button label="AV 2" span="4">0x10ef 0xf20d</button>
+        <button label="On Pip" span="4">0x10ef 0x728d</button>
+        <button label="Swap" span="4">0x10ef 0x0af5</button>
+
+        <button label="Dim Pip" span="3">0x10ef 0x4ab5</button>
+        <button label="Rotate Pip" span="3">0x10ef 0x8a75</button>
+        <button label="Still" span="3">0x10ef 0xaa55</button>
+        <button label="Search" span="3">0x10ef 0xca35</button>
+
+        <button label="F1" span="4">0x10ef 0x2ad5</button>
+        <button label="F2" span="4">0x10ef 0x52ad</button>
+        <button label="F3" span="4">0x10ef 0xb24d</button>
+
+        <button label="F4" span="6">0x10ef 0xe21d</button>
+        <button label="F5" span="6">0x10ef 0x32cd</button>
+
+    </device>
+</irplus>
