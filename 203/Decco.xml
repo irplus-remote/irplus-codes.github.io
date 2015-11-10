@@ -1,5 +1,5 @@
 <irplus>
-    <device manufacturer="PEACHTREE" model="DECCO" columns="12" format="WINLIRC_NEC1">
+    <device manufacturer="PEACHTREE" model="Decco" columns="12" format="WINLIRC_NEC1">
         
         <button label="&#xf011;" alt="POWER" span="6">0x08f7 0x6897</button>
         <button label="MUTE" span="6">0x08f7 0x28d7</button>

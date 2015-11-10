@@ -1,0 +1,25 @@
+<irplus>
+    <device manufacturer="PEACHTREE" model="Grand" columns="12" format="WINLIRC_NEC1">
+
+        <button label="&#xf011;" alt="POWER" span="6">0x00ff 0x6897</button>
+        <button label="MUTE" span="6">0x00ff 0x28d7</button>
+
+        <button label="VOL-" span="6">0x00ff 0x807f</button>
+        <button label="VOL+" span="6">0x00ff 0x00ff</button>
+
+        <button label="PHASE" span="6">0x00ff 0xd02f</button>
+        <button label="TUBE" span="6">0x00ff 0x20df</button>
+
+        <button label="AUX 1H/" span="4">0x00ff 0x10ef</button>
+        <button label="AUX 2" span="4">0x00ff 0x609f</button>
+        <button label="BNC" span="4">0x00ff 0xa05f</button>
+
+        <button label="OPTICAL 1" span="6">0x00ff 0x50af</button>
+        <button label="OPTICAL 2" span="6">0x00ff 0x906f</button>
+
+        <button label="COAX 1" span="4">0x00ff 0xb04f</button>
+        <button label="COAX 2" span="4">0x00ff 0x30cf</button>
+        <button label="USB" span="4">0x00ff 0x708f</button>
+
+    </device>
+</irplus>
