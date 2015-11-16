@@ -1,0 +1,30 @@
+<irplus>
+    <device manufacturer="PEACHTREE" model="novaPre" columns="12" format="WINLIRC_NEC1">
+
+        <button label="&#xf011;" alt="POWER" span="6" backgroundColor="FFC84334">0x08f7 0xf20d</button>
+        <button label="MUTE" span="6">0x08f7 0xfa05</button>
+
+        <button label="USB" span="4">0x08f7 0x52ad</button>
+        <button label="COAX 1" span="4">0x08f7 0x4ab5</button>
+        <button label="COAX 2" span="4">0x08f7 0x7a85</button>
+
+        <button label="OPTICAL" span="4">0x08f7 0x728d</button>
+        <button label="↑" alt="UP" span="4">0x08f7 0x9867</button>
+        <button label="AUX" span="4">0x08f7 0xb24d</button>
+
+        <button label="←" alt="LEFT" span="4">0x08f7 0x8877</button>
+        <button label="ENTER" span="4">0x08f7 0x48b7</button>
+        <button label="→" alt="RIGHT" span="4">0x08f7 0xc837</button>
+
+        <button label="TUBE" span="4">0x08f7 0x5aa5</button>
+        <button label="↓" alt="DOWN" span="4">0x08f7 0x18e7</button>
+        <button label="MENU" span="4">0x08f7 0x58a7</button>
+
+        <button label="&#xf049;" alt="PREV" span="4">0x08f7 0x8877</button>
+        <button label="&#xf04b;" alt="PLAY" span="4">0x08f7 0x48b7</button>
+        <button label="&#xf050;" alt="NEXT" span="4">0x08f7 0xc837</button>
+
+        <button label="VOL-" span="6">0x08f7 0xf00f</button>
+        <button label="VOL+" span="6">0x08f7 0xf807</button>
+    </device>
+</irplus>
