@@ -1,0 +1,31 @@
+<irplus>
+    <device manufacturer="ELTA" model="8886" columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+
+        <button label="&#xf011;" backgroundColor="FFC84334" span="6">0x01fe 0x00ff</button>
+        <button label="Mute" span="6">0x01fe 0x38c7</button>
+
+        <button label="Surround" span="4">0x01fe 0x906f</button>
+        <button label="Input" span="4">0x01fe 0xb847</button>
+        <button label="Presets" span="4">0x01fe 0xf807</button>
+
+        <button label="←" span="6">0x01fe 0xb04f</button>
+        <button label="→" span="6">0x01fe 0x9867</button>
+
+        <button label="Front+" span="4">0x01fe 0x8877</button>
+        <button label="Center+" span="4">0x01fe 0xa857</button>
+        <button label="Rear+" span="4">0x01fe 0xe817</button>
+
+        <button label="Front-" span="4">0x01fe 0x48b7</button>
+        <button label="Center-" span="4">0x01fe 0x6897</button>
+        <button label="Rear-" span="4">0x01fe 0x08f7</button>
+
+        <button label="Bass+" span="4">0x01fe 0xc03f</button>
+        <button label="Volume+" span="4">0x01fe 0x807f</button>
+        <button label="Treble+" span="4">0x01fe 0x58a7</button>
+
+        <button label="Bass-" span="4">0x01fe 0xa05f</button>
+        <button label="Volume-" span="4">0x01fe 0x40bf</button>
+        <button label="Treble-" span="4">0x01fe 0x7887</button>
+
+    </device>
+</irplus>
