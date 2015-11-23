@@ -1,4 +1,6 @@
 <irplus-device-updates>
+<device manufacturer="MPMAN" model="XV-D205 V1" />
+<device manufacturer="MPMAN" model="XV-D205 V2" />
 <device manufacturer="KATHREIN" model="UFS922" />
 <device manufacturer="ELTA" model="8886" />
 <device manufacturer="FIRSTLINE" model="FS 3201 MHI" />
