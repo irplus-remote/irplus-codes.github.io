@@ -1,5 +1,5 @@
 <irplus>
-    <device manufacturer="MEDION" model="MD30116" columns="12" format="WINLIRC_RC5" bits="13" pre-bits="13" toggle-bit-pos="2048" gap-pulse="1" gap-space="110991" one-pulse="888" one-space="879" zero-pulse="888" zero-space="879">
+    <device manufacturer="MEDION" model="MD30116" columns="12" format="WINLIRC_RC5" bits="13" pre-bits="13" toggle-bit-pos="2" gap-pulse="1" gap-space="110991" one-pulse="888" one-space="879" zero-pulse="888" zero-space="879">
         
         <button label="&#xf011;" alt="POWER" span="4">0x104C</button>
         <button label="MUTE" span="4">0x104D</button>
