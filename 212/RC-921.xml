@@ -1,0 +1,50 @@
+<irplus><!-- protocol = Denon, device = 2, obc = 193 -->
+    <device manufacturer="DENON" model="RC-921" columns="12" format="DENON_BINARY">
+
+        <button label="&#xf011;" backgroundColor="FFC84334" span="4">01000 100000 11</button>
+        <button label="&#xf011; ON" backgroundColor="FFC84334" span="4">01000 100001 11</button>
+        <button label="&#xf011; OFF" backgroundColor="FFC84334" span="4">01000 010001 11</button>
+
+        <button label="VOL-" span="4">01000 010011 11</button>
+        <button label="MUTE" span="4">01000 000011 11</button>
+        <button label="VOL+" span="4">01000 100011 11</button>
+
+        <button label="PHONO" span="4">01000 110000 11</button>
+        <button label="CD" span="4">01000 001000 11</button>
+        <button label="TUNER" span="4">01000 101000 11</button>
+        <button label="DVD" span="4">01000 110001 11</button>
+
+        <button label="DBS" span="4">01000 000100 11</button>
+        <button label="TV" span="4">01000 100100 11</button>
+        <button label="VDP" span="4">01000 010100 11</button>
+
+        <button label="CDR/TAPE" span="4">01000 010010 11</button>
+        <button label="TAPE2" span="4">01000 110010 11</button>
+        <button label="V-AUX" span="4">01000 001100 11</button>
+
+        <button label="VCR-1" span="4">01000 101100 11</button>
+        <button label="VCR-2" span="4">01000 011100 11</button>
+        <button label="VCR-3" span="4">01000 111100 11</button>
+
+        <button label="FL LV+" span="4">01000 010000 11</button>
+        <button label="SR LV+" span="4">01000 011010 11</button>
+        <button label="FR LV+" span="4">01000 110100 11</button>
+
+        <button label="FL LV-" span="4">01000 111000 11</button>
+        <button label="SR LV-" span="4">01000 111010 11</button>
+        <button label="FR LV-" span="4">01000 000010 11</button>
+
+        <button label="CINEMA EQ-" span="6">01000 100110 11</button>
+        <button label="CINEMA EQ+" span="6">01000 101010 11</button>
+
+        <button label="VIDEO SELECT" span="6">01000 000110 11</button>
+        <button label="DOLBY/DTS" span="6">01000 001001 11</button>
+
+        <button label="MULTI" span="6">01000 110110 11</button>
+        <button label="ANALOG" span="6">01000 001110 11</button>
+
+        <button label="STATUS" span="6">01000 011110 11</button>
+        <button label="ONSCREEN" span="6">01000 111110 11</button>
+
+    </device>
+</irplus>

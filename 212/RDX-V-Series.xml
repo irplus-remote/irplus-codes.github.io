@@ -1,0 +1,77 @@
+<irplus>
+    <device manufacturer="TOSHIBA" model="RDX-V-Series" columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+        
+        <button label="&#xf011;" backgroundColor="FFD12C2C" span="4">0xa23d 0x48b7</button>
+        <button label="Mute" span="4">0xa23d 0xcb34</button>
+        <button label="DVD/TV" span="4">0xa23d 0xf00f</button>
+        
+        <button label="1" span="4">0xa23d 0x807f</button>
+        <button label="2" span="4">0xa23d 0x40bf</button>
+        <button label="3" span="4">0xa23d 0xc03f</button>
+        <button label="4" span="4">0xa23d 0x20df</button>
+        <button label="5" span="4">0xa23d 0xa05f</button>
+        <button label="6" span="4">0xa23d 0x609f</button>
+        <button label="7" span="4">0xa23d 0xe01f</button>
+        <button label="8" span="4">0xa23d 0x10ef</button>
+        <button label="9" span="4">0xa23d 0x906f</button>
+        
+        <button label="+10" span="4">0xa23d 0xb847</button>
+        <button label="0" span="4">0xa23d 0x00ff</button>
+        <button label="C/CH" span="4">0xa23d 0x0bf4</button>
+        
+        <button label="Title" span="4">0xa23d 0xd827</button>
+        <button label="↑" span="4">0xa23d 0x03fc</button>
+        <button label="Top Menu" span="4">0xa23d 0x18e7</button>
+        
+        <button label="←" span="4">0xa23d 0x33cc</button>
+        <button label="OK" span="4">0xa23d 0x22dd</button>
+        <button label="→" span="4">0xa23d 0x23dc</button>
+        
+        <button label="Menu" span="4">0xa23d 0x8b74</button>
+        <button label="↓" span="4">0xa23d 0x13ec</button>
+        <button label="Repeat" span="4">0xa23d 0xc43b</button>
+        
+        <button label="Return" span="3">0xa23d 0x4bb4</button>
+        <button label="Display" span="3">0xa23d 0xfc03</button>
+        <button label="Next" span="3">0xa23d 0x7887</button>
+        <button label="Rep/A-B" span="3">0xa23d 0x0df2</button>
+        
+        <button label="Prev." span="3">0xa23d 0xf807</button>
+        <button label="Auto/Track" span="3">0xa23d 0xda25</button>
+        <button label="Subt" span="3">0xa23d 0xab54</button>
+        <button label="Zoom" span="3">0xa23d 0x21de</button>
+
+        <button label="Slow -" span="4">0xa23d 0xe51a</button>
+        <button label="Prog" span="4">0xa23d 0x01fe</button>
+        <button label="Slow +" span="4">0xa23d 0x3bc4</button>
+        
+        <button label="&#xf04d;" alt="STOP" span="3">0xa23d 0x6897</button>
+        <button label="&#xf04c;" alt="PAUSE" span="3">0xa23d 0xe817</button>
+        <button label="Record" span="3">0xa23d 0xa857</button>
+        <button label="&#xf052;" alt="EJECT" span="3">0xa23d 0x8877</button>
+
+        <button label="&#xf04a;" alt="REW" span="3">0xa23d 0x19e6</button>
+        <button label="&#xf04b;" alt="PLAY" span="3">0xa23d 0xc837</button>
+        <button label="&#xf04e;" alt="FWD" span="3">0xa23d 0x59a6</button>
+        <button label="Clear" span="3">0xa23d 0xca35</button>
+       
+        <button label="Digest" span="3">0xa23d 0xb649</button>
+        <button label="R/L" span="3">0xa23d 0x5aa5</button>
+        <button label="Setup" span="3">0xa23d 0x4ab5</button>
+        <button label="Timer" span="3">0xa23d 0x58a7</button>
+        
+        <button label="Np" span="3">0xa23d 0xe619</button>
+        <button label="Game" span="3">0xa23d 0x02fd</button>
+        <button label="Remain" span="3">0xa23d 0x55aa</button>
+        <button label="Resume" span="3">0xa23d 0x6a95</button>
+        
+        <button label="Play/Back" span="4">0xa23d 0x55aa</button>
+        <button label="Info" span="4">0xa23d 0xfc03</button>
+        <button label="Angle" span="4">0xa23d 0x54ab</button>
+        
+        <button label="Lang" span="4">0xa23d 0xd42b</button>
+        <button label="Random" span="4">0xa23d 0x34cb</button>
+        <button label="Shuffle" span="4">0xa23d 0x946b</button>
+       
+    </device>
+</irplus>
