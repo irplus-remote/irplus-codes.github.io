@@ -1,0 +1,11 @@
+<irplus>
+    <device manufacturer="1TEST" model="1TEST"
+     columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+
+        <button label="R" fillColor="FFC84334" span="3">0x807f 0xaa55</button>
+        <button label="G" fillColor="FF1E7854" span="3">0x807f 0xea15</button>
+        <button label="Y" fillColor="FFD6A81F" span="3">0x807f 0x08f7</button>
+        <button label="B" fillColor="FF2A4C94" span="3">0x807f 0x6a95</button>
+
+    </device>
+</irplus>
