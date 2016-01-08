@@ -1,0 +1,48 @@
+<irplus>
+    <device manufacturer="TECHNISAT" model="DigitRadio 400" columns="12" format="WINLIRC_NEC1">
+
+        <button label="&#xf011;" alt="POWER" span="4">0x20df 0x1ae5</button>
+        <space multiple="8"></space>
+
+        <space multiple="4"></space>
+        <button label="↑" alt="UP" labelColor="FFDBFF63" span="4">0x20df 0xc837</button>
+        <space multiple="4"></space>
+
+        <button label="←" alt="LEFT" labelColor="FFDBFF63" span="4">0x20df 0x22dd</button>
+        <button label="OK" span="4">0x20df 0xa25d</button>
+        <button label="→" alt="RIGHT" labelColor="FFDBFF63" span="4">0x20df 0x12ed</button>
+
+        <space multiple="4"></space>
+        <button label="↓" alt="DOWN" labelColor="FFDBFF63" span="4">0x20df 0x629d</button>
+        <space multiple="4"></space>
+
+        <button label="VOL-" span="6">0x20df 0xaa55</button>
+        <button label="VOL+" span="6">0x20df 0x6a95</button>
+
+        <button label="MODE" span="4">0x20df 0x48b7</button>
+        <button label="MENU" span="4">0x20df 0xca35</button>
+        <button label="INFO" span="4">0x20df 0x2ad5</button>
+        <button label="MUTE" span="4">0x20df 0x8877</button>
+
+        <button label="SCAN" span="3">0x20df 0x4ab5</button>
+        <button label="&#xf049;" alt="PREV" span="3">0x20df 0x0af5</button>
+        <button label="&#xf04b; &#xf04c;" alt="PLAY/PAUSE" span="3">0x20df 0x8a75</button>
+        <button label="&#xf050;" alt="NEXT" span="3">0x20df 0xea15</button>
+
+        <button label="1" span="4">0x20df 0x807f</button>
+        <button label="2" span="4">0x20df 0x40bf</button>
+        <button label="3" span="4">0x20df 0xc03f</button>
+
+        <button label="4" span="4">0x20df 0x20df</button>
+        <button label="5" span="4">0x20df 0xa05f</button>
+        <button label="6" span="4">0x20df 0x609f</button>
+
+        <button label="7" span="4">0x20df 0xe01f</button>
+        <button label="8" span="4">0x20df 0x10ef</button>
+        <button label="9" span="4">0x20df 0x906f</button>
+
+        <button label="SLEEP" span="4">0x20df 0xa857</button>
+        <button label="10" span="4">0x20df 0x08f7</button>
+        <button label="SNOOZE" span="4">0x20df 0x28d7</button>
+    </device>
+</irplus>
