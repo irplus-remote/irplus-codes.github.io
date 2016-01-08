@@ -19,10 +19,10 @@
         <button label="VOL-" span="6">0x20df 0xaa55</button>
         <button label="VOL+" span="6">0x20df 0x6a95</button>
 
-        <button label="MODE" span="4">0x20df 0x48b7</button>
-        <button label="MENU" span="4">0x20df 0xca35</button>
-        <button label="INFO" span="4">0x20df 0x2ad5</button>
-        <button label="MUTE" span="4">0x20df 0x8877</button>
+        <button label="MODE" span="3">0x20df 0x48b7</button>
+        <button label="MENU" span="3">0x20df 0xca35</button>
+        <button label="INFO" span="3">0x20df 0x2ad5</button>
+        <button label="MUTE" span="3">0x20df 0x8877</button>
 
         <button label="SCAN" span="3">0x20df 0x4ab5</button>
         <button label="&#xf049;" alt="PREV" span="3">0x20df 0x0af5</button>
