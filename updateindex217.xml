@@ -2,4 +2,5 @@
 <device manufacturer="TECHNISAT" model="DigitRadio 400" />
 <device manufacturer="SONY" model="RM-ED035" />
 <device manufacturer="SONY" model="CMT-CP100" />
+<device manufacturer="VUplus" model="Solo2" />
 </irplus-device-updates>
