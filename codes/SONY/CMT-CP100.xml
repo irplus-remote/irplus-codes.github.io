@@ -1,5 +1,5 @@
 <irplus>
-    <device manufacturer="SONY" model="CMT-CP100" columns="4" format="WINLIRC_RAW" frequency="40000">
+    <device manufacturer="SONY" model="CMT-CP100" columns="4" format="WINLIRC_RAW" frequency="40000" repeat="3">
 
         <button label="DSG" span="4">2467 429 1300 440 700 440 700 440 700 440 1300 440 1300 440 700 440 700 440 700 440 1300 440 1300 440 700</button>
         <button label="DISPLAY" span="4">2467 429 1300 440 1300 440 700 440 1300 440 700 440 700 440 1300 440 700 440 700 440 700 440 700 440 1300</button>
