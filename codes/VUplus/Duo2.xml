@@ -1,0 +1,66 @@
+<irplus>
+    <device manufacturer="VUplus" model="Duo2" columns="12" format="WINLIRC_RC6" bits="37" toggle-bit-pos="21" toggle-bit-type="mce" frequency="36000"
+        gap-pulse="1" gap-space="107035" one-pulse="471" one-space="412" zero-pulse="471" zero-space="412" header-pulse="2688" header-space="852">
+
+        <button label="POWER" backgroundColor="FFC84334" span="3">0x37FAD6FF3</button>
+        <button label="TEXT" span="3">0x37FAD6FC3</button>
+        <button label="PVR" span="3">0x37FAD6FB6</button>
+        <button label="MUTE" span="3">0x37FAD6FF2</button>
+
+        <button label="1" span="4">0x37FAD6FFE</button>
+        <button label="2" span="4">0x37FAD6FFD</button>
+        <button label="3" span="4">0x37FAD6FFC</button>
+
+        <button label="4" span="4">0x37FAD6FFB</button>
+        <button label="5" span="4">0x37FAD6FFA</button>
+        <button label="6" span="4">0x37FAD6FF9</button>
+
+        <button label="7" span="4">0x37FAD6FF8</button>
+        <button label="8" span="4">0x37FAD6FF7</button>
+        <button label="9" span="4">0x37FAD6FF6</button>
+
+        <button label="&#xf049;" alt="PREV" span="4">0x37FAD6F44</button>
+        <button label="0" span="4">0x37FAD6FFF</button>
+        <button label="&#xf050;" alt="NEXT" span="4">0x37FAD6F43</button>
+
+        <button label="R" fillColor="FFC84334" span="3">0x37FAD6F92</button>
+        <button label="G" fillColor="FF1E7854" span="3">0x37FAD6F91</button>
+        <button label="Y" fillColor="FFD6A81F" span="3">0x37FAD6F90</button>
+        <button label="B" fillColor="FF2A4C94" span="3">0x37FAD6F8F</button>
+
+        <space multiple="4"></space>
+        <button label="↑" alt="UP" span="4">0x37FAD6FA7</button>
+        <space multiple="4"></space>
+
+        <button label="←" alt="LEFT" span="4">0x37FAD6FA5</button>
+        <button label="OK" span="4">0x37FAD6FA3</button>
+        <button label="→" alt="RIGHT" span="4">0x37FAD6FA4</button>
+
+        <space multiple="4"></space>
+        <button label="↓" alt="DOWN" span="4">0x37FAD6FA6</button>
+        <space multiple="4"></space>
+
+        <button label="VOL+" span="4">0x37FAD6FEF</button>
+        <button label="EXIT" span="4">0x37FAD6FAA</button>
+        <button label="CH+" span="4">0x37FAD6FDF</button>
+
+        <button label="VOL-" span="4">0x37FAD6FEE</button>
+        <button label="EPG" span="4">0x37FAD6F33</button>
+        <button label="CH-" span="4">0x37FAD6FDE</button>
+
+        <button label="MENU" span="4">0x37FAD6FAB</button>
+        <button label="AUDIO" span="4">0x37FAD6F1A</button>
+        <button label="HELP" span="4">0x37FAD6F7E</button>
+
+        <button label="&#xf04a;" alt="REW" span="3">0x37FAD6FD6</button>
+        <button label="&#xf04b;" alt="PLAY" span="3">0x37FAD6FD3</button>
+        <button label="&#xf04c;" alt="PAUSE" span="3">0x37FAD6FCF</button>
+        <button label="&#xf04e;" alt="FWD" span="3">0x37FAD6FD7</button>
+
+        <button label="TV" span="3">0x37FAD6F1B</button>
+        <button label="&#xf111;" alt="RECORD" labelColor="FFC84334" span="3">0x37FAD6FC8</button>
+        <button label="&#xf04d;" alt="STOP" span="3">0x37FAD6FCE</button>
+        <button label="RADIO" span="3">0x37FAD6F0D</button>
+
+    </device>
+</irplus>
