@@ -1,7 +1,7 @@
 <irplus>
-    <device manufacturer="VUplus" model="Solo2" columns="12" format="WINLIRC_RC6" bits="37" toggle-bit-pos="21" toggle-bit-type="mce"
+    <device manufacturer="VUplus" model="Solo2" columns="12" format="WINLIRC_RC6" bits="37" toggle-bit-pos="21" toggle-bit-type="mce" frequency="36000"
         gap-pulse="1" gap-space="107035" one-pulse="471" one-space="412" zero-pulse="471" zero-space="412" header-pulse="2688" header-space="852">
-        
+
         <button label="POWER" backgroundColor="FFC84334" span="3">0x37FAD6FF3</button>
         <button label="TEXT" span="3">0x37FAD6FC3</button>
         <button label="PVR" span="3">0x37FAD6FB6</button>
