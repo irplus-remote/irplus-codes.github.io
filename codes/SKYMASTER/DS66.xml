@@ -1,6 +1,6 @@
 <irplus>
     <device manufacturer="SKYMASTER" model="DS66" columns="12" format="WINLIRC_SPACEENC" bits="11" toggle-bit-pos="2" gap-pulse="229" gap-space="121676"
-        one-pulse="229" one-space="7374" zero-pulse="229" zero-space="4849" repeat="3" frequency="38000">
+        one-pulse="229" one-space="7374" zero-pulse="229" zero-space="4849" repeat="2" frequency="38000">
 
         <button label="&#xf011;" alt="POWER" backgroundColor="FFC84334" span="6">0x55E</button>
         <button label="MUTE" span="6">0x558</button>
