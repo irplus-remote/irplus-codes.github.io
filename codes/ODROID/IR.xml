@@ -1,0 +1,30 @@
+<irplus>
+    <device manufacturer="ODROID" model="IR" columns="12" format="WINLIRC_NEC1">
+
+        <space multiple="2"></space>
+        <button label="&#xf011;" backgroundColor="FFC84334" span="8">0x4DB2 0xDC23</button>
+        <space multiple="2"></space>
+
+        <button label="MUTE" span="6">0x4DB2 0x8877</button>
+        <button label="HOME" span="6">0x4DB2 0x827D</button>
+
+        <space multiple="4"></space>
+        <button label="" span="4">0x4DB2 0xCA35</button>
+        <space multiple="4"></space>
+       
+        <button label="" span="4">0x4DB2 0x9966</button>
+        <button label="OK" span="4">0x4DB2 0xCE31</button>
+        <button label="" span="4">0x4DB2 0xC13E</button>
+
+        <space multiple="4"></space>
+        <button label="" span="4">0x4DB2 0xD22D</button>
+        <space multiple="4"></space>
+       
+        <button label="MENU" span="6">0x4DB2 0xC53A</button>
+        <button label="BACK" span="6">0x4DB2 0x9A65</button>
+        
+        <button label="VOL+" span="6">0x4DB2 0x807F</button>
+        <button label="VOL-" span="6">0x4DB2 0x817E</button>
+
+    </device>
+</irplus>
