@@ -1,4 +1,5 @@
 <irplus-device-updates>
+<device manufacturer="OPTICUM" model="FS10P" />
 <device manufacturer="ODROID" model="IR" />
 <device manufacturer="TOPFIELD" model="SBX3100" />
 <device manufacturer="ZODIAC" model="ZDT9000MHP" />
