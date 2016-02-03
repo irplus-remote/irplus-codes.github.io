@@ -1,0 +1,52 @@
+<irplus>
+    <device manufacturer="SKYMASTER" model="DX24" columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+        
+        <button label="&#xf011;" backgroundColor="FFC84334" span="6">0x3fc 0xf906</button>
+        <button label="Mute" span="6">0x3fc 0xf10e</button>
+        
+        <button label="1" span="4">0x3fc 0x9966</button>
+        <button label="2" span="4">0x3fc 0x19e6</button>
+        <button label="3" span="4">0x3fc 0x59a6</button>
+        
+        <button label="4" span="4">0x3fc 0xd926</button>
+        <button label="5" span="4">0x3fc 0xa956</button>
+        <button label="6" span="4">0x3fc 0x29d6</button>
+        
+        <button label="7" span="4">0x3fc 0x6996</button>
+        <button label="8" span="4">0x3fc 0xe916</button>
+        <button label="9" span="4">0x3fc 0x8976</button>
+        
+        <button label="Epg" span="4">0x3fc 0x01fe</button>
+        <button label="0" span="4">0x3fc 0x09f6</button>
+        <button label="FAV" span="4">0x3fc 0x1be4</button>
+
+        <button label="Text" span="4">0x3fc 0x49b6</button>
+        <button label="&#xf0d8; CH" span="4">0x3fc 0x31ce</button>
+        <button label="Display" span="4">0x3fc 0x39c6</button>
+
+        <button label="&#xf0d9; VOL" span="4">0x3fc 0x916e</button>
+        <button label="OK" span="4">0x3fc 0x11ee</button>
+        <button label="VOL &#xf0da;" span="4">0x3fc 0x51ae</button>
+
+        <button label="Menu" span="4">0x3fc 0x41be</button>
+        <button label="&#xf0d7; CH" span="4">0x3fc 0x21de</button>
+        <button label="Exit" span="4">0x3fc 0xb14e</button>
+
+        <button label="Audio" span="3">0x3fc 0xb946</button>
+        <button label="Video" span="3">0x3fc 0xc936</button>
+        <button label="TV" span="3">0x3fc 0x7986</button>
+        <button label="Subt.List" span="3">0x3fc 0xc13e</button>
+
+        <button label="Zoom" span="3">0x3fc 0xe11e</button>
+        <button label="Opt?" span="3">0x3fc 0x3bc4</button>
+        <button label="App" span="3">0x3fc 0x718e</button>
+        <button label="Info" span="3">0x3fc 0x2bd4</button>
+        
+        <button label="R" fillColor="FFC84334" span="3">0x3fc 0xd12e</button>
+        <button label="G" fillColor="FF1E7854" span="3">0x3fc 0xa15e</button>
+        <button label="Y" fillColor="FFD6A81F" span="3">0x3fc 0x619e</button>
+        <button label="B" fillColor="FF2A4C94" span="3">0x3fc 0x817e</button>
+
+
+    </device>
+</irplus>
