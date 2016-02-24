@@ -1,0 +1,45 @@
+<irplus>
+    <device manufacturer="BLUETECH" model="DTN" columns="12" format="WINLIRC_NEC1">
+
+        <button label="&#xf011;" alt="POWER" backgroundColor="FFC84334" span="6">0x00ff 0xb04f</button>
+        <button label="MUTE" span="6">0x00ff 0x906f</button>
+
+        <button label="1" span="4">0x00ff 0x6a95</button>
+        <button label="2" span="4">0x00ff 0x5aa5</button>
+        <button label="3" span="4">0x00ff 0x7a85</button>
+        <button label="4" span="4">0x00ff 0xe817</button>
+        <button label="5" span="4">0x00ff 0xd827</button>
+        <button label="6" span="4">0x00ff 0xf807</button>
+        <button label="7" span="4">0x00ff 0xa857</button>
+        <button label="8" span="4">0x00ff 0x9867</button>
+        <button label="9" span="4">0x00ff 0xb847</button>
+
+        <space multiple="4"></space>
+        <button label="0" span="4">0x00ff 0x58a7</button>
+        <space multiple="4"></space>
+
+        <button label="MENU" span="4">0x00ff 0xaa55</button>
+        <button label="&#xf0d8;" alt="UP" span="4">0x00ff 0x9a65</button>
+        <button label="EXIT" span="4">0x00ff 0xba45</button>
+
+        <button label="&#xf0d9;" alt="LEFT" span="4">0x00ff 0x2ad5</button>
+        <button label="ENTER" span="4">0x00ff 0x1ae5</button>
+        <button label="&#xf0da;" alt="RIGHT" span="4">0x00ff 0x3ac5</button>
+
+        <button label="TELETEXT" span="4">0x00ff 0x42bd</button>
+        <button label="&#xf0d7;" alt="DOWN" span="4">0x00ff 0x807f</button>
+        <space multiple="4"></space>
+
+        <button label="RECALL" span="3">0x00ff 0x728d</button>
+        <button label="AUDIO" span="3">0x00ff 0xf00f</button>
+        <button label="INFO" span="3">0x00ff 0x708f</button>
+        <button label="EPG" span="3">0x00ff 0xb24d</button>
+
+        <button label="ZOOM" backgroundColor="FFC84334" span="3">0x00ff 0x52ad</button>
+        <button label="G" fillColor="FF1E7854" span="3">0x00ff 0xd02f</button>
+        <button label="Y" fillColor="FFD6A81F" span="3">0x00ff 0x50af</button>
+        <button label="B" fillColor="FF2A4C94" span="3">0x00ff 0x926d</button>
+
+
+    </device>
+</irplus>
