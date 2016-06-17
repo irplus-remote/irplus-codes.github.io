@@ -1,7 +1,7 @@
 <irplus>
     <device manufacturer="XORO" model="HRK8750" columns="12" format="WINLIRC_NEC1">
 
-        <button label="&#xf011;" alt="POWER" span="6">0x00ff 0x18e7</button>
+        <button label="&#xf011;" alt="POWER" backgroundColor="FFC84334" span="6">0x00ff 0x18e7</button>
         <button label="MUTE" span="6">0x00ff 0x20df</button><!--missing code-->
 
         <button label="DISPLAY" span="3">0x00ff 0x06f9</button>
@@ -41,10 +41,10 @@
         <button label="FAV" span="4">0x00ff 0x30cf</button>
         <button label="ZOOM" span="4">0x00ff 0x9a65</button>
 
-        <button label="R" alt="RED" span="3">0x00ff 0x9867</button>
-        <button label="G" alt="GREEN" span="3">0x00ff 0x10ef</button>
-        <button label="Y" alt="YELLOW" span="3">0x00ff 0xc03f</button>
-        <button label="B" alt="BLUE" span="3">0x00ff 0xb847</button>
+        <button label="R" fillColor="FFC84334" span="3">0x00ff 0x9867</button>
+        <button label="G" fillColor="FF1E7854" span="3">0x00ff 0x10ef</button>
+        <button label="Y" fillColor="FFD6A81F" span="3">0x00ff 0xc03f</button>
+        <button label="B" fillColor="FF2A4C94" span="3">0x00ff 0xb847</button>
 
         <button label="INFO" span="3">0x00ff 0xa05f</button>
         <button label="SUB/SWAP" span="3">0x00ff 0x02fd</button>
