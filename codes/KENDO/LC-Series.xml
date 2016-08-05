@@ -1,0 +1,83 @@
+<irplus>
+    <device manufacturer="KENDO" model="LC-Series" columns="12" format="WINLIRC_RC5" bits="13" pre-bits="13" repeat="2"
+        toggle-bit-pos="2" gap-pulse="1" gap-space="90886" one-pulse="889" one-space="889" zero-pulse="889" zero-space="889">
+
+        <button label="&#xf011;" alt="POWER" backgroundColor="FFC84334" span="4">0x100c</button>
+        <button label="TV/AV" span="4">0x1038</button>
+        <button label="SUBT-LIST" span="4">0x102e</button>
+
+        <button label="TEXT" span="4">0x103c</button>
+        <button label="RETURN TV" span="4">0x103f</button>
+        <button label="SLEEP_TIMER" span="4">0x1026</button>
+
+        <button label="TXT EXPAND" span="4">0x102b</button>
+        <button label="REVEAL" span="4">0x100e</button>
+        <button label="TXT STOP" span="4">0x1029</button>
+
+        <button label="INFO" span="4">0x1012</button>
+        <button label="&#xf0d8;" span="4">0x1014</button>
+        <button label="MENU AUDIO" span="4">0x1024</button>
+
+        <button label="&#xf0d9;" span="4">0x1015</button>
+        <button label="OK_ENTER" span="4">0x1035</button>
+        <button label="&#xf0da;" span="4">0x1016</button>
+
+        <button label="MENU" span="4">0x1030</button>
+        <button label="&#xf0d7;" span="4">0x1013</button>
+        <button label="EXIT" span="4">0x101e</button>
+
+        <button label="VOL+" span="4">0x1010</button>
+        <button label="DISPLAY" span="4">0x100f</button>
+        <button label="CH+" span="4">0x1020</button>
+
+        <button label="VOL-" span="4">0x1011</button>
+        <button label="MUTE" span="4">0x100d</button>
+        <button label="CH+" span="4">0x1021</button>
+
+        <button label="1" span="4">0x1001</button>
+        <button label="2" span="4">0x1002</button>
+        <button label="3" span="4">0x1003</button>
+
+        <button label="4" span="4">0x1004</button>
+        <button label="5" span="4">0x1005</button>
+        <button label="6" span="4">0x1006</button>
+
+        <button label="7" span="4">0x1007</button>
+        <button label="8" span="4">0x1008</button>
+        <button label="9" span="4">0x1009</button>
+
+        <button label="GUIDE" span="4">0x100a</button>
+        <button label="0" span="4">0x1000</button>
+        <button label="FAV" span="4">0x100b</button>
+
+        <button label="R" fillColor="FFC84334" span="3">0x1037</button>
+        <button label="G" fillColor="FF1E7854" span="3">0x1036</button>
+        <button label="Y" fillColor="FFD6A81F" span="3">0x1032</button>
+        <button label="B" fillColor="FF2A4C94" span="3">0x1034</button>
+
+        <button label="F1" span="3">0x103d</button>
+        <button label="F2" span="3">0x1039</button>
+        <button label="F3" span="3">0x102f</button>
+        <button label="F4" span="3">0x1027</button>
+
+        <button label="F5" span="3">0x102c</button>
+        <button label="F6" span="3">0x101a</button>
+        <button label="F7" span="3">0x101c</button>
+        <button label="F8" span="3">0x101b</button>
+
+        <button label="F9" span="3">0x101d</button>
+        <button label="F10" span="3">0x103b</button>
+        <button label="F11" span="3">0x102b</button>
+        <button label="F12" span="3">0x1023</button>
+
+        <button label="F13" span="3">0x102a</button>
+        <button label="F14" span="3">0x1018</button>
+        <button label="F15" span="3">0x1019</button>
+        <button label="F16" span="3">0x101f</button>
+
+        <button label="F17" span="3">0x103e</button>
+        <button label="F18" span="3">0x103a</button>
+        <button label="F19" span="3">0x1022</button>
+        <button label="F20" span="3">0x102d</button>
+    </device>
+</irplus>

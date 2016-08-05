@@ -1,5 +1,6 @@
 <irplus-device-updates>
 <device manufacturer="CRISTOR ATLAS" model="HD-200S"/>
-<device manufacturer="TELESYSTEM" model="TS7901HD"/>
+<device manufacturer="KENDO" model="LC-Series"/>
 <device manufacturer="STARSAT" model="SR-C10"/>
+<device manufacturer="TELESYSTEM" model="TS7901HD"/>
 </irplus-device-updates>
