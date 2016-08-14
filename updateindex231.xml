@@ -3,4 +3,5 @@
 <device manufacturer="KENDO" model="LC-Series"/>
 <device manufacturer="STARSAT" model="SR-C10"/>
 <device manufacturer="TELESYSTEM" model="TS7901HD"/>
+<device manufacturer="MEGASAT" model="HD935"/>
 </irplus-device-updates>
