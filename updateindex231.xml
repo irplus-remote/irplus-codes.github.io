@@ -4,4 +4,5 @@
 <device manufacturer="STARSAT" model="SR-C10"/>
 <device manufacturer="TELESYSTEM" model="TS7901HD"/>
 <device manufacturer="MEGASAT" model="HD935"/>
+<device manufacturer="MEGASAT" model="RM-AMU096"/>
 </irplus-device-updates>
