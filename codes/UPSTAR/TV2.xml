@@ -1,0 +1,78 @@
+<irplus>
+    <device manufacturer="UPSTAR" model="TV2" columns="12" format="WINLIRC_NEC1">
+
+        <button label="&#xf011;" alt="POWER" span="4">0x00fd 0x38c7</button>
+        <button label="MUTE" span="4">0x00fd 0xfa05</button>
+        <button label="INPUT" span="4">0x00fd 0x5aa5</button>
+
+        <button label="AV" span="4">0x00fd 0x728d</button>
+        <button label="COMPONENT" span="4">0x00fd 0x30cf</button>
+        <button label="HDMI" span="4">0x00fd 0xb24d</button>
+
+        <button label="TV" span="4">0x00fd 0x629d</button>
+        <button label="USB" span="4">0x00fd 0xd827</button>
+        <button label="VGA" span="4">0x00fd 0xb04f</button>
+
+        <button label="1" span="4">0x00fd 0xca35</button>
+        <button label="2" span="4">0x00fd 0x0af5</button>
+        <button label="3" span="4">0x00fd 0x48b7</button>
+
+        <button label="4" span="4">0x00fd 0xf20d</button>
+        <button label="5" span="4">0x00fd 0x32cd</button>
+        <button label="6" span="4">0x00fd 0x708f</button>
+
+        <button label="7" span="4">0x00fd 0xd22d</button>
+        <button label="8" span="4">0x00fd 0x12ed</button>
+        <button label="9" span="4">0x00fd 0x50af</button>
+
+        <button label="ADD/DEL" span="4">0x00fd 0xf00f</button>
+        <button label="0" span="4">0x00fd 0x22dd</button>
+        <button label="FORMATS" span="4">0x00fd 0x18e7</button>
+
+        <button label="R" alt="RED" span="3">0x00fd 0x42bd</button>
+        <button label="G" alt="GREEN" span="3">0x00fd 0x827d</button>
+        <button label="Y" alt="YELLOW" span="3">0x00fd 0x807f</button>
+        <button label="B" alt="BLUE" span="3">0x00fd 0x00ff</button>
+
+        <button label="CH LIST" span="4">0x00fd 0xa25d</button>
+        <button label="ENTER" span="4">0x00fd 0x609f</button>
+        <button label="EXIT" span="4">0x00fd 0x08f7</button>
+
+        <button label="FAV-" span="4">0x00fd 0x40bf</button>
+        <button label="FAV" span="4">0x00fd 0xc23d</button>
+        <button label="FAV+" span="4">0x00fd 0xd02f</button>
+
+        <button label="FREEZE" span="4">0x00fd 0x2ad5</button>
+        <button label="GUIDE" span="4">0x00fd 0x7a85</button>
+        <button label="INFO" span="4">0x00fd 0x58a7</button>
+
+        <button label="VOL+" span="4">0x00fd 0x02fd</button>
+        <button label="&#xf0d8;" alt="UP" span="4">0x00fd 0x9a65</button>
+        <button label="CH+" span="4">0x00fd 0xc03f</button>
+
+        <button label="&#xf0d9;" alt="LEFT" span="4">0x00fd 0x6a95</button>
+        <button label="ENTER" span="4">0x00fd 0xaa55</button>
+        <button label="&#xf0da;" alt="RIGHT" span="4">0x00fd 0x28d7</button>
+
+        <button label="VOL-" span="4">0x00fd 0xba45</button>
+        <button label="&#xf0d7;" alt="DOWN" span="4">0x00fd 0x8a75</button>
+        <button label="CH-" span="4">0x00fd 0xf807</button>
+
+        <button label="LAST CH" span="3">0x00fd 0xe21d</button>
+        <button label="MENU" span="3">0x00fd 0xc837</button>
+        <button label="MTS/SAP" span="3">0x00fd 0x4ab5</button>
+        <button label="PICTURE" span="3">0x00fd 0xda25</button>
+
+        <button label="&#xf049;" alt="PREV" span="4">0x00fd 0x52ad</button>
+        <button label="&#xf04b;" alt="PLAY" span="4">0x00fd 0x906f</button>
+        <button label="&#xf050;" alt="NEXT" span="4">0x00fd 0x10ef</button>
+
+        <button label="&#xf04a;" alt="REV" span="4">0x00fd 0xa05f</button>
+        <button label="&#xf04d;" alt="STOP" span="4">0x00fd 0x926d</button>
+        <button label="&#xf04e;" alt="FWD" span="4">0x00fd 0x20df</button>
+
+        <button label="SLEEP" span="4">0x00fd 0xe817</button>
+        <button label="SOUND" span="4">0x00fd 0xea15</button>
+        <button label="VCHIP" span="4">0x00fd 0x6897</button>
+    </device>
+</irplus>
