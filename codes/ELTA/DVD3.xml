@@ -1,0 +1,52 @@
+<irplus>
+    <device manufacturer="ELTA" model="DVD4" columns="12" format="WINLIRC_NEC1">
+
+        <button label="&#xf011;" alt="POWER" backgroundColor="FFC84334" span="4">0x007f 0x18e7</button>
+        <button label="MUTE" span="4">0x007f 0xa857</button>
+        <button label="AV" span="4">0x007f 0x6a95</button>
+
+        <button label="1" span="4">0x007f 0x48b7</button>
+        <button label="2" span="4">0x007f 0xc837</button>
+        <button label="3" span="4">0x007f 0x32cd</button>
+        <button label="4" span="4">0x007f 0x708f</button>
+        <button label="5" span="4">0x007f 0xf00f</button>
+        <button label="6" span="4">0x007f 0x12ed</button>
+        <button label="7" span="4">0x007f 0x50af</button>
+        <button label="8" span="4">0x007f 0xd02f</button>
+        <button label="9" span="4">0x007f 0x22dd</button>
+
+        <button label="DASH" span="4">0x007f 0xe01f</button>
+        <button label="0" span="4">0x007f 0x609f</button>
+        <button label="CH ENTER" span="4">0x007f 0x8877</button>
+
+        <button label="CH-" span="4">0x007f 0xa857</button>
+        <button label="LAST CH" span="4">0x007f 0x58a7</button>
+        <button label="CH+" span="4">0x007f 0xa25d</button>
+
+        <button label="EXIT" span="4">0x007f 0x8a75</button>
+        <button label="&#xf0d8;" alt="UP" span="4">0x007f 0x52ad</button>
+        <button label="MENU" span="4">0x007f 0x20df</button>
+
+        <button label="&#xf0d9;" alt="LEFT" span="4">0x007f 0x9867</button>
+        <button label="ENTER" span="4">0x007f 0x728d</button>
+        <button label="&#xf0da;" alt="RIGHT" span="4">0x007f 0x827d</button>
+
+        <button label="SLEEP" span="4">0x007f 0x6897</button>
+        <button label="&#xf0d7;" alt="DOWN" span="4">0x007f 0x4ab5</button>
+        <button label="GUIDE" span="4">0x007f 0x10ef</button>
+
+        <button label="PIP" span="4">0x007f 0x0af5</button>
+        <button label="INFO" span="4">0x007f 0x7887</button>
+        <button label="PIP SWAP" span="4">0x007f 0x2ad5</button>
+
+        <button label="&#xf049;" alt="PREV" span="4">0x007f 0xa857</button>
+        <button label="&#xf04b;" alt="PLAY" span="4">0x007f 0xba45</button>
+        <button label="&#xf111;" alt="RECORD" span="4">0x007f 0x7a85</button>
+        <button label="&#xf050;" alt="NEXT" span="4">0x007f 0xa25d</button>
+
+        <button label="&#xf04a;" alt="REV" span="4">0x007f 0x807f</button>
+        <button label="&#xf04c;" alt="PAUSE" span="4">0x007f 0xc03f</button>
+        <button label="&#xf04d;" alt="STOP" span="4">0x007f 0x5aa5</button>
+        <button label="&#xf04e;" alt="FWD" span="4">0x007f 0x9a65</button>
+    </device>
+</irplus>

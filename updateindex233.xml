@@ -1,2 +1,7 @@
 <irplus-device-updates>
+	<device manufacturer="ELTA" model="DVD1"/>
+	<device manufacturer="ELTA" model="DVD2"/>
+	<device manufacturer="ELTA" model="DVD3"/>
+	<device manufacturer="ELTA" model="DVD4"/>
+	<device manufacturer="ELTA" model="DVD5"/>
 </irplus-device-updates>
