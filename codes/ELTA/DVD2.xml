@@ -44,8 +44,8 @@
         <button label="&#xf04b;" alt="PLAY" span="3">0x007f 0xba45</button>
         <button label="&#xf050;" alt="NEXT" span="3">0x007f 0xa25d</button>
 
-        <button label="&#xf111;" alt="RECORD" span="3">0x007f 0x7a85</button>
         <button label="&#xf04a;" alt="REV" span="3">0x007f 0x807f</button>
+        <button label="&#xf111;" alt="RECORD" span="3">0x007f 0x7a85</button>
         <button label="&#xf04d;" alt="STOP" span="3">0x007f 0x5aa5</button>
         <button label="&#xf04e;" alt="FWD" span="3">0x007f 0x9a65</button>
 

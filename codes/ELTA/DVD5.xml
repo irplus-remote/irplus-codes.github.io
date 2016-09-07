@@ -31,10 +31,10 @@
         <button label="&#xf0d7;" alt="DOWN" span="4">0x00fb 0xf20d</button>
         <button label="VOL-" span="4">0x00fb 0x9867</button>
 
-        <button label="&#xf04e;" alt="FWD" span="3">0x00fb 0x609f</button>
+        <button label="&#xf04a;" alt="REV" span="3">0x00fb 0x38c7</button>
         <button label="&#xf04d;" alt="STOP" span="3">0x00fb 0xb04f</button>
         <button label="&#xf04b;" alt="PLAY" span="3">0x00fb 0xa857</button>
-        <button label="&#xf04a;" alt="REV" span="3">0x00fb 0x38c7</button>
+        <button label="&#xf04e;" alt="FWD" span="3">0x00fb 0x609f</button>
 
         <button label="TXT ON" span="4">0x00fb 0x926d</button>
         <button label="TXT MIX" span="4">0x00fb 0x728d</button>

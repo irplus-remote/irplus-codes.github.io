@@ -38,14 +38,14 @@
         <button label="&#xf0d7;" alt="DOWN" span="4">0x11ee 0x22dd</button>
         <button label="MENU" span="4">0x11ee 0xf00f</button>
 
-        <button label="&#xf050;" alt="NEXT" span="3">0x11ee 0xd827</button>
-        <button label="&#xf04c;" alt="PAUSE" span="3">0x11ee 0x9867</button>
         <button label="&#xf049;" alt="PREV" span="3">0x11ee 0x58a7</button>
+        <button label="&#xf04c;" alt="PAUSE" span="3">0x11ee 0x9867</button>
         <button label="&#xf04b;" alt="PLAY" span="3">0x11ee 0xe817</button>
+        <button label="&#xf050;" alt="NEXT" span="3">0x11ee 0xd827</button>
 
-        <button label="&#xf04e;" alt="FWD" span="3">0x11ee 0xb847</button>
-        <button label="&#xf04d;" alt="STOP" span="3">0x11ee 0x18e7</button>
         <button label="&#xf04a;" alt="REV" span="3">0x11ee 0x38c7</button>
+        <button label="&#xf04d;" alt="STOP" span="3">0x11ee 0x18e7</button>
+        <button label="&#xf04e;" alt="FWD" span="3">0x11ee 0xb847</button>
         <button label="SUBTITLE" span="3">0x11ee 0xc837</button>
     </device>
 </irplus>
