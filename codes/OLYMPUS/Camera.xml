@@ -1,0 +1,9 @@
+<irplus>
+    <device manufacturer="OLYMPUS" model="Camera" columns="4" format="WINLIRC_NEC1">
+        <button label="CAPTURE" span="4">0x61DC 0x807F</button>
+        <button label="W" span="4">0x61DC 0x40BF</button>
+        <button label="T" span="4">0x61DC 0xC03F</button>
+        <button label="KP-" span="4">0x61DC 0x20DF</button>
+        <button label="KP+" span="4">0x61DC 0xA05F</button>
+    </device>
+</irplus>
