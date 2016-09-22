@@ -7,4 +7,5 @@
 	<device manufacturer="OLYMPUS" model="Camera"/>
 	<device manufacturer="GRUNDIG" model="BluRay-1"/>
 	<device manufacturer="GRUNDIG" model="BluRay-2"/>
+	<device manufacturer="ZOTAC" model="ZBOX-CA320NANO-U1"/>
 </irplus-device-updates>
