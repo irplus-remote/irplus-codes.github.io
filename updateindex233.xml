@@ -8,4 +8,5 @@
 	<device manufacturer="GRUNDIG" model="BluRay-1"/>
 	<device manufacturer="GRUNDIG" model="BluRay-2"/>
 	<device manufacturer="ZOTAC" model="ZBOX-CA320NANO-U1"/>
+	<device manufacturer="YAMAHA" model="RAX101"/>
 </irplus-device-updates>
