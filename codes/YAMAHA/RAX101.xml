@@ -1,5 +1,5 @@
 <irplus>
-    <device manufacturer="YAMAHA" model="RAX101" columns="12" format="YAMAHA_NEC_HEX">
+    <device manufacturer="YAMAHA" model="RAX101" columns="12" format="YAMAHA_NEC_HEX" repeat="2">
 
         <button label="&#xf011;" backgroundColor="FFC84334" span="6">7E-7F</button>
         <button label="STANDBY" span="6">7E-7E</button>
