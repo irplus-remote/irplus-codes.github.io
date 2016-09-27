@@ -1,0 +1,17 @@
+<irplus>
+    <device manufacturer="EDIFIER" model="R2800" columns="3" format="WINLIRC_NEC1">
+
+        <space></space>
+        <button label="VOL+">0x1E70 0x807F</button>
+        <space></space>
+
+        <button label="PC/AUX">0x1E70 0x00FF</button>
+        <button label="MUTE">0x1E70 0x906F</button>
+        <button label="OPT/COX">0x1E70 0xC03F</button>
+
+        <space></space>
+        <button label="VOL-">0x1E70 0x40BF</button>
+        <space></space>
+
+    </device>
+</irplus>
