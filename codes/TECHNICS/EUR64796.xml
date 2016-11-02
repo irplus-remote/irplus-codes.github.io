@@ -1,0 +1,45 @@
+<irplus>
+    <device manufacturer="TECHNICS" model="EUR64796" columns="4" format="WINLIRC_SPACEENC" one-space="833" one-pulse="966" zero-pulse="966" zero-space="2666"
+        header-pulse="3704" header-space="3570" bits="17" pre-bits="5" gap-pulse="966" gap-space="2666">
+
+        <button label="">0x19 0x1199C</button>
+        <button label="&#xf04d;" alt="STOP">0x19 0x1F980</button>
+        <button label="&#xf04c;" alt="PAUSE">0x19 0x13998</button>
+        <button label="&#xf04b;" alt="PLAY">0x19 0x15994</button>
+
+        <button label="">0x19 0x1B988</button>
+        <button label="">0x19 0x0B9A8</button>
+        <button label="">0x19 0x17990</button>
+        <button label="">0x19 0x079B0</button>
+
+        <button label="1">0x19 0x1E982</button>
+        <button label="2">0x19 0x0E9A2</button>
+        <button label="3">0x19 0x16992</button>
+        <button label="4">0x19 0x069B2</button>
+
+        <button label="5">0x19 0x1A98A</button>
+        <button label="6">0x19 0x0A9AA</button>
+        <button label="7">0x19 0x1299A</button>
+        <button label="8">0x19 0x029BA</button>
+
+        <button label="9">0x19 0x1C986</button>
+        <button label="0">0x19 0x1E183</button>
+        <button label="+10">0x19 0x14996</button>
+        <button label="0">0x19 0x0C9A6</button>
+
+        <button label="program">0x19 0x089AE</button>
+        <button label="clear">0x19 0x059B4</button>
+        <button label="recall">0x19 0x0D9A4</button>
+        <button label="time mode">0x19 0x0D1A5</button>
+
+        <button label="a-b repeat">0x19 0x1D984</button>
+        <button label="repeat">0x19 0x039B8</button>
+        <button label="random">0x19 0x009BE</button>
+        <button label="auto-cue">0x19 0x071B1</button>
+
+        <button label="level-">0x19 0x0B1A9</button>
+        <button label="level+">0x19 0x1B189</button>
+        <button label="tape-length">0x19 0x1898E</button>
+        <button label="sied-a-b">0x19 0x041B7</button>
+    </device>
+</irplus>
