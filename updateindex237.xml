@@ -2,4 +2,5 @@
 <device manufacturer="HAUPPAUGE" model="A415-HPG"/>
 <device manufacturer="TECHNICS" model="EUR64796"/>
 <device manufacturer="WESTINGHOUSE" model="RMT-24"/>
+<device manufacturer="PHILIPS" model="DVP-642"/>
 </irplus-device-updates>
