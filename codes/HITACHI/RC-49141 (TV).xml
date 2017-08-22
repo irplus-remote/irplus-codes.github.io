@@ -1,0 +1,71 @@
+<irplus>
+    <device manufacturer="HITACHI" model="RC-49141" columns="12" format="WINLIRC_RC5" bits="13" pre-bits="13"
+        toggle-bit-pos="2" gap-pulse="1" gap-space="114000" one-pulse="889" one-space="889"
+        zero-pulse="889" zero-space="889">
+
+        <button label="&#xf011;" backgroundColor="FFC84334" alt="POWER" span="4">0x10CC</button>
+        <button label="NETFLIX" span="4">0x10E7</button>
+        <button label="SOURCE" span="4">0x10F8</button>
+
+        <button label="1" span="4">0x10C1</button>
+        <button label="2" span="4">0x10C2</button>
+        <button label="3" span="4">0x10C3</button>
+
+        <button label="4" span="4">0x10C4</button>
+        <button label="5" span="4">0x10C5</button>
+        <button label="6" span="4">0x10C6</button>
+
+        <button label="7" span="4">0x10C7</button>
+        <button label="8" span="4">0x10C8</button>
+        <button label="9" span="4">0x10C9</button>
+
+        <button label="TV/LIST" span="4">0x10E6</button>
+        <button label="0" span="4">0x10C0</button>
+        <button label="LAST CH" span="4">0x10E2</button>
+
+        <button label="VOL+" span="4">0x10D0</button>
+        <button label="MUTE" span="4">0x10CD</button>
+        <button label="CH+" span="4">0x10E0</button>
+
+        <button label="VOL-" span="4">0x10D1</button>
+        <button label="WWW" span="4">0x10EE</button>
+        <button label="CH-" span="4">0x10E1</button>
+
+        <button label="MENU" span="4">0x10F0</button>
+        <button label="&#xf0d8;" alt="UP" span="4">0x10D4</button>
+        <button label="Q MENU" span="4">0x10EB</button>
+
+        <button label="&#xf0d9;" alt="LEFT" span="4">0x10D5</button>
+        <button label="OK" span="4">0x10F5</button>
+        <button label="&#xf0da;" alt="RIGHT" span="4">0x10D6</button>
+
+        <button label="BACK" span="4">0x10CA</button>
+        <button label="&#xf0d7;" alt="DOWN" span="4">0x10D3</button>
+        <button label="EXIT" span="4">0x10E5</button>
+
+        <button label="INFO" span="4">0x10D2</button>
+        <button label="MEDIA" span="4">0x10F9</button>
+        <button label="GUIDE" span="4">0x10EF</button>
+
+        <button label="MYBUTTON" span="4">0x10FB</button>
+        <button label="TEXT" span="4">0x10FC</button>
+        <button label="FAVOURITES" span="4">0x10E4</button>
+
+        <button label="R" fillColor="FFC84334" span="3">0x10F7</button>
+        <button label="G" fillColor="FF1E7854" span="3">0x10F6</button>
+        <button label="Y" fillColor="FFD6A81F" span="3">0x10F2</button>
+        <button label="B" fillColor="FF2A4C94" span="3">0x10F4</button>
+
+        <button label="LANGUAGE" span="4">0x10CF</button>
+        <button label="SUBTITLES" span="4">0x10DF</button>
+        <button label="ASPECT" span="4">0x10CB</button>
+
+        <button label="&#xf04a;" alt="REW" span="4">0x10DB</button>
+        <button label="&#xf04c;" alt="PAUSE" span="4">0x10F1</button>
+        <button label="&#xf04e;" alt="FWD" span="4">0x10DC</button>
+
+        <button label="&#xf111;" labelColor="FFC84334" alt="REC" span="4">0x10F3</button>
+        <button label="&#xf04b;" alt="PLAY" span="4">0x10D9</button>
+        <button label="&#xf04d;" alt="STOP" span="4">0x10D8</button>
+    </device>
+</irplus>
