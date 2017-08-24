@@ -1,0 +1,31 @@
+<irplus>
+    <device manufacturer="SONY" model="RM-177D" columns="6" format="WINLIRC_SPACEENC" one-pulse="1200" one-space="600"
+        zero-pulse="600" zero-space="600" header-pulse="2400" header-space="600" gap-space="45000" gap-pulse="1" pre-bits="12" repeat="3" frequency="40000">
+
+        <button label="POWER" backgroundColor="FF428C42" span="3">0xA81</button>
+        <button label="MUTE" span="3">0x281</button>
+
+        <button label="VIDEO1" span="2">0x441</button>
+        <button label="VIDEO2" span="2">0x781</button>
+        <button label="VIDEO3" span="2">0x421</button>
+
+        <button label="DIGITAL1" span="2">0x621</button>
+        <button label="DIGITAL2" span="2">0x621</button>
+        <button label="DAT" span="2">0x621</button>
+
+        <button label="CD" span="2">0xA41</button>
+        <button label="TAPE1" span="2">0xC41</button>
+        <button label="TAPE2" span="2">0x241</button>
+
+        <button label="PHONO" span="2">0x041</button>
+        <button label="TUNER" span="2">0x841</button>
+        <button label="AUX" span="2">0xB81</button>
+
+        <button label="ANALOG DIRECT" span="6">0x921</button>
+
+        <button label="&#61543;" span="3" backgroundColor="FF428C42">0x481</button>
+        <button label="&#61544;" span="3" backgroundColor="FF428C42">0xC81</button>
+
+    </device>
+</irplus>
+

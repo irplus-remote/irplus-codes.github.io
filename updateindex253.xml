@@ -2,4 +2,5 @@
 	<device manufacturer="HITACHI" model="RC-49141 (TV)"/>
 	<device manufacturer="VENEX" model="DVB-T 4040"/>
 	<device manufacturer="STRONG" model="SRT5505"/>
+	<device manufacturer="SONY" model="RM-177D"/>
 </irplus-device-updates>
