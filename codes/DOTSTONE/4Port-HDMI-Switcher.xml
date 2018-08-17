@@ -1,0 +1,32 @@
+<irplus>
+<device manufacturer="DotStone" model="PIP 4 Port HDMI Switcher" columns="21" format="WINLIRC_NEC1">
+
+<button label="&#xf011;" alt="POWER" labelSize="22.0" span="5" backgroundColor="FFEC4853">0x00FF 0xF807</button>
+<space multiple="16"/>
+
+<button label="1" labelSize="22.0" span="5" backgroundColor="FF88A4A8">0x00FF 0xD827</button>
+<space multiple="3"/>
+<button label="2" labelSize="22.0" span="5" backgroundColor="FF88A4A8">0x00FF 0x58A7</button>
+<space multiple="3"/>
+<button label="&#xf077;" alt="UP" labelSize="22.0" span="5" backgroundColor="FF88A4A8">0x00FF 0x7887</button>
+
+<button label="3" labelSize="22.0" span="5" backgroundColor="FF88A4A8">0x00FF 0x40BF</button>
+<space multiple="3"/>
+<button label="4" labelSize="22.0" span="5" backgroundColor="FF88A4A8">0x00FF 0xB04F</button>
+<space multiple="3"/>
+<button label="&#xf078;" alt="DOWN" labelSize="22.0" span="5" backgroundColor="FF88A4A8">0x00FF 0x50AF</button>
+
+<button label="PIP1" labelSize="20.0" span="5" backgroundColor="FF3C5052">0x00FF 0x48B7</button>
+<space multiple="3"/>
+<button label="PIP2" labelSize="20.0" span="5" backgroundColor="FF3C5052">0x00FF 0x8877</button>
+<space multiple="3"/>
+<button label="PIP3" labelSize="20.0" span="5" backgroundColor="FF3C5052">0x00FF 0x08F7</button>
+
+<button label="PIP" labelSize="20.0" span="5" backgroundColor="FF88A4A8">0x00FF 0x708F</button>
+<space multiple="3"/>
+<button label="OK" labelSize="20.0" span="5" backgroundColor="FF88A4A8">0x00FF 0x30CF</button>
+<space multiple="3"/>
+<button label="Auto" labelSize="20.0" span="5" backgroundColor="FF88A4A8">0x00FF 0xF00F</button>
+
+</device>
+</irplus>
