@@ -1,0 +1,17 @@
+<irplus>
+<device manufacturer="BIONAIRE" model="BT91R" columns="11" format="WINLIRC_RAW">
+
+<button label="&#x0ff020;" alt="TIMER" labelSize="36.0" span="2" labelColor="FF333333" backgroundColor="FFD9E1E3">1300 400 1250 400 400 1300 1250 400 1250 400 450 1250 400 1250 400 1250 1250 450 400 1250 400 1250 450</button>
+<space multiple="7"/>
+<button label="&#x0ff4e1;" alt="OSCILLATION" labelSize="36.0" span="2" labelColor="FF333333" backgroundColor="FFD9E1E3">1250 400 1250 450 400 1250 1250 450 1200 450 400 1250 400 1250 1250 450 400 1250 400 1250 450 1200 450</button>
+
+<space multiple="3"/>
+<button label="&#xf011;" alt="POWER" labelSize="64.0" span="5" labelColor="FF333333" backgroundColor="FFD9E1E3">1300 400 1250 450 400 1200 1300 400 1250 450 400 1200 450 1250 400 1250 450 1250 400 1250 450 1200 1300</button>
+<space multiple="3"/>
+
+<button label="&#x0ff210;" alt="SPEED" labelSize="36.0" span="2" labelColor="FF333333" backgroundColor="FFD9E1E3">1300 350 1300 400 450 1200 1300 350 1350 350 450 1200 500 1200 450 1200 450 1200 500 1200 1300 350 450</button>
+<space multiple="7"/>
+<button label="&#x0ff59d;" alt="BREEZE" labelSize="36.0" span="2" labelColor="FF333333" backgroundColor="FFD9E1E3">1250 400 1300 350 450 1250 1250 400 1250 400 450 1250 450 1200 450 1200 450 1250 1250 400 450 1250 400</button>
+
+</device>
+</irplus>
