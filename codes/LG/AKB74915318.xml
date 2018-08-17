@@ -1,0 +1,83 @@
+<irplus>
+<device manufacturer="LG" model="AKB74915318 Full-function Remote" columns="72" format="WINLIRC_NEC1">
+
+<button label="&#xf011;" alt="POWER" labelSize="28.0" span="18" backgroundColor="FFE66873">0x20DF 0x10EF</button>
+<space multiple="42"/>
+<button label="&#x0ff7f3; &#x0ff439;" alt="TV/RADIO" labelSize="14.0" span="12">0x20DF 0x0FF0</button>
+
+<button label="SUBTITLE" labelSize="12.0" span="15">0x20DF 0x9C63</button>
+<space multiple="4"/>
+<button label="&#x0ff616;" alt="RATIO" labelSize="24.0" span="15">0x20DF 0x9E61</button>
+<space multiple="4"/>
+<button label="&#xf05a;" alt="INFO" labelSize="24.0" span="15">0x20DF 0x55AA</button>
+<space multiple="4"/>
+<button label="&#x0ff749;" alt="CABLE" labelSize="24.0" span="15">0x20DF 0xD02F</button>
+
+<button label="1" labelSize="30.0" span="24">0x20DF 0x8877</button>
+<button label="2" labelSize="30.0" span="24">0x20DF 0x48B7</button>
+<button label="3" labelSize="30.0" span="24">0x20DF 0xC837</button>
+
+<button label="4" labelSize="30.0" span="24">0x20DF 0x28D7</button>
+<button label="5" labelSize="30.0" span="24">0x20DF 0xA857</button>
+<button label="6" labelSize="30.0" span="24">0x20DF 0x6897</button>
+
+<button label="7" labelSize="30.0" span="24">0x20DF 0xE817</button>
+<button label="8" labelSize="30.0" span="24">0x20DF 0x18E7</button>
+<button label="9" labelSize="30.0" span="24">0x20DF 0x9867</button>
+
+<button label="LIST" labelSize="18.0" span="24">0x20DF 0xCA35</button>
+<button label="0" labelSize="30.0" span="24">0x20DF 0x08F7</button>
+<button label="Q.VIEW" labelSize="18.0" span="24">0x20DF 0x58A7</button>
+
+<button label="VOL &#xf067;" alt="VOL+" labelSize="24.0" span="24">0x20DF 0x40BF</button>
+<button label="FAV" labelSize="18.0" span="24">0x20DF 0x7887</button>
+<button label="CH &#xf077;" alt="CH PAGE UP" labelSize="24.0" span="24">0x20DF 0x00FF</button>
+
+<space multiple="24"/>
+<button label="GUIDE" labelSize="18.0" span="24">0x20DF 0xD52A</button>
+<space multiple="24"/>
+
+<button label="VOL &#xf068;" alt="VOL-" labelSize="24.0" span="24">0x20DF 0xC03F</button>
+<button label="&#x0ff581;" alt="MUTE" labelSize="22.0" span="24">0x20DF 0x906F</button>
+<button label="CH &#xf078;" alt="CH PAGE DN" labelSize="24.0" span="24">0x20DF 0x807F</button>
+
+<button label="PICTURE" labelSize="18.0" span="24">0x20DF 0xB24D</button>
+<button label="&#xf015;" alt="HOME" labelSize="22.0" span="24">0x20DF 0x3EC1</button>
+<button label="SOUND" labelSize="18.0" span="24">0x20DF 0x4AB5</button>
+
+<button label="&#xf013;" alt="SETTINGS" labelSize="22.0" span="24">0x20DF 0xC23D</button>
+<space multiple="4"/>
+<button label="&#xf0d8;" alt="UP" labelSize="28.0" span="20">0x20DF 0x02FD</button>
+<space multiple="4"/>
+<button label="Q.MENU" labelSize="18.0" span="24">0x20DF 0xA25D</button>
+
+<space multiple="3"/>
+<button label="&#xf0d9;" alt="LEFT" labelSize="28.0" span="20">0x20DF 0xE01F</button>
+<space multiple="3"/>
+<button label="&#xf192;" alt="OK" labelSize="28.0" span="20">0x20DF 0x22DD</button>
+<space multiple="3"/>
+<button label="&#xf0da;" alt="RIGHT" labelSize="28.0" span="20">0x20DF 0x609F</button>
+<space multiple="3"/>
+
+<button label="BACK" labelSize="18.0" span="24">0x20DF 0x14EB</button>
+<space multiple="4"/>
+<button label="&#xf0d7;" alt="DOWN" labelSize="28.0" span="20">0x20DF 0x827D</button>
+<space multiple="4"/>
+<button label="EXIT" labelSize="18.0" span="24">0x20DF 0xDA25</button>
+
+<button label="&#xf1e3;" alt="SPORTS" labelSize="18.0" span="24">0x20DF 0xDD22</button>
+<button label="&#x0ff44b;" alt="REC" labelSize="28.0" span="24" labelColor="FFB33036">0x20DF 0xBD42</button>
+<button label="&#xf04d;" alt="STOP" labelSize="18.0" span="24">0x20DF 0x8D72</button>
+
+<button label="&#xf04a;" alt="BACKWARD" labelSize="18.0" span="18">0x20DF 0xF10E</button>
+<button label="&#xf04b;" alt="PLAY" labelSize="18.0" span="18">0x20DF 0x0DF2</button>
+<button label="&#xf04c;" alt="PAUSE" labelSize="18.0" span="18">0x20DF 0x5DA2</button>
+<button label="&#xf04e;" alt="FORWARD" labelSize="18.0" span="18">0x20DF 0x718E</button>
+
+<button label="&#x0ff1ca;" alt="1 RED" labelSize="18.0" span="18" backgroundColor="FFDD5762">0x20DF 0x4EB1</button>
+<button label="&#x0ff1cb;" alt="2 GREEN" labelSize="18.0" span="18" backgroundColor="FF02B58D">0x20DF 0x8E71</button>
+<button label="&#x0ff1cc;" alt="3 YELLOW" labelSize="18.0" span="18" backgroundColor="FFE6BD6D">0x20DF 0xC639</button>
+<button label="&#x0ff1cd;" alt="4 BLUE" labelSize="18.0" span="18" backgroundColor="FF3B79AA">0x20DF 0x8679</button>
+
+</device>
+</irplus>
