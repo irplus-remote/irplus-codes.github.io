@@ -1,0 +1,46 @@
+<irplus>
+<device manufacturer="HARMAN KARDON" model="HK3550" columns="12" format="WINLIRC_NEC1">
+<button label="ON" labelSize="18.0" span="3" backgroundColor="FFC84334">0x010E 0x03FC</button>
+<button label="&#61457; OFF" labelSize="18.0" span="3" backgroundColor="FFC84334">0x010E 0xF906</button>
+<button label="MUTE" labelSize="12.0" span="3">0x010E 0x837C</button>
+<button label="CD" labelSize="25.0" span="4">0x010E 0x23DC</button>
+<button label="TAPE" labelSize="12.0" span="3">0x010E 0x33CC</button>
+<button label="VID1" labelSize="18.0" span="3">0x010E 0x53AC</button>
+<button label="VID2" labelSize="18.0" span="3">0x010E 0xD32C</button>
+<button label="VID3" labelSize="18.0" span="3">0x010E 0xE738C</button>
+<button label="AM-FM" labelSize="18.0" span="4">0x010E 0x817E</button>
+<button label="1" labelSize="25.0" span="4">0x010E 0xE11E</button>
+<button label="2" labelSize="25.0" span="4">0x010E 0x11EE</button>
+<button label="3" labelSize="25.0" span="4">0x010E 0x916E</button>
+<button label="4" labelSize="25.0" span="4">0x010E 0x51AE</button>
+<button label="5" labelSize="25.0" span="4">0x010E 0xC936</button>
+<button label="6" labelSize="25.0" span="4">0x010E 0x31CE</button>
+<button label="7" labelSize="25.0" span="4">0x010E 0xB14E</button>
+<button label="8" labelSize="25.0" span="4">0x010E 0x718E</button>
+<button label="9" labelSize="25.0" span="4">0x010E 0xB946</button>
+<button label="0" labelSize="25.0" span="4">0x010E 0x7986</button>
+<button label="CLEAR" labelSize="18.0" span="4">0x010E 0xF40B</button>
+<button label="VOL+" labelSize="18.0" span="4">0x010E 0xE31C</button>
+<button label="&#61656;" labelSize="25.0" span="4">0x010E 0x14EB</button>
+<button label="TUNE+" labelSize="18.0" span="4">0x010E 0x21DE</button>
+<button label="&#61657;" labelSize="25.0" span="4">0x010E 0xFC03</button>
+<button label="OK" labelSize="25.0" span="4">0x010E 0xB649</button>
+<button label="&#61658;" labelSize="25.0" span="4">0x010E 0x7C83</button>
+<button label="VOL-" labelSize="18.0" span="4">0x010E 0x13EC</button>
+<button label="&#61655;" labelSize="25.0" span="4">0x010E 0x946B</button>
+<button label="TUNE-" labelSize="18.0" span="4">0x010E 0xA15E</button>
+<button label="MEM" labelSize="18.0" span="4">0x010E 0x748B</button>
+<button label="PRESCAN" labelSize="12.0" span="4">0x010E 0xB44B</button>
+<button label="&#1045889;" labelSize="25.0" span="4">0x010E 0x5AA5</button>
+<button label="DIMMER" labelSize="18.0" span="6">0x010E 0x3AC5</button>
+<button label="SLEEP" labelSize="18.0" span="6">0x010E 0xDA25</button>
+<button label="&#61513;" labelSize="25.0" span="3">0x010E 0xA45B</button>
+<button label="&#61514;" labelSize="25.0" span="3">0x010E 0xE41B</button>
+<button label="&#61518;" labelSize="25.0" span="3">0x010E 0x649B</button>
+<button label="&#61520;" labelSize="25.0" span="3">0x010E 0x24DB</button>
+<button label="&#61516;" labelSize="25.0" span="3">0x010E 0xC43B</button>
+<button label="&#61515;" labelSize="25.0" span="3">0x010E 0x44BB</button>
+<button label="&#61713;" labelSize="25.0" span="3" labelColor="FFC84334">0x010E 0x06F9</button>
+<button label="&#61517;" labelSize="25.0" span="3">0x010E 0x847B</button>
+</device>
+</irplus>
