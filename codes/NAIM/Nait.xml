@@ -1,0 +1,18 @@
+<irplus>
+    <device bits="13" columns="12" format="WINLIRC_RC5" gap-pulse="1" gap-space="113792"
+        manufacturer="NAIM" model="Nait" one-pulse="889" one-space="889" pre-bits="13"
+        toggle-bit-pos="2" zero-pulse="889" zero-space="889">
+        <button label="CD" labelSize="15.0" span="4">0x1412</button>
+        <button label="Tuner" labelSize="15.0" span="4">0x1413</button>
+        <button label="Streamer" labelSize="15.0" span="4">0x1414</button>
+        <button label="AV" labelSize="15.0" span="4">0x1415</button>
+        <button label="Phono" labelSize="15.0" span="4">0x1416</button>
+        <button label="Aux" labelSize="15.0" span="4">0x1417</button>
+        <button label="Source - Up" labelSize="15.0" span="3">0x1420</button>
+        <button label="&#1045889;" labelSize="40.0" span="3">0x140d</button>
+        <button label="&#1046364;" labelSize="60.0" span="6">0x1410</button>
+        <button label="Source - Down" labelSize="15.0" span="3">0x1421</button>
+        <button label="Display" labelSize="15.0" span="3">0x140f</button>
+        <button label="&#1046365;" labelSize="60.0" span="6">0x1411</button>
+    </device>
+</irplus>
