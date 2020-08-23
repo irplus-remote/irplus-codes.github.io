@@ -1,0 +1,59 @@
+<irplus>
+	<device manufacturer="Samsung" model="AA59-00603A" columns="12" format="WINLIRC_NEC1">
+		<button span="4" labelSize="25.0" label="&#61457;" backgroundColor="FFC84334">0xE0E0 0x40BF</button>
+		<button span="4" label="_" fillColor="FF000000">0x000000</button>
+		<button span="4" labelSize="28.0" label="&#1045242;" alt="SOURCE">0xE0E0 0x807F</button>
+		<button span="4" labelSize="25.0" label="1" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x20DF</button>
+		<button span="4" labelSize="25.0" label="2" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0xA05F</button>
+		<button span="4" labelSize="25.0" label="3" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x609F</button>
+		<button span="4" labelSize="25.0" label="4" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x10EF</button>
+		<button span="4" labelSize="25.0" label="5" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x906F</button>
+		<button span="4" labelSize="25.0" label="6" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x50AF</button>
+		<button span="4" labelSize="25.0" label="7" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x30CF</button>
+		<button span="4" labelSize="25.0" label="8" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0xB04F</button>
+		<button span="4" labelSize="25.0" label="9" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x708F</button>
+		<button span="4" labelSize="18.0" label="TTX/MIX
+&#1045018;">0xE0E0 0xC43B</button>
+		<button span="4" labelSize="25.0" label="0" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x8877</button>
+		<button span="4" labelSize="18.0" label="PRE-CH">0xE0E0 0xC837</button>
+		
+		<button span="4" labelSize="18.0" label="&#xf028;" alt="VOL +" labelColor="FF000000" backgroundColor="FF9ED2E5">0xE0E0 0xE01F</button>
+		<button span="1" label="_" fillColor="FF000000">0x000000</button>
+		<button span="2" labelSize="25.0" label="&#1045889;" alt="MUTE">0xE0E0 0xF00F</button>
+		<button span="1" label="_" fillColor="FF000000">0x000000</button>
+		<button span="4" labelSize="18.0" label="CH+" labelColor="FF000000" backgroundColor="FF7EE295">0xE0E0 0x48B7</button>
+		<button span="4" labelSize="18.0" label="&#xf027;" alt="VOL -" labelColor="FF000000" backgroundColor="FF9ED2E5">0xE0E0 0xD02F</button>
+		<button span="1" label="_" fillColor="FF000000">0x000000</button>
+		<button span="2" labelSize="12.0" label="CH LIST">0xE0E0 0xD629</button>
+		<button span="1" label="_" fillColor="FF000000">0x000000</button>
+		<button span="4" labelSize="18.0" label="CH-" labelColor="FF000000" backgroundColor="FF7EE295">0xE0E0 0x08F7</button>
+		
+		<button span="4" labelSize="18.0" label="CONTENT">0xE0E0 0x9E61</button>
+		<button span="4" labelSize="28.0" label="&#1045878;" alt="MENU">0xE0E0 0x58A7</button>
+		<button span="4" labelSize="18.0" label="GUIDE">0xE0E0 0xF20D</button>
+		
+		<button span="4" labelSize="18.0" label="TOOLS">0xE0E0 0xD22D</button>
+		<button span="4" labelSize="25.0" label="&#61656;" alt="UP">0xE0E0 0x06F9</button>
+		<button span="4" labelSize="28.0" label="&#1046094;" alt="INFO">0xE0E0 0xF807</button>
+		<button span="4" labelSize="25.0" label="&#61657;" alt="LEFT">0xE0E0 0xA659</button>
+		<button span="4" labelSize="18.0" label="ENTER" alt="ENTER">0xE0E0 0x16E9</button>
+		<button span="4" labelSize="25.0" label="&#61658;" alt="RIGHT">0xE0E0 0x46B9</button>
+		<button span="4" labelSize="28.0" label="&#1045593;" alt="RETURN">0xE0E0 0x1AE5</button>
+		<button span="4" labelSize="25.0" label="&#61655;" alt="DOWN">0xE0E0 0x8679</button>
+		<button span="4" labelSize="18.0" label="&#1045315;" alt="EXIT">0xE0E0 0xB44B</button>
+		
+		<button span="3" labelSize="18.0" label="A" alt="RED" backgroundColor="FFC84334">0xE0E0 0x36C9</button>
+		<button span="3" labelSize="18.0" label="B" alt="GREEN" backgroundColor="FF1E7854">0xE0E0 0x28D7</button>
+		<button span="3" labelSize="18.0" label="C" alt="YELLOW" backgroundColor="FFD6A81F">0xE0E0 0xA857</button>
+		<button span="3" labelSize="18.0" label="D" alt="BLUE" backgroundColor="FF2A4C94">0xE0E0 0x6897</button>
+		
+		<button span="3" labelSize="12.0" label="E-MANUAL">0xE0E0 0xFC03</button>
+		<button span="3" labelSize="18.0" label="3D">0xE0E0 0xF906</button>
+		<button span="3" labelSize="18.0" label="AD/SUBT.">0xE0E0 0xE41B</button>
+		<button span="3" labelSize="18.0" label="&#xf04d;" alt="STOP">0xE0E0 0x629D</button>
+		<button span="3" labelSize="35.0" label="&#1045599;" alt="REWIND">0xE0E0 0xA25D</button>
+		<button span="3" label="&#xf04b;" alt="PLAY">0xE0E0 0xE21D</button>
+		<button span="3" label="&#xf04c;" alt="PAUSE">0xE0E0 0x52AD</button>
+		<button span="3" labelSize="35.0" label="&#1045009;" alt="FASTFORWARD">0xE0E0 0x12ED</button>
+	</device>
+</irplus>
