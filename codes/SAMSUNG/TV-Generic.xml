@@ -94,11 +94,11 @@
   <button label="FORMAT PANORAMA" labelSize="10.0" span="3">0xE0E0 0x47B8</button>
   <button label="FORMAT ZOOM 2" labelSize="12.0" span="3">0xE0E0 0x8778</button>
   <button label="FREEZE" labelSize="16.0" span="3">0xE0E0 0x42BD</button>
-  <button label="HISTORY" labelSize="12.0" span="3">0xE0E0 0xB44</button>
+  <button label="HISTORY" labelSize="12.0" span="3">0xE0E0 0x0BF4</button>
   <button label="INTERNET" labelSize="12.0" span="3">0xE0E0 0xC936</button>
   <button label="MEDIA P" labelSize="12.0" span="3">0xE0E0 0x31CE</button>
   <button label="MOVIE" labelSize="18.0" span="3">0xE0E0 0x7B84</button>
-  <button label="MTS" labelSize="18.0" span="3">0xE0E0 0x0FF</button>
+  <button label="MTS" labelSize="18.0" span="3">0xE0E0 0x00FF</button>
   <button label="NETFLIX" labelSize="12.0" span="3">0xE0E0 0xCF30</button>
   <button label="&#1045677;" labelSize="25.0" span="3">0xE0E0 0x728D</button>
   <button label="OSD" labelSize="18.0" span="3">0xE0E0 0x6A95</button>
@@ -110,7 +110,7 @@
   <button label="PICTURE CUSTOM" labelSize="12.0" span="3">0xE0E0 0x3DC2</button>
   <button label="PICTURE MOVIE 2" labelSize="12.0" span="3">0xE0E0 0xBB44</button>
   <button label="PICTURE STANDARD" labelSize="12.0" span="3">0xE0E0 0xFB04</button>
-  <button label="PIP" labelSize="18.0" span="3">0xE0E0 0x4BB</button>
+  <button label="PIP" labelSize="18.0" span="3">0xE0E0 0x04FB</button>
   <button label="PIP2" labelSize="18.0" span="3">0xE0E0 0x24DB</button>
   <button label="PIP CH DOWN" labelSize="12.0" span="3">0xE0E0 0xCC33</button>
   <button label="PIP CH UP" labelSize="12.0" span="3">0xE0E0 0x4CB3</button>
