@@ -1,0 +1,16 @@
+<irplus>
+ <device manufacturer="LED Lights" model="White Puck Light" columns="2" format="WINLIRC_NEC1">
+  <button label="ON" labelSize="25.0">0x00FF 0xA25D</button>
+  <button label="OFF" labelSize="25.0">0x00FF 0xE21D</button>
+  <button label="+" labelSize="25.0">0x00FF 0x22DD</button>
+  <button label="-" labelSize="25.0">0x00FF 0xC23D</button>
+  <button label="10%" labelSize="25.0">0x00FF 0xE01F</button>
+  <button label="40%" labelSize="25.0">0x00FF 0x906F</button>
+  <button label="80%" labelSize="25.0">0x00FF 0x6897</button>
+  <button label="100%" labelSize="25.0">0x00FF 0xB04F</button>
+  <button label="10 min" labelSize="25.0">0x00FF 0x30CF</button>
+  <button label="30 min" labelSize="25.0">0x00FF 0x7A85</button>
+  <button label="60 min" labelSize="25.0">0x00FF 0x10EF</button>
+  <button label="120 min" labelSize="25.0">0x00FF 0x5AA5</button>
+ </device>
+</irplus>

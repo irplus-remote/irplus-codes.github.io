@@ -1,0 +1,10 @@
+<irplus>
+ <device manufacturer="TaoTronics" model='36" Tower Fan (TT-TF002)' columns="12" format="WINLIRC_NEC1">
+  <button label="&#61457;&#10;ON/OFF" labelSize="25.0" span="6" backgroundColor="FFC84334">0xcf3 0x31ce</button>
+  <button label="&#1045666;&#10;SPEED" labelSize="25.0" span="6">0xcf3 0x11ee</button>
+  <button label="&#1044542;&#10;STYLE" labelSize="25.0" span="6">0xcf3 0xe11e</button>
+  <button label="&#1045859;&#10;AUTO" labelSize="25.0" span="6">0xcf3 0x619e</button>
+  <button label="&#1044586;&#10;OSC" labelSize="25.0" span="6">0xcf3 0x39c6</button>
+  <button label="&#1044512;&#10;TIMER" labelSize="25.0" span="6">0xcf3 0xa956</button>
+ </device>
+</irplus>

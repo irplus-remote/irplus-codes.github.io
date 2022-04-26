@@ -1,0 +1,40 @@
+<irplus>
+ <device manufacturer="Durabrand" model="DVB-T Set Top Box" columns="3" format="WINLIRC_NEC1">
+  <button label="&#1045541;" labelSize="25.0" backgroundColor="FFFF4242">0x00FF 0x38C7</button>
+  <space multiple="1" />
+  <button label="MUTE" labelSize="18.0">0x00FF 0x48B7</button>
+  <button label="1" labelSize="25.0">0x00FF 0x807F</button>
+  <button label="2" labelSize="25.0">0x00FF 0x40BF</button>
+  <button label="3" labelSize="25.0">0x00FF 0xC03F</button>
+  <button label="4" labelSize="25.0">0x00FF 0x20DF</button>
+  <button label="5" labelSize="25.0">0x00FF 0xA05F</button>
+  <button label="6" labelSize="25.0">0x00FF 0x609F</button>
+  <button label="7" labelSize="25.0">0x00FF 0xE01F</button>
+  <button label="8" labelSize="25.0">0x00FF 0x10EF</button>
+  <button label="9" labelSize="25.0">0x00FF 0x906F</button>
+  <button label="PROG+" labelSize="18.0">0x00FF 0x50AF</button>
+  <button label="0" labelSize="25.0">0x00FF 0x00FF</button>
+  <button label="VOL+" labelSize="18.0">0x00FF 0xE817</button>
+  <button label="PROG-" labelSize="18.0">0x00FF 0x28D7</button>
+  <button label="&#1045344;" labelSize="25.0">0x00FF 0xD02F</button>
+  <button label="VOL-" labelSize="18.0">0x00FF 0x08F7</button>
+  <button label="&#1045342;" labelSize="25.0">0x00FF 0x18E7</button>
+  <button label="OK" labelSize="25.0">0x00FF 0x6897</button>
+  <button label="&#1045343;" labelSize="25.0">0x00FF 0x30CF</button>
+  <button label="MENU" labelSize="18.0">0x00FF 0x8877</button>
+  <button label="&#1045341;" labelSize="25.0">0x00FF 0xA857</button>
+  <button label="EXIT" labelSize="18.0">0x00FF 0xB04F</button>
+  <button label="RECALL" labelSize="18.0">0x00FF 0xF00F</button>
+  <button label="TEXT" labelSize="18.0">0x00FF 0xD827</button>
+  <button label="INFO" labelSize="18.0">0x00FF 0x58A7</button>
+  <button label="A" labelSize="18.0" backgroundColor="FFFF0000">0x00FF 0x708F</button>
+  <button label="FAV" labelSize="18.0">0x00FF 0xF807</button>
+  <button label="EPG" labelSize="18.0">0x00FF 0x7887</button>
+  <button label="B" labelSize="18.0" backgroundColor="FF00D800">0x00FF 0xB847</button>
+  <button label="C" labelSize="18.0" backgroundColor="FFD6D800">0x00FF 0xC837</button>
+  <button label="D" labelSize="18.0" backgroundColor="FF4242FF">0x00FF 0x9867</button>
+  <button label="TV FORMAT" labelSize="12.0">0x00FF 0x0AF5</button>
+  <space multiple="1" />
+  <button label="SUBTITLE" labelSize="12.0">0x00FF 0x2AD5</button>
+ </device>
+</irplus>

@@ -1,0 +1,59 @@
+<irplus>
+ <device manufacturer="SHARP" model="AQUOS TV SHW/RMC/0121" columns="12" format="WINLIRC_NEC1">
+  <button label="&#1045541;" labelSize="25.0" span="4" backgroundColor="FFFF4242">0x00FE 0x50AF</button>
+  <space multiple="4" />
+  <button label="FREEVIEW PLAY" labelSize="16.0" span="4" labelColor="FFFF5900" backgroundColor="FFFFFFFF">0x00FE 0xF609</button>
+  <button label="1" labelSize="25.0" span="4">0x00FE 0x708F</button>
+  <button label="2" labelSize="25.0" span="4">0x00FE 0x609F</button>
+  <button label="3" labelSize="25.0" span="4">0x00FE 0xF00F</button>
+  <button label="4" labelSize="25.0" span="4">0x00FE 0x48B7</button>
+  <button label="5" labelSize="25.0" span="4">0x00FE 0xE01F</button>
+  <button label="6" labelSize="25.0" span="4">0x00FE 0xC837</button>
+  <button label="7" labelSize="25.0" span="4">0x00FE 0x6897</button>
+  <button label="8" labelSize="25.0" span="4">0x00FE 0x40BF</button>
+  <button label="9" labelSize="25.0" span="4">0x00FE 0xE817</button>
+  <button label="&#1045889;" labelSize="25.0" span="4">0x00FE 0x0AF5</button>
+  <button label="0" labelSize="25.0" span="4">0x00FE 0x58A7</button>
+  <button label="TV GUIDE" labelSize="18.0" span="4">0x00FE 0x827D</button>
+  <space multiple="12" />
+  <button label="V+" labelSize="25.0" span="4">0x00FE 0x7887</button>
+  <button label="PICTURE" labelSize="18.0" span="4">0x00FE 0x906F</button>
+  <button label="CH+" labelSize="18.0" span="4">0x00FE 0xF807</button>
+  <space multiple="4" />
+  <button label="SOUND" labelSize="18.0" span="4">0x00FE 0xB04F</button>
+  <space multiple="4" />
+  <button label="V-" labelSize="25.0" span="4">0x00FE 0xFA05</button>
+  <button label="SOURCE" labelSize="18.0" span="4">0x00FE 0xCA35</button>
+  <button label="CH-" labelSize="18.0" span="4">0x00FE 0x3AC5</button>
+  <space multiple="12" />
+  <button label="MENU" labelSize="18.0" span="4">0x00FE 0xEA15</button>
+  <button label="&#1045344;" labelSize="25.0" span="4">0x00FE 0x7A85</button>
+  <button label="EXIT" labelSize="18.0" span="4">0x00FE 0x728D</button>
+  <button label="&#1045342;" labelSize="25.0" span="4">0x00FE 0xDA25</button>
+  <button label="OK" labelSize="25.0" span="4">0x00FE 0x5AA5</button>
+  <button label="&#1045343;" labelSize="25.0" span="4">0x00FE 0x1AE5</button>
+  <button label="BACK" labelSize="18.0" span="4">0x00FE 0xB649</button>
+  <button label="&#1045341;" labelSize="25.0" span="4">0x00FE 0x6A95</button>
+  <button label="FAV" labelSize="18.0" span="4">0x00FE 0x08F7</button>
+  <button label="INFO" labelSize="18.0" span="3">0x00FE 0xD02F</button>
+  <button label="TEXT" labelSize="18.0" span="3">0x00FE 0x2AD5</button>
+  <button label="SUBTITLE" labelSize="12.0" span="3">0x00FE 0x22DD</button>
+  <button label="TV" labelSize="18.0" span="3">0x00FE 0x807F</button>
+  <space multiple="12" />
+  <button label="YOUTUBE" labelSize="18.0" span="4" backgroundColor="FFF70000">0x00FE 0x56A9</button>
+  <button label="NETFLIX" labelSize="18.0" span="4" labelColor="FFFF0000" backgroundColor="FFFFFFFF">0x00FE 0x7689</button>
+  <button label="APPS" labelSize="18.0" span="4" backgroundColor="FF4242FF">0x00FE 0x8E71</button>
+  <button label="DVD MENU / REC" labelSize="10.0" span="3">0x00FE 0xAA55</button>
+  <button label="&#1045675;" labelSize="25.0" span="3">0x00FE 0xE21D</button>
+  <button label="&#1045676;" labelSize="25.0" span="3">0x00FE 0x629D</button>
+  <button label="&#1046371;" labelSize="18.0" span="3">0x00FE 0x30CF</button>
+  <button label="DVD SETUP / REC LIST" labelSize="10.0" span="3">0x00FE 0x9A65</button>
+  <button label="&#1045599;" labelSize="25.0" span="3">0x00FE 0xD22D</button>
+  <button label="&#1045009;" labelSize="25.0" span="3">0x00FE 0x52AD</button>
+  <button label="&#1045518;" labelSize="25.0" span="3">0x00FE 0xF20D</button>
+  <button label="GOTO" labelSize="18.0" span="3" backgroundColor="FFFF0000">0x00FE 0x926D</button>
+  <button label="A-B" labelSize="18.0" span="3" backgroundColor="FF00A500">0x00FE 0x02FD</button>
+  <button label="ANGLE" labelSize="18.0" span="3" backgroundColor="FFCCCC00">0x00FE 0x12ED</button>
+  <button label="REPEAT" labelSize="16.0" span="3" backgroundColor="FF0007FF">0x00FE 0xBA45</button>
+ </device>
+</irplus>

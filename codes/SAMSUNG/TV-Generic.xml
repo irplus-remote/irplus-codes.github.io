@@ -1,0 +1,138 @@
+<irplus>
+ <device manufacturer="SAMSUNG" model="TV Generic" columns="12" format="WINLIRC_SPACEENC" one-pulse="628" one-space="1691" zero-pulse="628" zero-space="523" header-pulse="4523" header-space="4517" gap-space="46053" gap-pulse="629" bits="16" pre-bits="16" repeat="2">
+  <button label="&#61457;" labelSize="25.0" span="6" backgroundColor="FFC84334">0xE0E0 0x40BF</button>
+  <button label="SOURCE" labelSize="18.0" span="6">0xE0E0 0x807F</button>
+  <button label="1" labelSize="25.0" span="4">0xE0E0 0x20DF</button>
+  <button label="2" labelSize="25.0" span="4">0xE0E0 0xA05F</button>
+  <button label="3" labelSize="25.0" span="4">0xE0E0 0x609F</button>
+  <button label="4" labelSize="25.0" span="4">0xE0E0 0x10EF</button>
+  <button label="5" labelSize="25.0" span="4">0xE0E0 0x906F</button>
+  <button label="6" labelSize="25.0" span="4">0xE0E0 0x50AF</button>
+  <button label="7" labelSize="25.0" span="4">0xE0E0 0x30CF</button>
+  <button label="8" labelSize="25.0" span="4">0xE0E0 0xB04F</button>
+  <button label="9" labelSize="25.0" span="4">0xE0E0 0x708F</button>
+  <button label="TTX/MIX" labelSize="12.0" span="4">0xE0E0 0x34CB</button>
+  <button label="0" labelSize="25.0" span="4">0xE0E0 0x8877</button>
+  <button label="PRE-CH" labelSize="18.0" span="4">0xE0E0 0xC837</button>
+  <button label="VOL+" labelSize="18.0" span="4" backgroundColor="FF2766DC">0xE0E0 0xE01F</button>
+  <button label="&#1045889;" labelSize="25.0" span="4">0xE0E0 0xF00F</button>
+  <button label="CH+" labelSize="18.0" span="4" backgroundColor="FF2766DC">0xE0E0 0x48B7</button>
+  <button label="VOL-" labelSize="18.0" span="4" backgroundColor="FF2766DC">0xE0E0 0xD02F</button>
+  <button label="CH LIST" labelSize="12.0" span="4">0xE0E0 0xD629</button>
+  <button label="CH-" labelSize="18.0" span="4" backgroundColor="FF2766DC">0xE0E0 0x08F7</button>
+  <button label="MENU" labelSize="18.0" span="4">0xE0E0 0x58A7</button>
+  <button label="&#61461;" labelSize="25.0" span="4">0xE0E0 0x9E61</button>
+  <button label="GUIDE" labelSize="18.0" span="4">0xE0E0 0xF20D</button>
+  <button label="TOOLS" labelSize="18.0" span="4">0xE0E0 0xD22D</button>
+  <button label="&#61656;" labelSize="25.0" span="4">0xE0E0 0x06F9</button>
+  <button label="INFO" labelSize="18.0" span="4">0xE0E0 0xF807</button>
+  <button label="&#61657;" labelSize="25.0" span="4">0xE0E0 0xA659</button>
+  <button label="ENTER" labelSize="18.0" span="4">0xE0E0 0x16E9</button>
+  <button label="&#61658;" labelSize="25.0" span="4">0xE0E0 0x46B9</button>
+  <button label="RETURN" labelSize="18.0" span="4">0xE0E0 0x1AE5</button>
+  <button label="&#61655;" labelSize="25.0" span="4">0xE0E0 0x8679</button>
+  <button label="EXIT" labelSize="18.0" span="4">0xE0E0 0xB44B</button>
+  <button label="A" labelSize="25.0" span="3" backgroundColor="FFC84334">0xE0E0 0x36C9</button>
+  <button label="B" labelSize="25.0" span="3" backgroundColor="FF29A58B">0xE0E0 0x28D7</button>
+  <button label="C" labelSize="25.0" span="3" backgroundColor="FFF2B731">0xE0E0 0xA857</button>
+  <button label="D" labelSize="25.0" span="3" backgroundColor="FF2766DC">0xE0E0 0x6897</button>
+  <button label="SEARCH" labelSize="16.0" span="3">0xE0E0 0xCE31</button>
+  <button label="e-Manual" labelSize="12.0" span="3">0xE0E0 0xFC03</button>
+  <button label="P.SIZE" labelSize="18.0" span="3">0xE0E0 0x7C83</button>
+  <button label="AD/SUBT." labelSize="12.0" span="3">0xE0E0 0xA45B</button>
+  <button label="&#61514;" labelSize="25.0" span="4">0xE0E0 0xA25D</button>
+  <button label="&#61516;" labelSize="25.0" span="4">0xE0E0 0x52AD</button>
+  <button label="&#61518;" labelSize="25.0" span="4">0xE0E0 0x12ED</button>
+  <button label="&#61713;" labelSize="25.0" span="4" labelColor="FFC84334">0xE0E0 0x926D</button>
+  <button label="&#61515;" labelSize="25.0" span="4">0xE0E0 0xE21D</button>
+  <button label="&#61517;" labelSize="25.0" span="4">0xE0E0 0x629D</button>
+  <button label="HDMI 1" labelSize="12.0" span="4">0xE0E0 0x9768</button>
+  <button label="HDMI 2" labelSize="12.0" span="4">0xE0E0 0x7D82</button>
+  <button label="HDMI 3" labelSize="12.0" span="4">0xE0E0 0x43BC</button>
+  <space multiple="12" />
+  <button label="INPUT" labelSize="18.0" span="3">0xE0E0 0x807F</button>
+  <button label="INPUT ANTENNA" labelSize="12.0" span="3">0xE0E0 0x6C93</button>
+  <button label="AV1" labelSize="18.0" span="3">0xE0E0 0x21DE</button>
+  <button label="AV2" labelSize="18.0" span="3">0xE0E0 0xD728</button>
+  <button label="COMP1" labelSize="18.0" span="3">0xE0E0 0x619E</button>
+  <button label="COMP2" labelSize="18.0" span="3">0xE0E0 0x11EE</button>
+  <button label="COMP3" labelSize="18.0" span="3">0xE0E0 0xC33C</button>
+  <button label="DTV" labelSize="18.0" span="3">0xE0E0 0xC23D</button>
+  <button label="INPUT GAME" labelSize="12.0" span="3">0xE0E0 0x02FD</button>
+  <button label="INPUT HDMI" labelSize="12.0" span="3">0xE0E0 0xD12E</button>
+  <button label="HDMI4" labelSize="18.0" span="3">0xE0E0 0xA35C</button>
+  <button label="INPUT PC" labelSize="12.0" span="3">0xE0E0 0x9669</button>
+  <button label="S VIDEO 1" labelSize="12.0" span="3">0xE0E0 0xA15E</button>
+  <button label="S VIDEO 2" labelSize="12.0" span="3">0xE0E0 0xB748</button>
+  <button label="S VIDEO 3" labelSize="12.0" span="3">0xE0E0 0xDF20</button>
+  <button label="TV" labelSize="25.0" span="3">0xE0E0 0xD827</button>
+  <button label="VGA2" labelSize="18.0" span="3">0xE0E0 0x1BE4</button>
+  <button label="VIDEO1" labelSize="18.0" span="3">0xE0E0 0x837C</button>
+  <button label="VIDEO2" labelSize="18.0" span="3">0xE0E0 0xB748</button>
+  <button label="VIDEO3" labelSize="18.0" span="3">0xE0E0 0x9F60</button>
+  <button label="DTV1" labelSize="18.0" span="3">0xE0E0 0xFF00</button>
+  <button label="IEEE2" labelSize="18.0" span="3">0xE0E0 0x6798</button>
+  <button label="IEEE3" labelSize="18.0" span="3">0xE0E0 0xE718</button>
+  <button label="3D" labelSize="25.0" span="3">0xE0E0 0xF906</button>
+  <button label="ADD/DEL" labelSize="12.0" span="3">0xE0E0 0x9867</button>
+  <button label="AMAZON" labelSize="14.0" span="3">0xE0E0 0x2FD0</button>
+  <button label="ANALOG/DIGITAL" labelSize="12.0" span="3">0xE0E0 0xE41B</button>
+  <button label="ANYNET" labelSize="16.0" span="3">0xE0E0 0xE916</button>
+  <button label="ASPECT" labelSize="16.0" span="3">0xE0E0 0x7C83</button>
+  <button label="ASPECT 16:9" labelSize="12.0" span="3">0xE0E0 0x27D8</button>
+  <button label="ASPECT 4:3" labelSize="12.0" span="3">0xE0E0 0xC738</button>
+  <button label="ASPECT AUTO" labelSize="12.0" span="3">0xE0E0 0xA758</button>
+  <button label="AUTO PROGRAM" labelSize="12.0" span="3">0xE0E0 0x5CA3</button>
+  <button label="CAMERA" labelSize="12.0" span="3">0xE0E0 0x7887</button>
+  <button label="-/--" labelSize="18.0" span="3">0xE0E0 0xC43B</button>
+  <button label="D-NET" labelSize="18.0" span="3">0xE0E0 0xB14E</button>
+  <button label="DMA" labelSize="18.0" span="3">0xE0E0 0xC639</button>
+  <button label="E MODE" labelSize="16.0" span="3">0xE0E0 0x29D6</button>
+  <button label="FAMILY STORY" labelSize="12.0" span="3">0xE0E0 0x639C</button>
+  <button label="FAV" labelSize="18.0" span="3">0xE0E0 0x22DD</button>
+  <button label="FORMAT 14:9" labelSize="12.0" span="3">0xE0E0 0xEB14</button>
+  <button label="FORMAT PANORAMA" labelSize="10.0" span="3">0xE0E0 0x47B8</button>
+  <button label="FORMAT ZOOM 2" labelSize="12.0" span="3">0xE0E0 0x8778</button>
+  <button label="FREEZE" labelSize="16.0" span="3">0xE0E0 0x42BD</button>
+  <button label="HISTORY" labelSize="12.0" span="3">0xE0E0 0x0BF4</button>
+  <button label="INTERNET" labelSize="12.0" span="3">0xE0E0 0xC936</button>
+  <button label="MEDIA P" labelSize="12.0" span="3">0xE0E0 0x31CE</button>
+  <button label="MOVIE" labelSize="18.0" span="3">0xE0E0 0x7B84</button>
+  <button label="MTS" labelSize="18.0" span="3">0xE0E0 0x00FF</button>
+  <button label="NETFLIX" labelSize="12.0" span="3">0xE0E0 0xCF30</button>
+  <button label="&#1045677;" labelSize="25.0" span="3">0xE0E0 0x728D</button>
+  <button label="OSD" labelSize="18.0" span="3">0xE0E0 0x6A95</button>
+  <button label="P.DYNAMIC" labelSize="12.0" span="3">0xE0E0 0xBD42</button>
+  <button label="P. MODE USER 1" labelSize="12.0" span="3">0xE0E0 0x3BC4</button>
+  <button label="P. MODE USER 2" labelSize="12.0" span="3">0xE0E0 0xDB24</button>
+  <button label="P. MODE USER 3" labelSize="12.0" span="3">0xE0E0 0x5BA4</button>
+  <button label="PICTURE" labelSize="12.0" span="3">0xE0E0 0x14EB</button>
+  <button label="PICTURE CUSTOM" labelSize="12.0" span="3">0xE0E0 0x3DC2</button>
+  <button label="PICTURE MOVIE 2" labelSize="12.0" span="3">0xE0E0 0xBB44</button>
+  <button label="PICTURE STANDARD" labelSize="12.0" span="3">0xE0E0 0xFB04</button>
+  <button label="PIP" labelSize="18.0" span="3">0xE0E0 0x04FB</button>
+  <button label="PIP2" labelSize="18.0" span="3">0xE0E0 0x24DB</button>
+  <button label="PIP CH DOWN" labelSize="12.0" span="3">0xE0E0 0xCC33</button>
+  <button label="PIP CH UP" labelSize="12.0" span="3">0xE0E0 0x4CB3</button>
+  <button label="PIP POSITION" labelSize="12.0" span="3">0xE0E0 0x44BB</button>
+  <button label="PIP SIZE" labelSize="12.0" span="3">0xE0E0 0xF40B</button>
+  <button label="PIP SWAP" labelSize="12.0" span="3">0xE0E0 0x847B</button>
+  <button label="POWER OFF" labelSize="12.0" span="3">0xE0E0 0x19E6</button>
+  <button label="POWER ON" labelSize="12.0" span="3">0xE0E0 0x9966</button>
+  <button label="R SURF" labelSize="18.0" span="3">0xE0E0 0xBC43</button>
+  <button label="RECORD" labelSize="16.0" span="3">0xE0E0 0x926D</button>
+  <button label="S.MODE" labelSize="16.0" span="3">0xE0E0 0xD42B</button>
+  <button label="&#1045688;" labelSize="18.0" span="3">0xE0E0 0x1DE2</button>
+  <button label="SERVICE MENU" labelSize="12.0" span="3">0xE0E0 0xDC23</button>
+  <button label="SET CLOCK" labelSize="12.0" span="3">0xE0E0 0xE11E</button>
+  <button label="SETUP" labelSize="18.0" span="3">0xE0E0 0xB24D</button>
+  <button label="SOCIAL TV" labelSize="12.0" span="3">0xE0E0 0x26D9</button>
+  <button label="SUBTITLE" labelSize="12.0" span="3">0xE0E0 0xA45B</button>
+  <button label="SUPPORT" labelSize="12.0" span="3">0xE0E0 0xFC03</button>
+  <button label="SURROUND" labelSize="12.0" span="3">0xE0E0 0x7689</button>
+  <button label="&#1044816;" labelSize="18.0" span="3">0xE0E0 0xC03F</button>
+  <button label="TXT MIX" labelSize="12.0" span="3">0xE0E0 0x34CB</button>
+  <button label="V-CHIP" labelSize="18.0" span="3">0xE0E0 0xDA25</button>
+  <button label="YAHOO!" labelSize="16.0" span="3">0xE0E0 0xCA35</button>
+ </device>
+</irplus>
