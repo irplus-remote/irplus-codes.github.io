@@ -1,0 +1,37 @@
+<irplus>
+ <device manufacturer="OPTICUM" model="AX SBOX plus" columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+  <button label="&#61457;" labelSize="25.0" span="6" backgroundColor="FFC84334">0x80BF 0x3BC4</button>
+  <button label="&#1045889;" labelSize="25.0" span="6">0x80BF 0xD12E</button>
+  <button label="&#1045518;" labelSize="25.0" span="3">0x80BF 0x936C</button>
+  <button label="USB/ &#61517;" labelSize="18.0" span="3">0x80BF 0x</button>
+  <button label="&#61713;" labelSize="25.0" span="3" labelColor="FFC84334">0x80BF 0x9966</button>
+  <button label="INFO" labelSize="18.0" span="3">0x80BF 0xFB04</button>
+  <button label="FAV" labelSize="18.0" span="4">0x80BF 0xF906</button>
+  <button label="&#61656;" labelSize="25.0" span="4" backgroundColor="FF004242">0x80BF 0x7B84</button>
+  <button label="SAT" labelSize="18.0" span="4">0x80BF 0xD926</button>
+  <button label="&#61657;" labelSize="25.0" span="4" backgroundColor="FF00FF7F">0x80BF 0xDB24</button>
+  <button label="OK" labelSize="18.0" span="4" backgroundColor="FF003F3F">0x80BF 0x5BA4</button>
+  <button label="&#61658;" labelSize="25.0" span="4" backgroundColor="FF00FF7C">0x80BF 0x1BE4</button>
+  <button label="MENU" labelSize="18.0" span="4">0x80BF 0x2BD4</button>
+  <button label="&#61655;" labelSize="25.0" span="4" backgroundColor="FF004242">0x80BF 0x6B94</button>
+  <button label="EXIT" labelSize="18.0" span="4">0x80BF 0xEB14</button>
+  <button label="SUBTITLE" labelSize="18.0" span="4">0x80BF 0xB946</button>
+  <button label="RECALL" labelSize="18.0" span="4">0x80BF 0xC13E</button>
+  <button label="PAGE +" labelSize="18.0" span="4">0x80BF 0x0BF4</button>
+  <button label="TXT" labelSize="18.0" span="4">0x80BF 0xBB44</button>
+  <button label="AUDIO" labelSize="18.0" span="4">0x80BF 0x738C</button>
+  <button label="PAGE -" labelSize="18.0" span="4">0x80BF 0x33CC</button>
+  <button label="1" labelSize="25.0" span="4">0x80BF 0x718E</button>
+  <button label="2" labelSize="25.0" span="4">0x80BF 0x619E</button>
+  <button label="3" labelSize="25.0" span="4">0x80BF 0xFF10E</button>
+  <button label="4" labelSize="25.0" span="4">0x80BF 0x49B6</button>
+  <button label="5" labelSize="25.0" span="4">0x80BF 0xFE11E</button>
+  <button label="6" labelSize="25.0" span="4">0x80BF 0xC936</button>
+  <button label="7" labelSize="25.0" span="4">0x80BF 0x6996</button>
+  <button label="8" labelSize="25.0" span="4">0x80BF 0x41BE</button>
+  <button label="9" labelSize="25.0" span="4">0x80BF 0xE916</button>
+  <button label="EPG" labelSize="18.0" span="4">0x80BF 0xFB04</button>
+  <button label="0" labelSize="25.0" span="4">0x80BF 0x59A6</button>
+  <button label="TV/RADIO" labelSize="18.0" span="4">0x80BF 0x916E</button>
+ </device>
+</irplus>
