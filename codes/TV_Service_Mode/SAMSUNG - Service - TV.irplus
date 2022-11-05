@@ -1,0 +1,28 @@
+<irplus>
+ <device manufacturer="" model="SAMSUNG - Service - TV" columns="12" format="WINLIRC_NECx1" one-pulse="569" one-space="1654" zero-pulse="569" zero-space="558" header-pulse="4494" header-space="4531" bits="16" pre-bits="16">
+  <button label="" labelSize="12.0" span="3" backgroundColor="FF000000"> </button>
+  <button label="&#61457;" labelSize="35.0" span="6" backgroundColor="FFC64433">0xE0E0 0x40BF</button>
+  <button label="" labelSize="12.0" span="3" backgroundColor="FF000000"> </button>
+  <button label="Factory" labelSize="25.0" span="6">0xE0E0 0xDC23</button>
+  <button label="3 Spred" labelSize="25.0" span="6">0xE0E0 0x3CC3</button>
+  <button label="Info + Factory  + 3Speed" labelSize="18.0" span="12" backgroundColor="FF000000"> </button>
+  <button label="INFO" labelSize="25.0" span="4">0xE0E0 0xF807</button>
+  <button label="MENU" labelSize="25.0" span="4">0xE0E0 0x58A7</button>
+  <button label="&#1045889;" labelSize="25.0" span="4">0xE0E0 0xF00F</button>
+  <button label="Info + Menu + Mute+ Power " labelSize="18.0" span="12" backgroundColor="FF000000"> </button>
+  <button label="1" labelSize="25.0" span="4">0xE0E0 0x20DF</button>
+  <button label="8" labelSize="25.0" span="4">0xE0E0 0xB04F</button>
+  <button label="2" labelSize="25.0" span="4">0xE0E0 0xA05F</button>
+  <button label="Mute + 1 + 8 + 2 + Power " labelSize="18.0" span="12" backgroundColor="FF000000"> </button>
+  <button label="" labelSize="12.0" span="4"> </button>
+  <button label="&#61656;" labelSize="50.0" span="4" backgroundColor="FF686868">0xE0E0 0x06F9</button>
+  <button label="Digital Tuner &#10;Menu" labelSize="12.0" span="4">0xE0E0 0x718E</button>
+  <button label="&#61657;" labelSize="50.0" span="4" backgroundColor="FF686868">0xE0E0 0xA659</button>
+  <button label="&#1046029;" labelSize="50.0" span="4" backgroundColor="FF686868">0xE0E0 0x16E9</button>
+  <button label="&#61658;" labelSize="50.0" span="4" backgroundColor="FF686868">0xE0E0 0x46B9</button>
+  <button label="&#1044557;" labelSize="18.0" span="4">0xE0E0 0x1AE5</button>
+  <button label="&#61655;" labelSize="50.0" span="4" backgroundColor="FF686868">0xE0E0 0x8679</button>
+  <button label="Exit" labelSize="25.0" span="4">0xE0E0 0xB44B</button>
+  <button label="" labelSize="12.0" span="12" backgroundColor="FF000000"> </button>
+ </device>
+</irplus>
