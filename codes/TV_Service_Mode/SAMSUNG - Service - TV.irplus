@@ -1,5 +1,5 @@
 <irplus>
- <device manufacturer="" model="SAMSUNG - Service - TV" columns="12" format="WINLIRC_NECx1" one-pulse="569" one-space="1654" zero-pulse="569" zero-space="558" header-pulse="4494" header-space="4531" bits="16" pre-bits="16">
+ <device manufacturer="" model="SAMSUNG - Service - TV" columns="12" format="WINLIRC_SPACEENC" one-pulse="628" one-space="1691" zero-pulse="628" zero-space="523" header-pulse="4523" header-space="4517" gap-space="460537" gap-pulse="629" bits="16" pre-bits="16" repeat="2">
   <button label="" labelSize="12.0" span="3" backgroundColor="FF000000"> </button>
   <button label="&#61457;" labelSize="35.0" span="6" backgroundColor="FFC64433">0xE0E0 0x40BF</button>
   <button label="" labelSize="12.0" span="3" backgroundColor="FF000000"> </button>
