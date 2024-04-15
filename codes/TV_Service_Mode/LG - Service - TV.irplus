@@ -1,0 +1,32 @@
+<irplus>
+ <device manufacturer="" model="LG - Service - TV" columns="12" format="WINLIRC_NEC1" rowSplit="8">
+  <button label="&#61457;" labelSize="25.0" span="6" backgroundColor="FFC84334">0x20DF 0x10EF</button>
+  <button label="SETTING " labelSize="25.0" span="6" backgroundColor="FF0040FF">0x20DF 0xC23D</button>
+  <button label="Factory Mode" labelSize="25.0" span="4">0x20DF 0xBF40</button>
+  <button label="EZ-Adj" labelSize="25.0" span="4">0x20DF 0xFF00</button>
+  <button label="IN-Start" labelSize="25.0" span="4">0x20DF 0xDF20</button>
+  <button label="Passw: 0413" labelSize="20.0" span="12" backgroundColor="FF000000"> </button>
+  <button label="&#1045889;" labelSize="25.0" span="4">0x20DF 0x906F</button>
+  <button label="&#61656;" labelSize="50.0" span="4" backgroundColor="FF696969">0x20DF 0x02FD</button>
+  <button label="INPUT" labelSize="25.0" span="4">0x20DF 0xD02F</button>
+  <button label="&#61657;" labelSize="25.0" span="4" backgroundColor="FF696969">0x20DF 0xE01F</button>
+  <button label="OK" labelSize="50.0" span="4" backgroundColor="FF696969">0x20DF 0x22DD</button>
+  <button label="&#61658;" labelSize="25.0" span="4" backgroundColor="FF696969">0x20DF 0x609F</button>
+  <button label="&#1044557;" labelSize="25.0" span="4">0x20DF 0x14EB</button>
+  <button label="&#61655;" labelSize="50.0" span="4" backgroundColor="FF696969">0x20DF 0x827D</button>
+  <button label="EXIT" labelSize="25.0" span="4">0x20DF 0xDA25</button>
+  <button label="" labelSize="12.0" span="12" backgroundColor="FF000000"> </button>
+  <button label="1" labelSize="25.0" span="4">0x20DF 0x8877</button>
+  <button label="2" labelSize="25.0" span="4">0x20DF 0x48B7</button>
+  <button label="3" labelSize="25.0" span="4">0x20DF 0xC837</button>
+  <button label="4" labelSize="25.0" span="4">0x20DF 0x28D7</button>
+  <button label="5" labelSize="25.0" span="4">0x20DF 0xA857</button>
+  <button label="6" labelSize="25.0" span="4">0x20DF 0x6897</button>
+  <button label="7" labelSize="25.0" span="4">0x20DF 0xE817</button>
+  <button label="8" labelSize="25.0" span="4">0x20DF 0x18E7</button>
+  <button label="9" labelSize="25.0" span="4">0x20DF 0x9867</button>
+  <button label="" labelSize="12.0" span="4"> </button>
+  <button label="0" labelSize="25.0" span="4">0x20DF 0x08F7</button>
+  <button label="" labelSize="12.0" span="4"> </button>
+ </device>
+</irplus>
