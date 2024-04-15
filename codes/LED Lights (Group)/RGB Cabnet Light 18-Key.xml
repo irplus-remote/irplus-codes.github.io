@@ -1,0 +1,25 @@
+<irplus>
+ <device manufacturer="LED Lights" model="RGB Cabinet Light 18-Key" columns="3" format="WINLIRC_NEC1">
+  <button label="ON" labelSize="25.0" backgroundColor="FF007C00">0x00FF 0xA25D</button>
+  <space multiple="1" />
+  <button label="OFF" labelSize="25.0" backgroundColor="FFD80000">0x00FF 0xE21D</button>
+  <button label="&#61656;" labelSize="30.0" labelColor="FF000000" backgroundColor="FFDBDBDB">0x00FF 0x22DD</button>
+  <button label="&#1044569;" labelSize="30.0" labelColor="FF000093" backgroundColor="FFDBDBDB">0x00FF 0x02FD</button>
+  <button label="&#61655;" labelSize="30.0" labelColor="FF000000" backgroundColor="FFDBDBDB">0x00FF 0xC23D</button>
+  <button label="R" labelSize="25.0" labelColor="FFFF0000" backgroundColor="FFDBDBDB">0x00FF 0xE01F</button>
+  <button label="&#1044727;" labelSize="25.0" labelColor="FFFF0000" backgroundColor="FFDBDBDB">0x00FF 0xA857</button>
+  <button label="G" labelSize="25.0" labelColor="FF00BC00" backgroundColor="FFD8D8D8">0x00FF 0x906F</button>
+  <space multiple="1" />
+  <button label="&#1046279;" labelSize="30.0" labelColor="FF383866" backgroundColor="FFCECECE">0x00FF 0x9867</button>
+  <space multiple="1" />
+  <button label="B" labelSize="25.0" labelColor="FF0000FF" backgroundColor="FFDBDBDB">0x00FF 0x30CF</button>
+  <button label="&#1044730;" labelSize="25.0" labelColor="FFFF0000" backgroundColor="FFDBDBDB">0x00FF 0x18E7</button>
+  <button label="W" labelSize="25.0" labelColor="FF000000" backgroundColor="FFDBDBDB">0x00FF 0x7A85</button>
+  <button label="&#1044702;" labelSize="30.0" labelColor="FF000000" backgroundColor="FFDBDBDB">0x00FF 0x10EF</button>
+  <button label="&#1044703;" labelSize="30.0" labelColor="FF000000" backgroundColor="FFDBDBDB">0x00FF 0x38C7</button>
+  <button label="&#1044704;" labelSize="30.0" labelColor="FF000000" backgroundColor="FFDBDBDB">0x00FF 0x5AA5</button>
+  <button label="1/2H" labelSize="25.0" labelColor="FF000000" backgroundColor="FFDBDBDB">0x00FF 0x42BD</button>
+  <button label="1H" labelSize="25.0" labelColor="FF000000" backgroundColor="FFDBDBDB">0x00FF 0x4AB5</button>
+  <button label="3H" labelSize="25.0" labelColor="FF000000" backgroundColor="FFDBDBDB">0x00FF 0x52AD</button>
+ </device>
+</irplus>
