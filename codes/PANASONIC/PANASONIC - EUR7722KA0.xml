@@ -1,0 +1,58 @@
+<irplus>
+ <device manufacturer="PANASONIC" model="EUR7722KA0" columns="12" format="WINLIRC_SPACEENC" one-pulse="488" one-space="1256" zero-pulse="488" zero-space="387" header-pulse="3527" header-space="1711" gap-space="74267" gap-pulse="486" bits="32" pre-bits="16">
+  <button label="&#61457;" labelSize="25.0" span="3" backgroundColor="FFC84334">0x4004 0x0550BCE9</button>
+  <button label="TV" labelSize="25.0" span="3" labelColor="FFC84334">0x4004 0x0500F9FC</button>
+  <button label="VCR" labelSize="18.0" span="3" labelColor="FFC84334">0x4004 0x0500797C</button>
+  <button label="DVD" labelSize="18.0" span="3" labelColor="FFC84334">0x4004 0x0500C5C0</button>
+  <button label="MD" labelSize="25.0" span="3" labelColor="FFC84334">0x4004 0x0500C9CC</button>
+  <button label="TUNER-BAND" labelSize="12.0" span="3" labelColor="FFC84334">0x4004 0x0500494C</button>
+  <button label="TAPE" labelSize="18.0" span="3" labelColor="FFC84334">0x4004 0x0500696C</button>
+  <button label="CD" labelSize="25.0" span="3" labelColor="FFC84334">0x4004 0x0500292C</button>
+  <button label="1" labelSize="25.0" span="3">0x4004 0x0550085D</button>
+  <button label="2" labelSize="25.0" span="3">0x4004 0x055088DD</button>
+  <button label="3" labelSize="25.0" span="3">0x4004 0x0550481D</button>
+  <space multiple="3" />
+  <button label="4" labelSize="25.0" span="3">0x4004 0x05502570</button>
+  <button label="5" labelSize="25.0" span="3">0x4004 0x0550C89D</button>
+  <button label="6" labelSize="25.0" span="3">0x4004 0x0550287D</button>
+  <button label="+10" labelSize="18.0" span="3">0x4004 0x05502174</button>
+  <button label="7" labelSize="25.0" span="3">0x4004 0x0550683D</button>
+  <button label="8" labelSize="25.0" span="3">0x4004 0x0550E8BD</button>
+  <button label="9" labelSize="25.0" span="3">0x4004 0x0550184D</button>
+  <button label="0" labelSize="25.0" span="3">0x4004 0x055098CD</button>
+  <button label="TOPMENU" labelSize="12.0" span="4">0x4004 0x0D00D9D4</button>
+  <button label="&#61656;" labelSize="25.0" span="4">0x4004 0x0D00A1AC</button>
+  <button label="MENU" labelSize="18.0" span="4">0x4004 0x0D00010C</button>
+  <button label="&#61657;" labelSize="25.0" span="4">0x4004 0x0D00E1EC</button>
+  <button label="ENTER" labelSize="18.0" span="4">0x4004 0x0D00414C</button>
+  <button label="&#61658;" labelSize="25.0" span="4">0x4004 0x0D00111C</button>
+  <button label="DISPLAY" labelSize="12.0" span="4">0x4004 0x0D004944</button>
+  <button label="&#61655;" labelSize="25.0" span="4">0x4004 0x0D00616C</button>
+  <button label="RETURN" labelSize="18.0" span="4">0x4004 0x0D00818C</button>
+  <button label="&#61513;/&#61514;" labelSize="18.0" span="3" labelColor="FFD6A81F">0x4004 0x055092C7</button>
+  <button label="&#61518;/&#61520;" labelSize="18.0" span="3" labelColor="FFD6A81F">0x4004 0x05505207</button>
+  <button label="&#61517;" labelSize="25.0" span="3" labelColor="FFD6A81F">0x4004 0x05500055</button>
+  <button label="&#61515;" labelSize="25.0" span="3" labelColor="FFD6A81F">0x4004 0x05505005</button>
+  <button label="TV VOL-" labelSize="18.0" span="6" labelColor="FFD6A81F">0x4004 0x01008485</button>
+  <button label="TV VOL+" labelSize="18.0" span="6" labelColor="FFD6A81F">0x4004 0x01000405</button>
+  <button label="HELP" labelSize="18.0" span="3">0x4004 0x05009C99</button>
+  <button label="DIMMER" labelSize="18.0" span="3">0x4004 0x0528E9C4</button>
+  <button label="TV/VIDEO" labelSize="14.0" span="3">0x4004 0x0100A0A1</button>
+  <button label="DVD/HDD" labelSize="14.0" span="3">0x4004 0x0D003439</button>
+  <button label="BALANCE" labelSize="14.0" span="3">0x4004 0x05006461</button>
+  <button label="SLEEP" labelSize="18.0" span="3">0x4004 0x0520694C</button>
+  <button label="-/L" labelSize="18.0" span="3">0x4004 0x0528BD90</button>
+  <button label="+/R" labelSize="18.0" span="3">0x4004 0x05283D10</button>
+  <button label="BASS" labelSize="18.0" span="3">0x4004 0x05004441</button>
+  <button label="TREBLE" labelSize="18.0" span="3">0x4004 0x05002421</button>
+  <button label="LEVEL" labelSize="18.0" span="3">0x4004 0x05287D50</button>
+  <button label="EFFECT" labelSize="18.0" span="3">0x4004 0x0528FDD0</button>
+  <button label="2CH/OFF" labelSize="16.0" span="3">0x4004 0x05287558</button>
+  <button label="PL2" labelSize="18.0" span="3">0x4004 0x05284D60</button>
+  <button label="SFC" labelSize="18.0" span="3">0x4004 0x05288CA1</button>
+  <button label="TEST" labelSize="18.0" span="3">0x4004 0x05286F42</button>
+  <button label="VOL-" labelSize="18.0" span="4">0x4004 0x05008481</button>
+  <button label="VOL+" labelSize="18.0" span="4">0x4004 0x05000401</button>
+  <button label="MUTING" labelSize="18.0" span="4">0x4004 0x05004C49</button>
+ </device>
+</irplus>
