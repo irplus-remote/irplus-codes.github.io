@@ -1,0 +1,17 @@
+<irplus>
+<device manufacturer="AUDIOLAB" model="M-DAC" columns="12" format="WINLIRC_SPACEENC" toggle-bit-pos="0" one-pulse="574" one-space="1661" zero-pulse="574" zero-space="544" header-pulse="8992" header-space="4468" gap-space="107563" gap-pulse="569" bits="16" pre-bits="16">
+<button label="&#61515;" labelSize="32.0" span="6">0x4FB 0x906F</button>
+<button label="&#61517;" labelSize="32.0" span="6">0x4FB 0xB04F</button>
+<button label="&#1045678;" labelSize="32.0" span="6">0x4FB 0x02FD</button>
+<button label="&#1045677;" labelSize="32.0" span="6">0x4FB 0xE817</button>
+<button label="&#1046366;" labelSize="64.0" span="12" backgroundColor="FFBF4242">0x4FB 0x08F7</button>
+<button label="CHAN-" labelSize="25.0" span="6">0x4FB 0xD827</button>
+<button label="CHAN+" labelSize="25.0" span="6">0x4FB 0x32CD</button>
+<button label="&#1045888;" labelSize="25.0" span="6">0x4FB 0x8877</button>
+<button label="&#1045886;" labelSize="25.0" span="6">0x4FB 0x00FF</button>
+<button label="&#61657;" labelSize="32.0" span="6">0x4FB 0x12ED</button>
+<button label="&#61658;" labelSize="32.0" span="6">0x4FB 0x48B7</button>
+<button label="MENU" labelSize="25.0" span="6">0x4FB 0x6897</button>
+<button label="FILTER" labelSize="25.0" span="6">0x4FB 0x20DF</button>
+</device>
+</irplus>
