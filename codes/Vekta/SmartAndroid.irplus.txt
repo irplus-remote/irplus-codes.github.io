@@ -1,0 +1,15 @@
+<irplus>
+<device manufacturer="Vekta" model="SmartAndroid" columns="30" format="WINLIRC_NEC1" one-pulse="585" one-space="1662" zero-pulse="585" zero-space="538" header-pulse="9024" header-space="4462" bits="16" pre-bits="16">
+  <button label="&#61457;" labelSize="25.0" span="10" backgroundColor="FFC84334">0x05FA 0xFA05</button>
+  <button label="&#61656;" labelSize="25.0" span="10">0x05FA 0x9A65</button>
+  <button label="VOL+" labelSize="18.0" span="10">0x05FA 0x02FD</button>
+  <button label="&#61657;" labelSize="25.0" span="10">0x05FA 0x6A95</button>
+  <button label="OK" labelSize="25.0" span="10">0x05FA 0xAA55</button>
+  <button label="&#61658;" labelSize="25.0" span="10">0x05FA 0x28D7</button>
+  <button label="BACK" labelSize="18.0" span="10">0x05FA 0x08F7</button>
+  <button label="&#61655;" labelSize="25.0" span="10">0x05FA 0x8A75</button>
+  <button label="VOL-" labelSize="18.0" span="10">0x05FA 0xBA45</button>
+  <button label="MENU" labelSize="18.0" span="10">0x05FA 0xC837</button>
+  <button label="MOUSE" labelSize="18.0" span="15">0x05FA 0xA25D</button>
+</device>
+</irplus>
