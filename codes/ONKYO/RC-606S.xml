@@ -1,0 +1,49 @@
+<irplus>
+ <device manufacturer="ONKYO" model="RC-606S" columns="12" format="WINLIRC_SPACEENC" toggle-bit-pos="0" one-pulse="589" one-space="1607" zero-pulse="589" zero-space="497" header-pulse="9036" header-space="4417" gap-space="108433" gap-pulse="584" bits="24" pre-bits="8">
+  <button label="&#61457; ON" labelSize="18.0" span="4" backgroundColor="FFD89900">0x4B 0xB620DF</button>
+  <button label="&#61457; OFF" labelSize="18.0" span="4" backgroundColor="FFD39905">0x4B 0x36E21D</button>
+  <button label="SLEEP" labelSize="18.0" span="4">0x4B 0xB6BA45</button>
+  <button label="V1" labelSize="18.0" span="4">0x4B 0xB6F00F</button>
+  <button label="V2" labelSize="18.0" span="4">0x4B 0xB6708F</button>
+  <button label="V3" labelSize="18.0" span="4">0x4B 0xB6B04F</button>
+  <button label="MULTI CH" labelSize="18.0" span="4">0x4B 0x3620DF</button>
+  <button label="DVD" labelSize="18.0" span="4">0x4B 0x3631CE</button>
+  <button label="TAPE" labelSize="18.0" span="4">0x4B 0xB610EF</button>
+  <button label="TUNER" labelSize="18.0" span="4">0x4B 0xB6D02F</button>
+  <button label="CD" labelSize="18.0" span="4">0x4B 0xB6906F</button>
+  <button label="DIMMER" labelSize="18.0" span="4">0x4B 0xB6A956</button>
+  <button label="+ CH" labelSize="18.0" span="6">0x4B 0xB600FF</button>
+  <button label="&#1046364;" labelSize="18.0" span="6">0x4B 0xB640BF</button>
+  <button label="- CH" labelSize="18.0" span="6">0x4B 0xB6807F</button>
+  <button label="&#1046365;" labelSize="18.0" span="6">0x4B 0xB6C03F</button>
+  <button label="SP A/B" labelSize="18.0" span="4">0x4B 0x3611EE</button>
+  <button label="&#61656;" labelSize="25.0" span="4">0x4B 0xB641BE</button>
+  <button label="&#1045889;" labelSize="18.0" span="4">0x4B 0xB6A05F</button>
+  <button label="&#61657;" labelSize="25.0" span="4">0x4B 0xB621DE</button>
+  <button label="ENTER" labelSize="18.0" span="4">0x4B 0xB6E916</button>
+  <button label="&#61658;" labelSize="25.0" span="4">0x4B 0xB6A15E</button>
+  <button label="RETURN" labelSize="18.0" span="4">0x4B 0x362AD5</button>
+  <button label="&#61655;" labelSize="25.0" span="4">0x4B 0xB6C13E</button>
+  <button label="SETUP" labelSize="18.0" span="4">0x4B 0x36CA35</button>
+  <button label="&#61516;" labelSize="25.0" span="4">0x4B 0xB66897</button>
+  <button label="&#61515;" labelSize="25.0" span="4">0x4B 0xB6A857</button>
+  <button label="&#61517;" labelSize="25.0" span="4">0x4B 0xB6C837</button>
+  <button label="&#1044797;" labelSize="25.0" span="3">0x4B 0xB658A7</button>
+  <button label="&#1044798;" labelSize="25.0" span="3">0x4B 0xB69867</button>
+  <button label="&#1045675;" labelSize="25.0" span="3">0x4B 0xB6C936</button>
+  <button label="&#1045676;" labelSize="25.0" span="3">0x4B 0xB629D6</button>
+  <button label="LISTENING MODE" labelSize="11.0" span="12" backgroundColor="FF000000"> </button>
+  <button label="STEREO" labelSize="11.0" span="3">0x4B 0x3632CD</button>
+  <button label="SURROUND" labelSize="11.0" span="3">0x4B 0x36B24D</button>
+  <button label="&#1044558;" labelSize="11.0" span="3">0x4B 0x36A25D</button>
+  <button label="&#1044565;" labelSize="11.0" span="3">0x4B 0xB632CD</button>
+  <button label="TEST TONE" labelSize="11.0" span="3">0x4B 0xB659A6</button>
+  <button label="CH SEL" labelSize="11.0" span="3">0x4B 0x3622DD</button>
+  <button label="LEVEL-" labelSize="11.0" span="3">0x4B 0x36C23D</button>
+  <button label="LEVEL+" labelSize="11.0" span="3">0x4B 0x3642BD</button>
+  <button label="DISPLAY" labelSize="11.0" span="3">0x4B 0x36AA55</button>
+  <button label="OR-EQ" labelSize="11.0" span="3">0x4B 0x35FB04</button>
+  <button label="L NIGHT" labelSize="12.0" span="3">0x4B 0x36EB14</button>
+  <button label="CINE FILTER" labelSize="11.0" span="3">0x4B 0x366B94</button>
+ </device>
+</irplus>
